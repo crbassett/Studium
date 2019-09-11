@@ -1,0 +1,27 @@
+---
+layout: page
+title: Authors
+---
+<h1>Authors</h1>
+
+<div class="lead mb-3">Studium has translated original material from a variety of authors who originally published in Latin or German. In many cases, contributors have prepared brief biographies of the most prominent authors in our catalog.</div>
+
+<p>The complete list of original authors is below. Click any author's card to visit a page with biographical details and a list of all works from that author.<p>
+
+<div class="row my-5">
+	{% for person in site.ogauthors %}
+	{% assign filtered_translations = site.translations | where: 'author', person.shortname %}
+    {% assign biographies = site.bios | where: 'about', person.shortname %}
+	<div class="col-sm-4 mb-4">	
+		<div class="card">
+			<div class="card-body">
+    		<a href="{{ person.url }}" class="text-dark stretched-link">{{ person.firstname}} <strong>{{ person.lastname }}</strong></a> {% for node in biographies %}<span class="text-muted float-right"><i class="fas fa-user-circle"></i></span>{% endfor %}
+		    <br><small class="text-muted">{{ person.born }}–{{ person.died }}</small>
+		    </div>
+		</div>
+	</div>
+	{% endfor %}
+</div>
+</div>
+</div>
+

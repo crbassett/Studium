@@ -1,0 +1,17 @@
+---
+layout: page
+title: Contributors
+---
+<h1>Contributors</h1>
+
+<div class="lead mb-3">Studium has benefitted from the contributions of numerous individuals over the years. Contributors submit translations, biographies, and provide editorial and proofreading assistance as well.</div>
+
+<p>The complete list of contributors is below. Click any contributor's name to visit a page with biographical details and a list of all translations from that author.</p>
+
+
+<div class="list-group-flush w-50">
+  {% for person in site.contributors %}
+    <a class="list-group-item list-group-item-action" href="{{ person.url }}">{{ person.firstname }} <strong>{{ person.lastname}}</strong></a>
+    </li>
+  {% endfor %}
+</div>

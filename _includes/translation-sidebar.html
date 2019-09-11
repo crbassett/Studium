@@ -1,0 +1,27 @@
+<!-- Sidebar -->
+	<div class="col-lg-4">
+		<div class="card">
+		  	<ul class="list-group list-group-flush">
+			  	<li class="list-group-item">
+	  				<h5>Author</h5>
+  					<strong>{{ page.author }}</strong>
+					<p>Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum nulla sed consectetur. Nulla vitae elit libero, a pharetra augue. 
+				</li>
+				<li class="list-group-item">
+					<h5>Source</h5>
+					<strong>Lehre und Wehre</strong>
+					<p>Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eget metus. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+					<span class="badge badge-dark">{{ page.language }}</span>
+				</li>
+				<li class="list-group-item">
+					{% assign translator = site.data.contributors[page.translator] %}
+    				<h5>Translator</h5>
+    				<strong>{{ translator.name }}</strong>
+    				<p>{{ translator.bio }}
+				</li>
+			</ul>
+  			<div class="card-footer">
+			      <small class="text-muted">Published <span class="post-date">{{ page.date | date_to_string }}</span></small>
+    		</div>
+		</div>
+	</div>

@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<div class="container">
+	<div class="row my-3 py-3">
+		<div class="col col-lg-10 mx-auto">
+			<h1>{{ page.firstname }} {{ page.lastname}}</h1>
+
+<div class="lead">{{ content }} <!-- in this case the translator's short bio --></div>
+
+<div class="row my-5">
+<div class="card-columns">
+{% assign filtered_translations = site.translations | where: 'translator', page.shortname %}
+{% for node in filtered_translations %}
+<div class="card">
+      <div class="card-body">
+        <h3 class="card-title">{{ node.title }}</h3>
+        {% assign authors = site.ogauthors | where: 'shortname', node.author %}
+					{% for author in authors %}
+						<p class="text-secondary">by {{ author.firstname }} {{ author.lastname }}</p>
+					{% endfor %}
+        <p class="card-text">{{ node.brief }}</p>
+        <a href="{{ node.url }}" class="btn btn-outline-primary stretched-link">Read</a>
+      </div>
+</div>
+{% endfor %}
+</div>
+</div>
+
+
+
+
+		</div>
+	</div>
+</div>
+

@@ -1,0 +1,14 @@
+---
+layout: page
+title: Translations
+---
+<h1>Translations</h1>
+
+<ul class="list-unstyled">
+  {% for node in site.translations %}
+    <li>
+      <strong>{{ node.title }}</strong>
+      <p><a href="{{ node.url }}">{{ node.firstname }} page</a>
+    </li>
+  {% endfor %}
+</ul>

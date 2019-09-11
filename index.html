@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<div class="container">
+<div class="row border-bottom py-5">
+	<div class="col col-lg-10 mt-3 mb-5 mx-auto">
+		<h1>Studium is the journal of confessional language studies at Martin Luther College and beyond.</h1>
+		<div class="lead pb-3">Studium fosters the study of the confessional languages at Martin Luther College and in Wisconsin Evangelical Lutheran Synod by publishing original, English translations of historic Latin and German resources drawn from the Lutheran  tradition in both Europe and the United States.</div>
+		<span class="btn btn-lg btn-primary">Website Guide</span>
+	</div>
+</div>
+
+<!-- Card Columns -->
+
+<div class="row py-5">
+	<div class="col col-lg-12 mx-auto">
+		<h1 class="pb-3 text-center">Recent Publications</h1>
+		<p class="text-center mb-5">Here are the three latest publications from the journal. Click one to read, or check the full list.</p>
+		<div class="card-deck">
+			{% for node in site.translations limit:3 %}
+			<div class="card">
+      			<div class="card-body">
+        			<h3 class="card-title">{{ node.title }}</h3>
+			    	{% assign authors = site.ogauthors | where: 'shortname', node.author %}
+					{% for author in authors %}
+						by {{ author.firstname }} {{ author.lastname }}
+					{% endfor %}
+        			{% if node.brief != null %}<p class="card-text my-3">{{ node.brief }}</p>{% endif %}
+			        <a href="{{ node.url }}" class="btn btn-outline-primary stretched-link">Read</a>
+      			</div>
+			</div>
+			{% endfor %}
+		</div>
+	</div>
+</div>
+</div>

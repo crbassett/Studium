@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="container my-3 py-3">
+	<div class="row">
+		<div class="col-lg-10 ml-auto mb-5">
+			<h1 class="translation-title">{{ page.title }}</h1>
+			<div class="author-byline">
+				{% assign authors = site.ogauthors | where: 'shortname', page.author %}
+				{% for author in authors %}
+					by {{ author.firstname }} {{ author.lastname }} <a href="{{ author.url }}"><small><i class="fas fa-info-circle"></i></a></small>
+				{% endfor %}
+			</div>
+			<div class="text-muted contributor-byline">
+				{% assign translators = site.contributors | where: 'shortname', page.translator %}
+				{% for person in translators %}
+					translated by {{ person.firstname }} {{ person.lastname }}
+				{% endfor %}
+			</div> 
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-lg-2">
+			<p>{{ page.date | date_to_string }}
+			<p><span class="badge badge-primary">German</span>
+		</div>
+	<div class="col-lg-10 mr-auto">
+		{{ content }}
+	</div>
+	</div>
+</div>
