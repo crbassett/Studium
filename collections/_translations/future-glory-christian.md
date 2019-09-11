@@ -7,7 +7,7 @@ issue: 5
 brief: 
 ---
 
-The following selection is from the August 1, 1916 issue of the <em>Gemeindeblatt</em>, and thus the preface for the preceding translation, [“Jesus is the Door to the Kingdom of Heaven,”]({% post_url jesus-door-kingdom-heaven %}) suffices greatly for this selection as well. If you have not yet read it, it may be beneficial to glance at it before reading the following devotion.
+The following selection is from the August 1, 1916 issue of the <em>Gemeindeblatt</em>, and thus the preface for the preceding translation, “Jesus is the Door to the Kingdom of Heaven,” suffices greatly for this selection as well. If you have not yet read it, it may be beneficial to glance at it before reading the following devotion.
 
 ---
 
