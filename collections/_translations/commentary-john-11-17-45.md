@@ -1,7 +1,7 @@
 ---
 title: Commentary on John 11:17-45
 author: starke
-translator: Foxen
+translator: foxen
 language: German
 issue: 5
 brief: An account of the true comfort to be found in the hour of death.
