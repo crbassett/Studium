@@ -7,7 +7,7 @@ layout: default
 		<div class="col col-lg-10 mx-auto">
 	
 
-{% assign authors = site.ogauthors | where: 'shortname', page.about %}
+{% assign authors = site.authors | where: 'shortname', page.about %}
 
 <h1>{{ page.title }}&ensp;<span class="text-muted">{% for subject in authors %}{{ subject.born }}{% endfor %}–{% for subject in authors %}{{ subject.died }}{% endfor %}</span></h1>
 <div class="text-muted contributor-byline mb-5">

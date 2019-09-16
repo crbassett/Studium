@@ -9,7 +9,7 @@ title: Authors
 <p>The complete list of original authors is below. Click any author's card to visit a page with biographical details and a list of all works from that author.<p>
 
 <div class="row my-5">
-	{% for person in site.ogauthors %}
+	{% for person in site.authors %}
 	{% assign filtered_translations = site.translations | where: 'author', person.shortname %}
     {% assign biographies = site.bios | where: 'about', person.shortname %}
 	<div class="col-sm-4 mb-4">	

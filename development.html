@@ -1,0 +1,54 @@
+---
+layout: page
+title: Development
+---
+
+<h1>{{ page.title }}</h1>
+
+<p class="lead">The Studium website is built with Jekyll, a static site generator, and relies on <code>key|value</code> pairs to form relationships between authors, translators, and the content itself. To aid in development the site's <code>key|value</code> pairs are documented here.</p>
+
+<h2><code>contributors</code></h2>
+
+<p>The <code>contributors</code> collection manages the list of translators, editors, and writers whose work is published in Studium.
+
+<table class="table table-sm table-hover">
+  <thead>
+    <tr>
+      <th scope="col">Key <code>shortname</code></th>
+      <th scope="col">Value <code>firstname</code></th>
+      <th scope="col">Value <code>lastname</code></th>
+	</tr>
+  </thead>
+  <tbody>
+	{% for item in site.contributors %}
+    <tr>
+      <td><code>{{ item.shortname }}</code></td>
+      <td>{{ item.firstname }}</td>
+      <td>{{ item.lastname }}</td>
+    </tr>
+	{% endfor %}
+  </tbody>
+</table>
+
+<h2><code>authors</code></h2>
+
+<p>The <code>authors</code> collection manages the list of original authors whose work has been translated in Studium publications.
+
+<table class="table table-sm table-hover">
+  <thead>
+    <tr>
+      <th scope="col">Key <code>shortname</code></th>
+      <th scope="col">Value <code>firstname</code></th>
+      <th scope="col">Value <code>lastname</code></th>
+	</tr>
+  </thead>
+  <tbody>
+	{% for item in site.authors %}
+    <tr>
+      <td><code>{{ item.shortname }}</code></td>
+      <td>{{ item.firstname }}</td>
+      <td>{{ item.lastname }}</td>
+    </tr>
+	{% endfor %}
+  </tbody>
+</table>

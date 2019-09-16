@@ -24,6 +24,9 @@ url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://
 
 collections_dir: collections
 collections:
+  authors:
+    output: true
+    permalink: /author/:name
   translations:
     output: true
     permalink: /translation/:name
@@ -47,9 +50,9 @@ defaults:
       layout: "translation"
   - scope:
       path: ""
-      type: "ogauthors"
+      type: "authors"
     values:
-      layout: "ogauthor"
+      layout: "author"
   - scope:
       path: ""
       type: "bios"

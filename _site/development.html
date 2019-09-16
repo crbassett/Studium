@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="A journal of confessional language studies">
+<meta name="generator" content="Jekyll v3.8.6">
+
+<title>
+  
+    Development &middot; Studium
+  
+</title>
+  
+<link rel="canonical" href="http://localhost:4000/development.html">
+
+<!-- Fonts -->
+<link href="https://fonts.googleapis.com/css?family=Alegreya+SC:700|Alegreya+Sans+SC:400,700|Alegreya+Sans:400,400i,700,700i,800,800i|Alegreya:400,400i,700,700i,800,800i&display=swap" rel="stylesheet">
+
+<!-- CSS, lower on the list outranks -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="/assets/css/studium.css">
+<!-- 
+<link rel="stylesheet" type="text/css" href="/assets/bootstrap/css/bootstrap-grid.css">
+<link rel="stylesheet" type="text/css" href="/assets/bootstrap/css/bootstrap-reboot.css">
+<link rel="stylesheet" type="text/css" href="/assets/bootstrap/css/bootstrap.css">
+-->
+
+<!-- Icons -->
+<script src="https://kit.fontawesome.com/8d7c11ef85.js"></script>
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
+<link rel="shortcut icon" href="/public/favicon.ico">
+
+<!-- RSS -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+<body> 
+
+<!-- NAVBAR -->
+
+<nav class="navbar navbar-expand-lg navbar-light bg-transparent">
+	<div class="container border-bottom py-3">
+		<a class="navbar-brand wordmark" href="/">Studium</a>
+		
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+	<div class="collapse navbar-collapse" id="navbarSupportedContent">	
+		<ul class="navbar-nav ml-auto">
+		
+			
+      		
+        		
+      		
+        		
+          			
+           			<li><a class="nav-link" href="/about.html">About</a></li>
+          			
+        		
+      		
+        		
+          			
+           			<li><a class="nav-link" href="/authors.html">Authors</a></li>
+          			
+        		
+      		
+        		
+          			
+           			<li><a class="nav-link" href="/contributors.html">Contributors</a></li>
+          			
+        		
+      		
+        		
+          			
+           			<li><a class="nav-link active" href="/development.html">Development</a></li>
+          			
+        		
+      		
+        		
+      		
+        		
+      		
+        		
+          			
+           			<li><a class="nav-link" href="/translations.html">Translations</a></li>
+          			
+        		
+      		
+        		
+      		
+        		
+      		
+
+	</div>
+
+</nav>
+
+      
+
+<div class="container">
+	<div class="row py-3 my-3">
+		<div class="col col-lg-10 mx-auto">
+		<h1>Development</h1>
+
+<p class="lead">The Studium website is built with Jekyll, a static site generator, and relies on <code>key|value</code> pairs to form relationships between authors, translators, and the content itself. To aid in development the site's <code>key|value</code> pairs are documented here.</p>
+
+<h2><code>contributors</code></h2>
+
+<p>The <code>contributors</code> collection manages the list of translators, editors, and writers whose work is published in Studium.
+
+<table class="table table-sm table-hover">
+  <thead>
+    <tr>
+      <th scope="col">Key <code>shortname</code></th>
+      <th scope="col">Value <code>firstname</code></th>
+      <th scope="col">Value <code>lastname</code></th>
+	</tr>
+  </thead>
+  <tbody>
+	
+    <tr>
+      <td><code>bassett</code></td>
+      <td>Caleb</td>
+      <td>Bassett</td>
+    </tr>
+	
+    <tr>
+      <td><code>biebert</code></td>
+      <td>Nathaniel</td>
+      <td>Biebert</td>
+    </tr>
+	
+    <tr>
+      <td><code>foxen</code></td>
+      <td>Benjamin</td>
+      <td>Foxen</td>
+    </tr>
+	
+    <tr>
+      <td><code>grundmeier</code></td>
+      <td>Timothy</td>
+      <td>Grundmeier</td>
+    </tr>
+	
+    <tr>
+      <td><code>hunter</code></td>
+      <td>Philip</td>
+      <td>Hunter</td>
+    </tr>
+	
+    <tr>
+      <td><code>hussman</code></td>
+      <td>Andrew</td>
+      <td>Hussman</td>
+    </tr>
+	
+    <tr>
+      <td><code>jensen</code></td>
+      <td>Aaron</td>
+      <td>Jensen</td>
+    </tr>
+	
+    <tr>
+      <td><code>lahmann</code></td>
+      <td>Kirk</td>
+      <td>Lahmann</td>
+    </tr>
+	
+    <tr>
+      <td><code>souk</code></td>
+      <td>Souksamay</td>
+      <td>Phetsanghane</td>
+    </tr>
+	
+    <tr>
+      <td><code>strucely</code></td>
+      <td>David</td>
+      <td>Strucely</td>
+    </tr>
+	
+    <tr>
+      <td><code>voss</code></td>
+      <td>Aaron</td>
+      <td>Voss</td>
+    </tr>
+	
+    <tr>
+      <td><code>waldschmidt</code></td>
+      <td>Daniel</td>
+      <td>Waldschmidt</td>
+    </tr>
+	
+    <tr>
+      <td><code>zarling</code></td>
+      <td>Joshua</td>
+      <td>Zarling</td>
+    </tr>
+	
+  </tbody>
+</table>
+
+<h2><code>authors</code></h2>
+
+<p>The <code>authors</code> collection manages the list of original authors whose work has been translated in Studium publications.
+
+<table class="table table-sm table-hover">
+  <thead>
+    <tr>
+      <th scope="col">Key <code>shortname</code></th>
+      <th scope="col">Value <code>firstname</code></th>
+      <th scope="col">Value <code>lastname</code></th>
+	</tr>
+  </thead>
+  <tbody>
+	
+    <tr>
+      <td><code>andreae</code></td>
+      <td>Jakob</td>
+      <td>Andreae</td>
+    </tr>
+	
+    <tr>
+      <td><code>brenz</code></td>
+      <td>Johannes</td>
+      <td>Brenz</td>
+    </tr>
+	
+    <tr>
+      <td><code>chemnitz</code></td>
+      <td>Martin</td>
+      <td>Chemnitz</td>
+    </tr>
+	
+    <tr>
+      <td><code>chytraeus</code></td>
+      <td>David</td>
+      <td>Chytraeus</td>
+    </tr>
+	
+    <tr>
+      <td><code>fpieper</code></td>
+      <td>Franz</td>
+      <td>Pieper</td>
+    </tr>
+	
+    <tr>
+      <td><code>gerhard</code></td>
+      <td>Johann</td>
+      <td>Gerhard</td>
+    </tr>
+	
+    <tr>
+      <td><code>hafenreffer</code></td>
+      <td>Matthias</td>
+      <td>Hafenreffer</td>
+    </tr>
+	
+    <tr>
+      <td><code>heerbrand</code></td>
+      <td>Jacob</td>
+      <td>Heerbrand</td>
+    </tr>
+	
+    <tr>
+      <td><code>hoenecke</code></td>
+      <td>Adolf</td>
+      <td>Hoenecke</td>
+    </tr>
+	
+    <tr>
+      <td><code>hollaz</code></td>
+      <td>David</td>
+      <td>Hollaz</td>
+    </tr>
+	
+    <tr>
+      <td><code>manthey-zorn</code></td>
+      <td>Carl</td>
+      <td>Manthey-Zorn</td>
+    </tr>
+	
+    <tr>
+      <td><code>mentzer</code></td>
+      <td>Balthasar</td>
+      <td>Mentzer</td>
+    </tr>
+	
+    <tr>
+      <td><code>apieper</code></td>
+      <td>August</td>
+      <td>Pieper</td>
+    </tr>
+	
+    <tr>
+      <td><code>quenstedt</code></td>
+      <td>Johannes Andreas</td>
+      <td>Quenstedt</td>
+    </tr>
+	
+    <tr>
+      <td><code>selnecker</code></td>
+      <td>Nikolaus</td>
+      <td>Selnecker</td>
+    </tr>
+	
+    <tr>
+      <td><code>siegler</code></td>
+      <td>Albert</td>
+      <td>Siegler</td>
+    </tr>
+	
+    <tr>
+      <td><code>stoeckhardt</code></td>
+      <td>George</td>
+      <td>Stoeckhardt</td>
+    </tr>
+	
+    <tr>
+      <td><code>vonbirken</code></td>
+      <td>Sigmund</td>
+      <td>von Birken</td>
+    </tr>
+	
+    <tr>
+      <td><code>walther</code></td>
+      <td>C.F.W.</td>
+      <td>Walther</td>
+    </tr>
+	
+  </tbody>
+</table>
+		</div>
+	</div>
+</div>
+
+
+<footer class="footer yellow">
+	<div class="container py-5">
+  	<div class="row py-3">
+  		<div class="col col-lg-8">
+	  		<p class="text-muted"><strong>Studium is published under the supervision of Martin Luther College, New Ulm, Minnesota.</strong>
+	  		<p><small class="text-muted">
+	  		ISSN 1553-5835<br />
+    		CC BY-NC-ND 4.0 2002-2019
+    		</small></p>
+  		</div>
+  		<div class="col col-lg-4">
+  			<ul class="list-unstyled">
+  			
+      		
+        		
+      		
+        		
+          			
+           			<li><a href="/about.html">About</a></li>
+          			
+        		
+      		
+        		
+          			
+           			<li><a href="/authors.html">Authors</a></li>
+          			
+        		
+      		
+        		
+          			
+           			<li><a href="/contributors.html">Contributors</a></li>
+          			
+        		
+      		
+        		
+          			
+           			<li><a href="/development.html">Development</a></li>
+          			
+        		
+      		
+        		
+      		
+        		
+      		
+        		
+          			
+           			<li><a href="/translations.html">Translations</a></li>
+          			
+        		
+      		
+        		
+      		
+        		
+      		
+      		</ul>
+  		</div>
+  	</div>
+  	</div>
+</footer>
+
+</body>
+</html>

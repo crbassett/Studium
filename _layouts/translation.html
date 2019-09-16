@@ -7,7 +7,7 @@ layout: default
 		<div class="col-lg-10 ml-auto mb-5">
 			<h1 class="translation-title">{{ page.title }}</h1>
 			<div class="author-byline">
-				{% assign authors = site.ogauthors | where: 'shortname', page.author %}
+				{% assign authors = site.authors | where: 'shortname', page.author %}
 				{% for author in authors %}
 					by {{ author.firstname }} {{ author.lastname }} <a href="{{ author.url }}"><small><i class="fas fa-info-circle"></i></a></small>
 				{% endfor %}

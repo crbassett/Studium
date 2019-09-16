@@ -21,7 +21,7 @@ layout: default
 			<div class="card">
       			<div class="card-body">
         			<h3 class="card-title">{{ node.title }}</h3>
-			    	{% assign authors = site.ogauthors | where: 'shortname', node.author %}
+			    	{% assign authors = site.authors | where: 'shortname', node.author %}
 					{% for author in authors %}
 						by {{ author.firstname }} {{ author.lastname }}
 					{% endfor %}
