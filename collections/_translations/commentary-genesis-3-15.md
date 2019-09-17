@@ -4,7 +4,7 @@ author: luther
 translator: derme
 language: German
 issue: 6
-brief: 
+brief: Luther offers commentary and interpretation of the first gospel promise.
 ---
 
 The following commentary is translated from Martin Luther’s <em>Sämmtliche Schriften</em> I (Collective Writings, vol. 1) (St. Louis: Concordia Lutheran Publishing House, 1880). It is material that Luther taught as a professor at Wittenberg.
