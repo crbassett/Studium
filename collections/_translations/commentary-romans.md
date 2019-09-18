@@ -3,6 +3,7 @@ title:  Commentary on Romans 11:33-36
 author: stoeckhardt
 translator: biebert
 language: German
+published: 
 issue: 10
 brief: An exegetical walk through a small portion of Paul's letter to the Romans.
 ---

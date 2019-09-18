@@ -3,7 +3,7 @@ title:
 author:
 translator:
 language:
-issue: 5
+issue: 
 brief: A very short summary of the work
 ---
 
