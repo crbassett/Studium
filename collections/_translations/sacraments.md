@@ -12,9 +12,9 @@ This is an excerpt from Mentzer’s *Herrliches Catolisches Haendbuchlein*. The 
 
 ---
 
-###The Sixteenth Chapter:
+### The Sixteenth Chapter:
 
-###Concerning Holy Baptism
+### Concerning Holy Baptism
 
 **151\. What is Baptism?**
 
@@ -95,6 +95,3 @@ A person should test himself (1 Corinthians 11:28), that is, he should recognize
 **169\. How should one receive the Lord’s Supper?**
 
 One should receive it with great respect because our Lord and Savior Jesus Christ himself is present there and by means of bread and wine he feeds and waters us with his true body and blood. Therefore, it is right and godly that one honors it not only inwardly in the heart but also outwardly with humble demeanor (Philemon 2:10).
-
----
-

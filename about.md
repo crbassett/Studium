@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+navigation: secondary
 ---
 
 # About the Journal
