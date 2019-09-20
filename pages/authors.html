@@ -5,7 +5,7 @@ navigation: primary
 ---
 <h1>Authors</h1>
 
-<div class="lead mb-3">Studium has translated original material from a variety of authors who originally published in Latin or German. In many cases, contributors have prepared brief biographies of the most prominent authors in our catalog.</div>
+<p class="lead mb-3">Studium has translated original material from a variety of authors who originally published in Latin or German. In many cases, contributors have prepared brief biographies of the most prominent authors in our catalog.
 
 <p>The complete list of original authors is below. Click any author's card to visit a page with biographical details and a list of all works from that author.<p>
 
@@ -17,12 +17,10 @@ navigation: primary
 		<div class="card">
 			<div class="card-body">
     		<a href="{{ person.url }}" class="text-dark stretched-link">{{ person.firstname}} <strong>{{ person.lastname }}</strong></a> {% for node in biographies %}<span class="text-muted float-right"><i class="fas fa-user-circle"></i></span>{% endfor %}
-		    <br><small class="text-muted">{{ person.born }}–{{ person.died }}</small>
+		    <br><small class="text-muted">{% if person.born %}{{ person.born }}–{% endif %}{{ person.died }}</small>
+		    <br><span class="badge badge-primary"><i class="fas fa-file-alt"></i>&ensp;{{ filtered_translations | size }} translations</span>
 		    </div>
 		</div>
 	</div>
 	{% endfor %}
 </div>
-</div>
-</div>
-

@@ -8,6 +8,10 @@
 	background-color: #FFE378;
 }
 
+.bg-gray {
+	background-color: #F4F4F4;
+}
+
 body {
   font-family: "Alegreya Sans", Helvetica, Arial, sans-serif;
   font-size: 1.1em;
