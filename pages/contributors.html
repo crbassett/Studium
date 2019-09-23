@@ -14,7 +14,7 @@ navigation: primary
   {% for person in site.contributors %}
   {% assign filtered_translations = site.translations | where: 'translator', person.shortname %}
   {% assign filtered_biographies = site.bios | where: 'contributor', person.shortname %}
-    <a class="list-group-item list-group-item-action" href="{{ person.url }}">{{ person.firstname }} <strong>{{ person.lastname}}</strong> <br><small class="text-muted">{{ filtered_translations | size }} translations, {{ filtered_biographies | size }} biographies</small></a>
+    <a class="list-group-item list-group-item-action" href="{{ person.url }}">{{ person.firstname }} <strong>{{ person.lastname}}</strong></a>
     </li>
   {% endfor %}
 </div>

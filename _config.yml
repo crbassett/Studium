@@ -33,12 +33,12 @@ collections:
   contributors:
     output: true
     permalink: /translator/:name
-  ogauthors:
+  authors:
     output: true
-    permalink: /author/:name
+    permalink: /author/:name:output_ext
   bios:
     output: true
-    permalink: /bio/:name
+    permalink: /author/:name
     
 # Defaults
 
