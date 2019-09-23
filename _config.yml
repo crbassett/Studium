@@ -85,3 +85,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Global Variables
+
+onote: '<span class="badge badge-dark">Original</span>'
+tnote: '<span class="badge badge-info">Translator</span>'
