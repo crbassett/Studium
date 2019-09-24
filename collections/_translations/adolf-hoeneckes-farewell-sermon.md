@@ -69,14 +69,14 @@ And I experienced this love in many, who are no longer amongst us. I have been a
 
 The whole church of Christ has a difficult, but through the *merciful protection* of the Lord, a victorious battle to fight until the end. The battle is difficult, for it is a *powerful enemy* to fight against. They are the gates of hell, which stand against Christ and his church. Christ built his church; the devil with his army wants to overthrow it. Therefore the church, that is, the members, the Christians not only have to fight with flesh and blood, that is, with men, but with the evil spirits, who as a great army serve Satan, as under their princes and leaders. To be sure these people, as evil enemies, are also dangerous to Christians, who lead the cause of unbelief and atheism against the church. They have outward power. They are clever and cunning in their attacks. They know how to raise all sorts of lies and blasphemies against the true church of Christ and place themselves in good light, that they can mislead many Christian souls to err because of it against the true faith and against the church. Therefore these visible, human enemies are already dangerous. And the fight which the Christians have is therefore already difficult. But they are not even the only enemies; they are only the visible army of the invisible *archenemy*, of evil. And under him stands a powerful, invisible host of evil spirits, and what we sing of him, the prince, at the celebration of Reformation is true of each of them:
 
-> *Deep guile and great might\
-Are his dread arms in fight;\
-On Earth is not his equal.* (CW 200)
+> Deep guile and great might \\
+Are his dread arms in fight;\\
+On Earth is not his equal. (CW 200)
 
 Because we as Christians also have to fight with him, the fight of the Church of Jesus is so difficult. But we must all fight him. Jesus challenges us all to it. The scripture is full of calls to fight. “I did not come to bring peace, but instead the sword”--says Jesus himself. And through the apostle he calls to Christians: Fight the good fight of faith! Thus we *must* fight. We *must* stand against the enemy, where he also attacks the church. This is the job of Christians. A Christian and a soldier of Christ are one. If one wants to be a Christian, then it is valid of him: suffer, that is, lead and betake yourself as a good soldier of Christ as God says through Paul: the one who once makes an attack against the church, see him as an enemy of Jesus, and repulse his attack. Jesus himself will certainly repel the attack. One sees this from the text. The gates of hell shall certainly not be successful in attack. So we must certainly do like Christ. This does not mean that one suffers and behaves as a good soldier of Christ when he notices the attack and remains quiet with the thought: “O, it doesn’t matter.” No! Never, brothers. Follow me, says Christ our hero.
 
-> *Vile slaves are they who, at the sight
-Of their Lord fighting, do not fight.* (AMJ, 2008)
+> Vile slaves are they who, at the sight \\
+Of their Lord fighting, do not fight. (AMJ, 2008)
 
 We *must* fight. And who then would not want to. The highest and greatest things are involved in this battle. The enemy wants to overthrow the congregation, which Jesus reveals as the enemy’s intent; he wants to devour the individual soul. What does this mean? He wants to remove the Christian faith from the world, to take the Christian faith from the individual. Fathers and mothers shall serve him in this by being silent concerning Christ to their children. What does he do with them all? He takes their comfort for the time being and the magnificent crown for eternity. Yes, it involves things of the greatest good, such as salvation here and forever, such as the crown of glory. We must fight. No one is crowned unless he fights in the right way.
 
@@ -86,52 +86,56 @@ Nowhere else does a person wage this war as in the pastoral office. Why? Not bec
 
 The first is that one *marshals* and conducts the fight. He points out the enemy, discloses to the Christian, what his attack is, then also announces how to fight against it. He constantly formulates the plan of the fighting congregation for a successful battle. For if the Christians in the battle flail in the air, where there is no enemy at all, and don’t strike where he is, then it bodes evil for them and the whole congregation. This is hardly the way to speak of correct fighting. For this reason Jesus has charged the preacher to see to it that the battle of the whole congregation be lead right. What a truly wonderful position Jesus gives to a poor man! But delightful is the position of the preacher in the fight, that he is now appointed to *encourage* the congregation to the fight. He gives them courage and desire, while he points out the enemy to them in his evil and wicked attacks, but also in his weaknesses for the sake of the highest commander, Jesus, “to whom truly all enemies on earth are much too few to stand against him.” He is to energize the weary and refresh and bandage the wounded. A delightful means is in his hands: the comfort of the Gospel. To those who get tired of the on-going fight, he shouts the comfort: We suffer only for a short time.
 
-<blockquote>*Praise God, we are redeemed!
-The world’s scoffs and schemes
-Are soon over,
-And God’s own Son
-Ere world begun
-A crown of honor for us won.* (AMJ, 2008)</blockquote>
+> Praise God, we are redeemed! \\
+The world’s scoffs and schemes \\
+Are soon over, \\
+And God’s own Son \\
+Ere world begun \\
+A crown of honor for us won. (AMJ, 2008)
 
-<blockquote>*A rest remaineth for the weary; 
-Arise, sad heart, and grieve no more;
-Tho’ long the way and dark and dreary,
-It endeth on the golden shore.
-Before his throne the Lamb will lead thee,
-On heav’nly pastures he will feed thee.
-Cast off thy burden, come with haste;
-Soon will the toil and strife be ended,
-The weary way which thou hast wended.
-Sweet is the rest which thou shalt taste.* (TLH 615)</blockquote>
+> A rest remaineth for the weary; \\
+Arise, sad heart, and grieve no more; \\
+Tho’ long the way and dark and dreary, \\
+It endeth on the golden shore. \\
+Before his throne the Lamb will lead thee, \\
+On heav’nly pastures he will feed thee. \\
+Cast off thy burden, come with haste; \\
+Soon will the toil and strife be ended, \\
+The weary way which thou hast wended. \\
+Sweet is the rest which thou shalt taste. (TLH 615)
+
 Fight on. The reward of victory, the crown, is worth more than all the toils of war.
-<blockquote>*Aren’t our present sufferings
-Worthy of the glorious things
-Jesus will us e’er be giving
-Who in heav’nly peace are living?* (AMJ, 2008)</blockquote>
-<blockquote>*Whoever here grows tired:
-Gaze at the goal desired--
-Joy from heaven.
-Come then and be
-Battle-ready,
-And crowned for all eternity.* (AMJ, 2008)</blockquote>
-<blockquote>*The patriarchs’ and prophets’ noble train, 
-With all Christ’s foll’wers true
-Who bore the cross and could the worst disdain
-That tyrants dared to do,
-I see them shine forever, 
-All-glorious as the sun
-Mid light that fadeth never,
-Their perfect freedom won.* (CW 212)</blockquote>
+
+> Aren’t our present sufferings \\
+Worthy of the glorious things \\
+Jesus will us e’er be giving \\
+Who in heav’nly peace are living? (AMJ, 2008)
+
+> Whoever here grows tired: \\
+Gaze at the goal desired-- \\
+Joy from heaven. \\
+Come then and be \\
+Battle-ready, \\
+And crowned for all eternity. (AMJ, 2008)
+
+> The patriarchs’ and prophets’ noble train, \\
+With all Christ’s foll’wers true \\
+Who bore the cross and could the worst disdain \\
+That tyrants dared to do, \\
+I see them shine forever, \\
+All-glorious as the sun \\
+Mid light that fadeth never, \\
+Their perfect freedom won. (CW 212)
 
 Thus the preacher encourages the Christians for battle. And those who stumble in the fight, who let themselves be beaten and overcome by the devil, *because* they didn’t fight in faith, those he has to comfort. Arise! With Christ, your Lord, there is much forgiveness. Take it in faith; go on to the contest anew! The enemy still has no triumph over you! The crown is still not lost. Yes it is a wonderful office, the preaching office, for the sake of which, a preacher has to lead the battle of the Lord. So to speak, they are the captains under the highest commander, Jesus, who lead the Lord’s soldiers in battle against the arch-enemy! Who has to lead this fight like them?!
 
 And again therefore it is also so difficult to leave this office. And for this reason it is difficult for me. Willingly and joyfully I was with you, to lead you in the commanded fight. Sincerely have I done it. I have not conferred with flesh and blood and I didn’t spare any of your enemies, not even those whom some thought of as good friends. I have showed them to you as your enemies. It was a serious matter for me to lead you to victory, that you keep the crown of honors. I wanted to be a help for your joys. And the more I was with you as leader in the battle with desire and joy, it is that much harder for me to give up this delightful position. Not for the sake of the honor but for the sake of the work. But it was God’s will. Another shepherd has also been given and he will faithfully lead you from here on out. But, what am I saying to *you*, as if my last farewell sermon as preacher and shepherd should mean to you a complete departure from your midst? I say better: The new shepherd will lead *us*. Now I step from the place as leader into the midst of you soldiers, to fight hereafter shoulder to shoulder with you as a warrior and combatant of Christ. I no longer stand at your front, so to speak, to encourage and fire up the whole army, but among you in heartfelt love, as a good spiritual comrade and brother in battle, and our battle cry shall be, with which we encourage one another mutually:
 
-> *Then let us follow Christ, our Lord, \\
+> Then let us follow Christ, our Lord, \\
 And take the cross appointed.\\
 And, firmly clinging to his word,\\
 In suffering be undaunted.\\
 For those who bear the battle’s strain.\\
-The crown of heav’nly life obtain.* (CW 453)
+The crown of heav’nly life obtain. (CW 453)
 
 Amen.
