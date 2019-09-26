@@ -6,6 +6,7 @@ language: German
 source: 
 issue: 7
 brief: 
+published: false
 ---
 
 This essay is taken from the <em>Quartalschrift</em> of January 1917. August Pieper explains the origin of that dear phrase below and more importantly in what way we should be closer to Luther. He has very practical applications to teachers and pastors for his time and ours.

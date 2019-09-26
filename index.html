@@ -3,10 +3,9 @@ layout: default
 ---
 <div class="container">
 <div class="row border-bottom py-5">
-	<div class="col col-lg-10 mt-3 mb-5 mx-auto">
-		<h1>Studium is the journal of confessional language studies at Martin Luther College and beyond.</h1>
+	<div class="col col-lg-10 my-5 mx-auto">
+		<h1>Studium is the journal of confessional language studies at Martin Luther College.</h1>
 		<div class="lead pb-3">Studium fosters the study of the confessional languages at Martin Luther College and in Wisconsin Evangelical Lutheran Synod by publishing original, English translations of historic Latin and German resources drawn from the Lutheran  tradition in both Europe and the United States.</div>
-		<span class="btn btn-lg btn-primary">Website Guide</span>
 	</div>
 </div>
 
@@ -26,7 +25,7 @@ layout: default
 						by {{ author.firstname }} {{ author.lastname }}
 					{% endfor %}
         			{% if node.brief != null %}<p class="card-text my-3">{{ node.brief }}</p>{% endif %}
-			        <a href="{{ node.url }}" class="btn btn-outline-primary stretched-link">Read</a>
+			        <a href="{{ node.url }}" class="btn btn-outline-secondary stretched-link">Read</a>
       			</div>
 			</div>
 			{% endfor %}

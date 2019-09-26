@@ -5,11 +5,18 @@ navigation: primary
 ---
 <h1>Translations</h1>
 
-<ul class="list-unstyled">
+<p class="lead">Studium has published {{ site.translations | size }} English translations of German and Latin works from Lutheran theological literature. The full list of translations is below.
+
+<div class="list-group-flush">
   {% for node in site.translations %}
-    <li>
-      <strong>{{ node.title }}</strong>
-      <p><a href="{{ node.url }}">{{ node.firstname }} page</a>
-    </li>
+    <div class="list-group-item list-group-item-action">
+    	<a href="{{ node.url }}" class="stretched-link"><strong>{{ node.title }}</strong></a>
+    	{% assign authors = site.authors | where: 'shortname', node.author %}
+					{% for author in authors %}
+						<br><small>by {{ author.firstname }} {{ author.lastname }}</small>
+					{% endfor %}
+    	<br>{% if node.brief != null %}{{ node.brief }}{% endif %}
+    </div>
   {% endfor %}
-</ul>
+
+</div>

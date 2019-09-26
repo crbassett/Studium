@@ -69,8 +69,9 @@ defaults:
       layout: "default"
 
 # Build settings
+sass:
+  sass_dir: css
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
 

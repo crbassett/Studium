@@ -4,6 +4,7 @@ author: moldehnke
 translator: biebert
 language: German
 issue: 12
+date: 2010-03-02
 brief: An articulation of what Lutheranism is and is not.
 ---
 

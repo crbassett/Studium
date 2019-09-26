@@ -4,6 +4,7 @@ author: chytraeus
 translator: waldschmidt
 language: Latin
 issue: 9
+published: 2006-11-15
 brief: Chytraeus writes that the blessings of baptism are for both this life and the life to come.
 ---
 
