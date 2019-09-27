@@ -4,7 +4,7 @@ author: stoeckhardt
 translator: biebert
 language: German
 issue: 3
-published: 2006-08-04
+date: 2006-08-04
 brief: Commentary on the saving means of grace.
 ---
 

@@ -4,7 +4,7 @@ author: fpieper
 translator: bassett
 language: German
 issue: 8
-published: 2006-08-04
+date: 2006-08-04
 brief: A look at the life of Walther is more of a look at the doctrine of justification.
 ---
 

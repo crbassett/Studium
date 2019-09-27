@@ -4,7 +4,7 @@ author: apieper
 translator: hussman
 language: German
 issue: 14
-published: 2010-12-01 
+date: 2010-12-01 
 brief: A very short summary of the work
 ---
 

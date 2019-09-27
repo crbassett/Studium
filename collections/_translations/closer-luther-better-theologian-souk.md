@@ -3,9 +3,8 @@ title: The Closer to Luther, the Better the Theologian
 author: apieper
 translator: souk
 language: German
-source: 
 issue: 7
-brief: 
+date: 2006-08-04
 published: false
 ---
 

@@ -4,7 +4,7 @@ author: brenz
 translator: jensen
 language: Latin
 issue: 15
-published: 2011-01-27 
+date: 2011-01-27 
 brief: Brenz defends his teaching on the doctrine of the Lord’s Supper.
 ---
 

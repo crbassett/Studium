@@ -9,11 +9,6 @@ body {
   font-size: 1.1em;
 }
 
-.lead {
-	font-family: "Alegreya Sans," sans-serif;
-	font-size: 1.3em;
-}
-
 h1, h2, h3, h4, h5 {
 	font-family: "Alegreya";
 	font-weight: 700;
@@ -30,11 +25,24 @@ blockquote {
  *
  * Particular styles for the Studium website.
  */
+ 
+.sc {
+	font-family: "Alegreya Sans SC";
+	text-transform: lowercase;
+}
+
+.lead {
+	font-family: "Alegreya," sans-serif;
+	font-size: 1.3em;
+}
+
 
 .wordmark {
 	font-family: "Alegreya SC", serif;
-	text-transform: uppercase;
+	text-transform: lowercase;
 	letter-spacing: .1em;
+	font-weight: 500;
+	font-size: 1.33em;
 }
 
 .yellow {

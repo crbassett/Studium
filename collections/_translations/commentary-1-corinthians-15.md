@@ -4,7 +4,7 @@ author: starke
 translator: foxen
 language: German
 issue: 3
-published: 2006-08-04
+date: 2006-08-04
 brief: Starke emphasizes how important the resurrection of Jesus is to Christian faith.
 ---
 

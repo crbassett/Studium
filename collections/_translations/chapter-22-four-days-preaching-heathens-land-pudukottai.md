@@ -4,7 +4,7 @@ author: manthey-zorn
 translator: jensen
 language: German
 issue: 16
-published: 2011-03-05 
+date: 2011-03-05 
 brief: Reflections on missionary work in India.
 ---
 

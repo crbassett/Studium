@@ -4,7 +4,7 @@ author: manthey-zorn
 translator: jensen
 language: German
 issue: 16
-published: 2011-03-05
+date: 2011-03-05
 brief: Reflections on missionary work in India.
 ---
 
@@ -83,4 +83,4 @@ Then we processed into the graveyard in the same way. The body was taken from th
 
 While going home I asked Sinnammal, the sister, whether she was comforted. “His soul is with Christ and we laid earth into the earth. And it will not keep it forever. Why should I still be mourning?”
 
-Even in the heathen land the Lord brings his harvest home!
+Even in the heathen land the Lord brings his harvest home!d

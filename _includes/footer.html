@@ -3,13 +3,13 @@
   		<div class="row py-3">
   			<div class="col-12 col-sm-6 mr-auto">
 	  			<p class="text-muted">Studium fosters the study of the confessional languages at Martin Luther College and in Wisconsin Evangelical Lutheran Synod by publishing original, English translations of historic Latin and German resources drawn from the Lutheran tradition in both Europe and the United States.
-	  			<p><small class="text-muted">
+	  			<p><small class="text-muted sc">
 	  			CC BY-NC-ND 4.0 2002-{{ site.time | date: '%Y' }}<br />
     			ISSN 1553-5835
     			</small></p>
   			</div>
   			<div class="col-6 col-sm-3 col-md-2">
-  				<strong>Resources</strong>
+  				<strong class="sc">Resources</strong>
   				<ul class="list-unstyled">
   				{% assign pages_list = site.pages %}
       			{% for node in pages_list %}
@@ -22,7 +22,7 @@
       			</ul>
       		</div>
 	  		<div class="col-6 col-sm-3 col-md-2">
-  				<strong>Browse</strong>
+  				<strong class="sc">Browse</strong>
 	  			<ul class="list-unstyled">
 	  			{% assign pages_list = site.pages %}
 	      		{% for node in pages_list %}
