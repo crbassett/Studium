@@ -2,27 +2,32 @@
 layout: default
 ---
 
-<div class="container my-3 py-3">
-	<div class="row">
-		<div class="col-sm-10 mx-auto my-5 pb-5 border-bottom border-secondary text-center">
+<div class="container">
+	<div class="row"> <!-- page title -->
+		<div class="col-lg-8 mr-auto">
 			<h1 class="translation-title">{{ page.title }}</h1>
-			<div class="author-byline">
+			<div class="sc">
 				{% assign authors = site.authors | where: 'shortname', page.author %}
 				{% for author in authors %}
-					by {{ author.firstname }} {{ author.lastname }}
+					<strong>by {{ author.firstname }} {{ author.lastname }}</strong>
 				{% endfor %}
-			</div>
-			<div class="text-muted contributor-byline">
+				<br />
 				{% assign translators = site.contributors | where: 'shortname', page.translator %}
 				{% for person in translators %}
-					translated by {{ person.firstname }} {{ person.lastname }}
+					<span class="text-muted">translated by {{ person.firstname }} {{ person.lastname }}</span>
 				{% endfor %}
-			</div> 
+			</div>
 		</div>
 	</div>
-	<div class="row">
-		<div class="col-sm-8 mx-auto">
+	<div class="row mt-5 d-flex"> <!-- page content -->
+		<div class="col-md-8 col-sm-12 order-2 order-md-1">
 			{{ content }}
+		</div>
+		<div class="col-md-3 col-sm-12 ml-auto order-1 order-md-2">
+			<div class="mb-5 text-muted">
+				<p>{{ page.brief }}</p>
+				<span class="sc"><i class="far fa-calendar"></i>&ensp;{{ page.date | date: "%b %d, %Y" }}</span>
+			</div>
 		</div>
 	</div>
 </div>
