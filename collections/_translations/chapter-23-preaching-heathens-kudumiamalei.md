@@ -8,7 +8,7 @@ date: 2011-03-05
 brief: Reflections on missionary work in India.
 ---
 
-This is one of three translations of the final three chapters from Carl Manthey-Zorn’s memoirs of his time as a missionary in India entitled, “This and That from the Life of a Missionary to East India.” For more information on Zorn, please see his biography, also published in this issue.
+This is one of three translations of the final three chapters from Carl Manthey-Zorn’s memoirs of his time as a missionary in India entitled, “This and That from the Life of a Missionary to East India.” For more information on Zorn, please see [his biography]({% link _bios/manthey-zorn.md %}).
 
 ---
 

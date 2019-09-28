@@ -28,7 +28,7 @@ collections:
     permalink: /author/:name
   translations:
     output: true
-    permalink: /translation/:name
+    permalink: /translation/:title
   contributors:
     output: true
     permalink: /translator/:name

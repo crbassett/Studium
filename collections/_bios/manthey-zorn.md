@@ -44,7 +44,7 @@ In 1881, after five years in Sheboygan, Zorn accepted a call to Cleveland, Ohio,
 
 Carl Manthey-Zorn may not have been a distinguished systematic theologian, an influential synodical leader, or even a name one hears much in the history of Lutheranism in America. But it is clear that anyone who learns about his life and takes the time to read some of his writings will not regret it. They reveal the fruit of thorough devotion to the study of Scripture and a diligence to serve God’s people that is rare indeed. His life is a clear example of the amazing ways in which God works to bring people to faith and to use them as instruments for his glorious purpose. 
 
-BIBLIOGRAPHY
+**Bibliography**
 
 Fuerbringer, Ludwig. “Erinnerungen an Dr. C.M. Zorn.” *Der Lutheraner*. 84.17 (August 14, 1928): 290-291. 
 
