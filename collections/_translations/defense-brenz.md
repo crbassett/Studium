@@ -4,6 +4,7 @@ author: anonymous
 translator: moldenhauer
 language: Latin
 issue: 11
+date: 2008-12-24
 brief: An anonymous defense of Johannes Brenz’s exegesis of the sacramental text in John.
 ---
 
@@ -63,7 +64,7 @@ Brenz: “You see, therefore, that baptism is not a vane and empty sign, etc.”
 
 Schwenckfeld: “He confuses everything and also ignores what the washing of regeneration through the word is according to Paul.”
 
-Brenz responds that he does not confuse the reason of the sacraments but the order in ordination, unless by chance Schwenckfeld understands for “confusion” [<em>confundere</em>] “confutation” [<em>confutare</em>]. For then Brenz would admit that he confuses the sacraments of the Enthusiasts--this is to cause great confusion. Brenz is ignorant of what else he said, what the washing of regeneration is according to Paul. (Not that he would say thus, if he himself did not know what the washing of regeneration is—as if Paul would understand something other than baptism when he says “through washing,” the distribution of which Christ commended to the Apostles by institution, saying: “Go, baptize all nations in the name of the Father, etc.,” and concerning which Peter said in Acts, chapter 2: “Repent of your sins and be baptized each one of you in the name of Jesus Christ for the forgiveness of sins, and receive the gift of the Holy Spirit.”)
+Brenz responds that he does not confuse the reason of the sacraments but the order in ordination, unless by chance Schwenckfeld understands for “confusion” [*confundere*] “confutation” [*confutare*]. For then Brenz would admit that he confuses the sacraments of the Enthusiasts--this is to cause great confusion. Brenz is ignorant of what else he said, what the washing of regeneration is according to Paul. (Not that he would say thus, if he himself did not know what the washing of regeneration is—as if Paul would understand something other than baptism when he says “through washing,” the distribution of which Christ commended to the Apostles by institution, saying: “Go, baptize all nations in the name of the Father, etc.,” and concerning which Peter said in Acts, chapter 2: “Repent of your sins and be baptized each one of you in the name of Jesus Christ for the forgiveness of sins, and receive the gift of the Holy Spirit.”)
 
 Brenz: “Not because it is water, but because it is water of the word of regeneration, etc.”
 

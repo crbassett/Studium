@@ -10,4 +10,6 @@ The website is built using Jekyll, the static site generator. The code is hosted
 
 ### 1.0 – The Relaunch Edition
 
-* Developed new visual layout built on Bootstrap
+* Converted Drupal-powered dynamic website to Jekyll-powered static website
+* Developed new visual design built on Bootstrap
+* Converted HTML translations to MultiMarkdown

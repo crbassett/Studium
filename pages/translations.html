@@ -8,7 +8,7 @@ navigation: primary
 <p class="lead">Studium has published {{ site.translations | size }} English translations of German and Latin works from Lutheran theological literature. The full list of translations is below.
 
 <div class="list-group-flush">
-  {% for node in site.translations | sort: 'node.date' %}
+  {% for node in site.translations %}
     <div class="list-group-item list-group-item-action">
     	<a href="{{ node.url }}" class="stretched-link"><strong>{{ node.title }}</strong></a>
     	{% assign authors = site.authors | where: 'shortname', node.author %}

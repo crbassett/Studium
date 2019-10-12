@@ -76,8 +76,6 @@ Likewise, so that the flesh and the old man might be mortified, so that those to
 
 Jeremiah said, “You have chastised me, Lord, and I have been disciplined just like a wild calf” (Jeremiah 31:18).
 
-
-
 *Who most of all persecutes the righteous?*
 
 Not only the lowest, but also the highest appointed in the state, and those who give themselves the title "church" (Acts 4). In one word: the devil and the world rise against Christ and his Church. Psalm 2:1-2, “Why do the nations rage, and the peoples plot vain things? Why do the kings of the earth gather together against the Lord and against his Anointed One?”
@@ -89,7 +87,6 @@ In this way Herod, Pilate, the leaders of the people, the high priests, the prie
 Some allege other causes: the crime of heresy, of blasphemy, of apostasy, that is, desertion and rebellion, just as these accusations were brought against the prophets of the Lord and against Christ himself. Elijah was told that he was a troubler of Israel (1 Kings 18:17); Christ was told that that he was stirring up the people (Luke 23:5); Stephen was told that he would not stop speaking against the people of God, the law, and the holy place (Acts 6:12-13); Paul was told that it was not right for him to live (Acts 22:22).
 
 But Christ expresses the true cause when he says, “All men will hate you because of me and my name” (Luke 21:17).
-
 
 And the Apostle says, “All who want to live righteously in Christ will suffer persecution” (2 Timothy 3:12).
 
@@ -146,7 +143,6 @@ When Moses was going with the people to Marah, where they could not drink the wa
 [^2]: Mauritius was known as the first "Greek" emperor of the Roman Empire. He ruled from 582-602. He fought strenuously to uphold the creed of Chalcedon against the Monophysites.
 
 [^3]: "sin is crouching at the door" is the NIV translation of Genesis 4:7 which accuratley reflects the original Hebrew. The Latin has *peccatum dormiat*, "sin is sleeping."
-
 
 [^4]: *Homilies on the Epistle of John*, 1.2.
 
