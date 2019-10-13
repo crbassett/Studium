@@ -14,7 +14,7 @@ In this disputation, Andreae points out that arguing about words for the sake of
 
 May God the Father govern us in this through Jesus Christ by virtue of the Holy Spirit.
 
-To be defended by the reverend and most famous man, Jacob Andreae, Doctor and Professor of sacred theology, most dignified Provost and Chancellor of the Church and Academy of Tuebingen, its rather respected author.  M. Israel Wielandt, pastor of the church which is in Weil, will respond for the sake of exercise at 6 o’clock A.M. on July 6th in the New Hall. 
+To be defended by the reverend and most famous man, Jacob Andreae, Doctor and Professor of sacred theology, most dignified Provost and Chancellor of the Church and Academy of Tuebingen, its rather respected author. M. Israel Wielandt, pastor of the church which is in Weil, will respond for the sake of exercise at 6 o’clock A.M. on July 6th in the New Hall. 
 
 Tuebingen 1571.
 
@@ -34,9 +34,9 @@ After the disputation about the most holy Trinity and the person of Christ, it f
 
 7. Just as it is not another Adam with respect to substance and essence who will rise from the dead than the one who was in the beginning created in the image of God and was horribly corrupted after the Fall and transformed into the image of Satan. Job speaks on this sentiment: “I myself will see him with my own eyes--- I, and *not another*.” (Job 19:27)
 
-8. Rather, this corruption of human nature is a wretched and horrible deformity, because of which nothing is healthy in the entire nature of man, from the soles of his feet to the top of his head.  Whether you consider bodily strength or mental ability, the Apostle deplores this nature as wretched, saying, “I know that nothing good lives in me, that is, in my sinful nature.” (Romans 7:18)
+8. Rather, this corruption of human nature is a wretched and horrible deformity, because of which nothing is healthy in the entire nature of man, from the soles of his feet to the top of his head. Whether you consider bodily strength or mental ability, the Apostle deplores this nature as wretched, saying, “I know that nothing good lives in me, that is, in my sinful nature.” (Romans 7:18)
 
-9. This corruption of human nature and horrible destruction of the image of God  renders the mind of man not only misty towards heavenly things, but completely blind, so that he is completely unaware of the way back to the eternal homeland for which he was created in the beginning. As it is written, “The man without the Spirit does not accept the things that come from the Spirit of God, for they are foolishness to him, and he cannot understand them, because they are spiritually discerned.” (I Corinthians 2:14)
+9. This corruption of human nature and horrible destruction of the image of God renders the mind of man not only misty towards heavenly things, but completely blind, so that he is completely unaware of the way back to the eternal homeland for which he was created in the beginning. As it is written, “The man without the Spirit does not accept the things that come from the Spirit of God, for they are foolishness to him, and he cannot understand them, because they are spiritually discerned.” (I Corinthians 2:14)
 
 10. Also, the will, the substantial ability of the mind, is not corrupted in such a way that although it is turned away from God it still remains whole, like a man bound hand and foot who has his strength intact but is just unable to use it because of his chains and shackles. Rather, the Holy Scriptures teach that it is so depraved that in matters pertaining to eternal salvation it desires nothing good, but desires what is bad and chooses it for that reason.
 

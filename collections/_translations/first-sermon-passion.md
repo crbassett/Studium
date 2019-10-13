@@ -8,20 +8,20 @@ published: 2011-04-19
 brief: Brenz preaches on a harmony of the passion history.
 ---
 
-In this set of three sermons from 1564, Johannes Brenz expounds upon a harmony of the passion history. Each of the translations was completed by different individuals who are all at various locations and stages of their training for the full-time Gospel ministry. The first sermon was translated by Aaron Voss, currently a senior at Martin Luther College, the second by Jacob Haag, currently studying in Leipzig, Germany at the seminary of our sister-synod, the Evangelisch-Lutherische FreiKirche (ELFK), and the third3 by Tim Rosenow, a first-year student at Wisconsin Lutheran Seminary in Mequon. Skills cultivated in the confessional languages prove valuable to pastoral students at every point of their education and remain a blessing into their ministry. May these words of Brenz be as valuable to their readers this Lenten season as they have been to their translators.  
+In this set of three sermons from 1564, Johannes Brenz expounds upon a harmony of the passion history. Each of the translations was completed by different individuals who are all at various locations and stages of their training for the full-time Gospel ministry. The first sermon was translated by Aaron Voss, currently a senior at Martin Luther College, the second by Jacob Haag, currently studying in Leipzig, Germany at the seminary of our sister-synod, the Evangelisch-Lutherische FreiKirche (ELFK), and the third3 by Tim Rosenow, a first-year student at Wisconsin Lutheran Seminary in Mequon. Skills cultivated in the confessional languages prove valuable to pastoral students at every point of their education and remain a blessing into their ministry. May these words of Brenz be as valuable to their readers this Lenten season as they have been to their translators. 
 
 ---
 
 ### The Passion of our Lord Jesus Christ, the only Savior of the human race, as explained in three sermons by Johannes Brenz
 
-*Who once suffered the mockery of a horrible death  
-On the cross, having been made a victim for us by the Father.*  
+*Who once suffered the mockery of a horrible death 
+On the cross, having been made a victim for us by the Father.* 
 
-*And if he had not been born from a heavenly origin  
-Who wants to renew the human race,*  
+*And if he had not been born from a heavenly origin 
+Who wants to renew the human race,* 
 
 *Since the whole world in blind darkness
-Has been hidden, it was inclined for eternal destruction.*[^1]  
+Has been hidden, it was inclined for eternal destruction.*[^1] 
 
 Frankfurt, 1564
 
@@ -92,5 +92,4 @@ Let us, therefore, see how Christ conducted himself in such great sorrows. Other
 But see what happened? Christ prays the same prayer three times and yet he seems to be so very inaudible that his sorrow greatly increases so that even drops of blood flow down. He hastens back to his disciples. He admonishes them so that they may also pray. He reproves their idleness. “The spirit is willing, but the body is weak.” Therefore it is strengthened through prayer. Make note of his recommendation for insistence and perseverance in prayer. An angel is sent, but he strengthens him more for bearing the cross than for taking it away. Therefore what does Christ do? Although the cross is not removed, nevertheless he himself remains obedient. He stands firm and does not flee. He awaits his enemies so that he may be captured. This is the most perfect obedience, with which God is certainly so pleased that he not only thinks Christ righteous and presently the eternal kingdom is open to him, but on account of him he will judge all who believe in him to be righteous. Therefore let us learn obedience from Christ so that as one with him we may share in his glory and majesty in the kingdom of heaven.
 
 [^1]: These lines are drawn from various poems by Jacob Micyllus.
-
 [^2]: A mythological reptile which is so venomous that it can kill someone simply by looking at them.
