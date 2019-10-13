@@ -35,23 +35,13 @@ Finally, the fear of God’s Word also entails that we, as much as it is in us, 
 In short, the fear, the true fear of God’s Word is the cure for all the injuries within the Lutheran Church. The fear of God’s Word guards against the misuse of knowledge in theology. The fear of God’s Word also causes us to act according to God’s Word. The true fear of God’s Word, therefore, would soon make all those who call themselves Lutheran of one mind and lead them into a union in the truth, for God’s Word, to which all their mind would be subjected, is truth. 									   
 
 [^1]: Foundation and Reason of all Articles, etc. 1520, XV. 1758.
-
 [^2]: Formula of Concord, Mueller, pg. 568.
-
 [^3]: On Holy Scripture, 7.
-
 [^4]: Kahnis. Cf. Baier’s Compendium, ed. Walther, I. 103.
-
 [^5]: Cf., e.g. “Lehre und Wehre” 1888, pg. 379.
-
 [^6]: On the Babylonian Captivity. Irmischer V, 27. Walch XIX, 22: “Far from it, far from it that there is a single letter in Paul which the entire universal Church should not follow and keep.”
-
 [^7]: Volume IX, pg. 275, 2nd ed.
-
 [^8]: E.g. “That these words of Christ, “this is my body” are still certain.” 1527. E.A. 30. 41.
-
 [^9]: Cited in Herzog a. a.  O. pg. 274.
-
 [^10]: On Genesis 30:9-11. St. Louis Edition II, 560f.
-
 [^11]: Report of the Iowa Journal.

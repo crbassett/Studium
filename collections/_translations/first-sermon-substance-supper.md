@@ -12,9 +12,9 @@ This sermon comes from a book of sermons by Johannes Brenz that was published in
 
 ---
 
-### The First Sermon: On the Substance of the Supper, What it is ###
+### The First Sermon: On the Substance of the Supper, What it is
 
->For I received from the Lord what I also handed down to you, that our Lord Jesus, on the night he was betrayed, took bread, and giving thanks, he broke it and said, “Take and eat. *This is* my body, which is given for you, do this in remembrance of me. . . (1 Corinthians 11:23-24)
+> For I received from the Lord what I also handed down to you, that our Lord Jesus, on the night he was betrayed, took bread, and giving thanks, he broke it and said, “Take and eat. *This is* my body, which is given for you, do this in remembrance of me. . . (1 Corinthians 11:23-24)
 
 Since more people go to the Eucharist according to tradition these days than at any other time of the year, and since the very topic requires that a sermon on the Lord’s Supper should be given on some day of the year, let me undertake a sermon on the venerable sacrament of the Lord’s Supper so that we may learn what a great treasure Christ has given to the Church in his supper and take it in a worthy manner. We will not discuss at this time the question of whether the sacrament should be taken under one form, as they say, but we will discuss what the Lord’s Supper is, then the use for which it was instituted by Christ, and the benefit which it brings to us. If we learn these things diligently, we will see how boundless Christ’s mercy is toward men, and we will strengthen our faith in all adversity, and we will be kept in obedience to God until everlasting happiness. 
 

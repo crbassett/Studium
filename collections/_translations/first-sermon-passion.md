@@ -8,11 +8,7 @@ published: 2011-04-19
 brief: Brenz preaches on a harmony of the passion history.
 ---
 
-In this set of three sermons from 1564, Johannes Brenz expounds upon a harmony of the passion history. Each of the translations was completed by different individuals who are all at various locations and stages of their training for the full-time Gospel ministry. The [first sermon][1] was translated by Aaron Voss, currently a senior at Martin Luther College, [the second][2] by Jacob Haag, currently studying in Leipzig, Germany at the seminary of our sister-synod, the Evangelisch-Lutherische FreiKirche (ELFK), and [the third][3] by Tim Rosenow, a first-year student at Wisconsin Lutheran Seminary in Mequon. Skills cultivated in the confessional languages prove valuable to pastoral students at every point of their education and remain a blessing into their ministry. May these words of Brenz be as valuable to their readers this Lenten season as they have been to their translators.  
-
-[1]: http://studiumexcitare.com/content/146
-[2]: http://studiumexcitare.com/content/147
-[3]: http://studiumexcitare.com/content/148
+In this set of three sermons from 1564, Johannes Brenz expounds upon a harmony of the passion history. Each of the translations was completed by different individuals who are all at various locations and stages of their training for the full-time Gospel ministry. The first sermon was translated by Aaron Voss, currently a senior at Martin Luther College, the second by Jacob Haag, currently studying in Leipzig, Germany at the seminary of our sister-synod, the Evangelisch-Lutherische FreiKirche (ELFK), and the third3 by Tim Rosenow, a first-year student at Wisconsin Lutheran Seminary in Mequon. Skills cultivated in the confessional languages prove valuable to pastoral students at every point of their education and remain a blessing into their ministry. May these words of Brenz be as valuable to their readers this Lenten season as they have been to their translators.  
 
 ---
 
@@ -28,8 +24,6 @@ Who wants to renew the human race,*
 Has been hidden, it was inclined for eternal destruction.*[^1]  
 
 Frankfurt, 1564
-
-
 
 In order to explain the passion of Jesus Christ, we first of all need to consider who Jesus Christ is, or what is his person. And then for what causes he undertook his suffering and death. Indeed, we are never able to rightly recognize the magnitude of the benefits of Christ’s suffering and his death, unless we recognize who Christ is and what kind of person he brought to his passion and death.
 
