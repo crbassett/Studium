@@ -12,7 +12,7 @@ This sermon comes from a book of sermons by Johannes Brenz that was published in
 
 ---
 
-### The First Sermon: On the Substance of the Supper, What it is
+## The First Sermon: On the Substance of the Supper, What it is
 
 > For I received from the Lord what I also handed down to you, that our Lord Jesus, on the night he was betrayed, took bread, and giving thanks, he broke it and said, “Take and eat. *This is* my body, which is given for you, do this in remembrance of me. . . (1 Corinthians 11:23-24)
 

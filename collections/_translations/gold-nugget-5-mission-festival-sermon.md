@@ -26,17 +26,17 @@ From the outside this kingdom appears to be the most miserable of all. It is a k
 
 The most important and noteworthy thing about this kingdom, however, is that outside of it there is no salvation and no blessedness. Just as once the only rescue from the temporal ruin of the great flood was only in Noah’s visible ark, so also the only rescue on earth from the eternal ruin of the flood of divine wrath on the Day of Judgment is in the invisible miraculous kingdom. Just as once only he who had gone through the courtyard and through the Holy Place of the Temple in Jerusalem could enter into the Most Holy Place, so also no one who has not entered the invisible kingdom of grace here on earth can reach the kingdom of glory in heaven. Therefore Christ has also taught his Christians to pray daily, “*Your kingdom come*.” This second petition of the holy Lord’s Prayer is therefore also what we want to consider with one another in God’s presence today on this dear mission festival.
 
-### Text: Luke 11:1-2 ###
+### Text: Luke 11:1-2
 
->One day Jesus was praying in a certain place. When he finished, one of his disciples said to him, “Lord, teach us to pray, just as John taught his disciples.”
+> One day Jesus was praying in a certain place. When he finished, one of his disciples said to him, “Lord, teach us to pray, just as John taught his disciples.” \\
+\\
+He said to them, “When you pray, say: \\
+\\
+“‘Father, hallowed be your name, your kingdom come.’”
 
->He said to them, “When you pray, say:
+The last of these words we read, *“Your kingdom come,”* are a mission prayer. They are therefore also the words at which I will above all focus your meditation on this mission festival by showing you:
 
->“‘Father, hallowed be your name, your kingdom come.’”
-
-The last of these words we read, “*Your kingdom come*,” are a mission prayer. They are therefore also the words at which I will above all focus your meditation on this mission festival by showing you:
-
-### How important it is that in the holy Lord’s Prayer Christ places the mission petition, “Your kingdom come,” in the mouths of his Christians. ###
+**How important it is that in the holy Lord’s Prayer Christ places the mission petition, “Your kingdom come,” in the mouths of his Christians.**
 
 We see this especially in two ways:
 
@@ -44,7 +44,7 @@ We see this especially in two ways:
 
 2. The Christian’s certain mission comfort
 
-### I. ###
+### Part I.
 
 In our text, my friends, it is reported to us that once when Christ prayed to his Father in the presence of his disciples, one of them was aroused by this to such an ardent desire that as soon as Christ had ended his prayer, he turned to Christ with the petition, “*Lord, teach us to pray, just as John taught his disciples*.” And what is it which Christ taught his disciples to pray? After he first had told them to pray, “*Hallowed be your name*,” he then places in their mouths the petition, “*Your kingdom come*.” It is a thing of the highest importance. And to be sure we see from it first that the mission responsibility is a universal responsibility of Christians.
 
@@ -63,7 +63,7 @@ Of course, my friends, just as all *giving* for the spreading of the kingdom of 
 
 Well, my friends, from now on as often as you pray “*Your kingdom come*,” may you have not only an earnestness from God in faith to really desire in the name of Jesus Christ what you express with the petition, but also may it be a firm reminder for you that God will not accomplish what you ask of him immediately, but rather mediately through men, and to be sure also through you. The same hands which you lift to God in prayer for the mission also open with your gifts of love for it. Do not let the world put you to shame. Consider how much the world itself now sacrifices for the worldly kingdom of its earthly homeland. It sacrifices its wealth, its sons, and the life and health of thousands and thousands for it. Is it that great a thing then when you are required as Christians to sacrifice for the spiritual kingdom of your heavenly homeland some of your earthly possessions and, if God has given you sons with the gifts for it, to sacrifice them also to become Christ’s messengers? How much money does the world loan out on uncertain interest and of course it often loses both? Are you as Christians not most willing to invest money with God, who will, as surely as his Word is truth, again replenish you with incalculable interest? And furthermore, how much of the goods entrusted to them does the world turn to vain trinkets, to fashion, to the desires of the flesh? Should you as Christians not be much more willing to at the very least turn as much to the spreading of the kingdom of God as the world turns to the spreading of the kingdom of the devil? 
 
-### II. ###
+### Part II.
 
 Of course, there is probably someone among us who has just been lazy up till now in praying and giving for the spreading of the kingdom of God in the world because he thinks it is just all in vain. For his sake and as an encouragement for all of us let me now show that in the petition Christ prescribed for his Christians “*Your kingdom come*,” not only the Christian’s holy mission *responsibility* lies expressed, but also his *certain mission comfort*.
 
@@ -81,11 +81,11 @@ Therefore if we only continue to cry in faith day and night “*Your kingdom com
 
 So in conclusion beg with me in firm faith:
 
-Conqueror conquer, Ruler reign,  
-King assert Thy sovereign right,  
-Till no slavery more remain  
-Spread the kingdom of Thy might!  
-Lead the captives freely out,  
-Through the covenant of Thy blood,  
-From our dark remorse and doubt,  
+> Conqueror conquer, Ruler reign, \\
+King assert Thy sovereign right, \\
+Till no slavery more remain \\
+Spread the kingdom of Thy might! \\
+Lead the captives freely out, \\
+Through the covenant of Thy blood, \\ 
+From our dark remorse and doubt, \\
 For Thou willest but our good (Catherine Winkworth, 1858).  

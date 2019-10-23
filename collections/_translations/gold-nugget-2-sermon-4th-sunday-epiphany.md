@@ -42,19 +42,19 @@ My friends, please see in Noah’s Ark a glorious picture of the true Church of 
 
 Also in our Gospel reading for today the Church is portrayed for us in the picture of a ship, and, in fact, a ship which once sailed from one land to another land. This, then, is also the point of comparison upon which we especially wish to consider in this hour.
 
-### Text: Matthew 8:23-27 ###
+### Text: Matthew 8:23-27
 
->Then he got into the boat and his disciples followed him. Without warning, a furious storm came up on the lake, so that the waves swept over the boat. But Jesus was sleeping. The disciples went and woke him, saying, “Lord, save us! We’re going to drown!” 
-
->He replied, “You of little faith, why are you so afraid?” Then he got up and rebuked the winds and the waves, and it was completely calm. 
-
->The men were amazed and asked, “What kind of man is this? Even the winds and the waves obey him!”
+> Then he got into the boat and his disciples followed him. Without warning, a furious storm came up on the lake, so that the waves swept over the boat. But Jesus was sleeping. The disciples went and woke him, saying, “Lord, save us! We’re going to drown!” \\ 
+\\
+He replied, “You of little faith, why are you so afraid?” Then he got up and rebuked the winds and the waves, and it was completely calm. \\
+\\
+The men were amazed and asked, “What kind of man is this? Even the winds and the waves obey him!”
 
 The ship about which we are told in the Gospel we read, my friends, has been previously examined as a picture of the Christian Church, so that it is customary to call the inside of any church building the nave of the church.  Just as the crew of that ship was made up of Christ’s true disciples with Christ himself at the lead, so also the Church is nothing other than the congregation of the Christ’s true disciples, whose Lord and head is Jesus Christ himself.  And just as that ship was assaulted by a dreadful sea-storm when Christ slept inside but when Christ, having been woken up by the nervous cries of his weak-faithed disciples, suddenly stilled the wind and wave miraculously by his mighty word and brought the boat safely to the shore, so also the *Church* in this world suffers need, yes, it often seems that Christ is sleeping in it, but having been woken by his believers’ cries for help, he always almightily rips his Church away from all its need and finally brings it safely to the shore of eternal life. However, we have already at another time let this consideration delight our hearts and strengthen our faith. But there is still one fact left remaining for our consideration, and that is this: that that ship sailed from one place to another. This is a fact which is important enough for us to especially consider and think over.
 
 Let me then now portray to you:
 
-### The Church, a ship sailing from place to place. ###
+**The Church, a ship sailing from place to place.**
 
 We here consider
 
@@ -65,7 +65,7 @@ We here consider
 Lord Jesus Christ, you have entered among us with your pure Word and unadulterated Sacrament. Yes, you have raised us like Shiloh, where the refuge of your religion was, like Jerusalem, where your holy Temple was. But you have not promised us that you will remain among us eternally. If we would become unthankful you will let us become deserted like Shiloh and destroy us like Jerusalem. So we fervently pray you: in addition to your pure Word which you have given to us give us also faith which holds it fast, in addition to the unadulterated Sacraments which you have given to us give us also the proper use which preserves them, and in addition to all your exuberant showings of grace give us the faithfulness which brings you your fruit. O Lord Jesus, do the best, for see, we are weak. We fall oh so easily. Our hearts within us are corrupt, the world which surrounds us is tempting, and Satan who fights against us is deceptive and mighty. Bless our congregation. Bless our city. Bless the Church of this land. Bless
 your entire Church in all ends and places in this last troubled time. Hear us, Savior of sinners! Amen!
 
-### I. ###	
+### Part I.
 
 It is very convincing to everyone that the Christian Church can be compared with a *castle* which is built on a high, unshakeable cliff, and so it seems that there is hardly a comparison more inappropriate for the Church than a *ship*. Indeed, a ship stands, unlike other structures, on constantly wavering ground. A game of the wind and the wave, every moment it is in danger of being wrecked and swallowed by the abyss of the ocean! But, my friends, not only does the Church stand in spite of every assault of the world and hell because it is held by God’s hand, even though before man’s eyes it is like a weak, breakable vessel, seemingly helpless and destined for certain sinking, but above all the Church is also actually like a ship in that like a ship it never stands still, but continually sails until the Last Day from place to place, now here, now there. It rests, at least in its purity and integrity and with all its treasures, at most only a short time. As every individual believing Christian confesses, so also must the Church, the congregation of believers, confess, “For here we do not have an enduring city,” and with David, “For I dwell with you as an alien, a stranger, as all my fathers were.” A perfect picture of this is the ship in our Gospel reading, in which Christ with his disciples left the land on the western shore of the Sea of Geneseret and sailed over to the eastern shore into the land lying opposite the Gergesenes.
 
@@ -83,7 +83,7 @@ While millions whose ancestors once walked in the light of the Gospel now sit in
 
 See here the confirmation of the truth that the Church is a ship sailing from place to place. For we have seen that no storm of the world and hell has been mighty enough to wreck the ship of the Church or sink it into the depths of the ocean of this world and wipe it from the face of the earth. But also there has not been one land, one people, or one city of the earth where the Church has had an enduring dwelling place, or at least not where it remained in its original purity! Christ’s travel with his own disciples upon the Galilean Sea is a picture of the continuous travel of his Church from land to land, from people to people, from city to city.
 
-### II. ###
+### Part II.
 
 Of course, my friends, this picture is quite true. It is also quite an admonishment and a warning. And therefore that is also the other thing which now occupies our devotion further.
 

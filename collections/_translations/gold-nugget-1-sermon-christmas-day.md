@@ -12,21 +12,23 @@ In this sermon, preached by Walther on Christmas Day, 1872, he encourages his he
 
 ---
 
+### Introduction
+
 O God, how great, how incomprehensible is your love! We were your enemies and unspeakably wretched because of it, and look! You did not decide to take vengeance on us. No! Our wretchedness grumbled against you and you decided to save us, yes, and in so doing to make us *more glorious* than we had ever been before. And so you made your only-begotten son to be a partner in our wretchedness. O love which exceeds all asking! O love which exceeds all thinking! We sat in darkness and in the shadow of death, but look! Your son came on earth and it was light. Our sins accused us before you, but look! Your son came in our midst and our sins were erased. Death reigned over us, but look! Your son came down from heaven, and with him life appeared.
 
 O Lord God, *today* even the world may stand doubting your boundless and never-ending miraculous love: we will widen the eyes of our faith to it today. But we have nothing unless you grant it. Oh, Sun of eternal love, rise over us through your Word and enter into us through your Holy Spirit, so that we too can sing with your heavenly hosts with souls full of faith, peace, and joy: “Glory to God in the highest, and on earth peace to men on whom his favor rests!” Amen.
 
-### Text: Luke 2:1-14
+### Text: Luke 2:1-14 
 
-> In those days Caesar Augustus issued a decree that a census should be taken of the entire Roman world. (This was the first census that took place while Quirinius was governor of Syria.) And everyone went to his own town to register.
-
-> So Joseph also went up from the town of Nazareth in Galilee to Judea, to Bethlehem the town of David, because he belonged to the house and line of David. He went there to register with Mary, who was pledged to be married to him and was expecting a child. While they were there, the time came for the baby to be born, and she gave birth to her firstborn, a son. She wrapped him in cloths and placed him in a manger, because there was no room for them in the inn.
-
->And there were shepherds living out in the fields nearby, keeping watch over their flocks at night. An angel of the Lord appeared to them, and the glory of the Lord shone around them, and they were terrified. But the angel said to them, “Do not be afraid. I bring you good news of great joy that will be for all the people. Today in the town of David a Savior has been born to you; he is Christ the Lord. This will be a sign to you: You will find a baby wrapped in cloths and lying in a manger.”
-
->Suddenly a great company of the heavenly host appeared with the angel, praising God and saying,
-
->“Glory to God in the highest, and on earth peace to men on whom his favor rests.”
+> In those days Caesar Augustus issued a decree that a census should be taken of the entire Roman world. (This was the first census that took place while Quirinius was governor of Syria.) And everyone went to his own town to register. \\
+\\
+So Joseph also went up from the town of Nazareth in Galilee to Judea, to Bethlehem the town of David, because he belonged to the house and line of David. He went there to register with Mary, who was pledged to be married to him and was expecting a child. While they were there, the time came for the baby to be born, and she gave birth to her firstborn, a son. She wrapped him in cloths and placed him in a manger, because there was no room for them in the inn. \\
+\\
+And there were shepherds living out in the fields nearby, keeping watch over their flocks at night. An angel of the Lord appeared to them, and the glory of the Lord shone around them, and they were terrified. But the angel said to them, “Do not be afraid. I bring you good news of great joy that will be for all the people. Today in the town of David a Savior has been born to you; he is Christ the Lord. This will be a sign to you: You will find a baby wrapped in cloths and lying in a manger.” \\
+\\
+Suddenly a great company of the heavenly host appeared with the angel, praising God and saying, \\
+\\
+“Glory to God in the highest, and on earth peace to men on whom his favor rests.”
 
 Delighted hearers, eternally loved by God!
 
@@ -46,7 +48,7 @@ Of course there is—God be praised!—still a third class of men, and I hope th
 
 But what, my friends? Do we have some cause to be ashamed about this childlike faith of ours in this enlightened time and to finally give it up as well? Oh, far from it! Then the topic of our Christmas devotion for today should be the answer to the question:
 
-### Why do we want to remain in our childlike faith in the mystery of the holy Christ still also today?
+**Why do we want to remain in our childlike faith in the mystery of the holy Christ still also today?**
 
 My answer: for three reasons:
 
@@ -56,7 +58,7 @@ My answer: for three reasons:
 
 3. Because it also alone brings hope for an eternal blessed life after death.
 
-### I. ###
+### Part I
 
 The world, my friends, is a great riddle which no human cunning is able to solve. Man can well recognize from the light of nature as much as that an almighty and all-wise God must have *created* heaven and earth and all that is in them. But whether there is a divine *providence* which extends over all things, whether the *creator* of the world also *governs* the world, whether everything which is and happens on Earth stands under God’s control for the carrying out of a *plan* set over all mankind, or whether instead everything is without a plan, just a work and game of chance, whether besides men there are still inhabitants of another world who stand similar to men and make up a kingdom with them, or whether instead man is the only living, thinking, and feeling created being in all of creation—no wise man of this world knows, nor ever can know, all this. Instead the more ardently the wise men of the world have thought about the history of humanity, both of entire peoples and of individual men, the more impenetrable the darkness always appeared to them in which they saw the entire world enveloped, the less they have been able to discover how all things connect, the more likely it became to them that everything, all peoples and all individual persons, were subject to an iron fate, a blind danger, and that the whole world, like a ship without a captain and without a helmsman, sails forth through time and space without a goal or a purpose. O unspeakably hopeless darkness!
 
@@ -76,7 +78,7 @@ See, while without Christ the whole world is an unsolvable tangle of riddles and
 
 Oh, my friends, will we, may we, can we give up our childlike faith in the mystery of the holy Christ, a faith which solves all the riddles of our existence? And do we want to exchange it for the unbelief of the world, which extinguishes this sun and plunges us into the horrible night of eternal doubt? No! No! Although our race may presently try in vain to illuminate the darkness of this world with the lamplight of human reason instead of with the sun of revelation, we will rejoice even more in the light which has risen on the consecrated night[^1] on which we catch sight of time and eternity, heaven and earth, angels and people, all appearances of world history and our own wondrous path of life in wonderful harmony.
 
-### II. ###
+### Part II
 
 Of course, my friends, this is not the only reason why we still also today want to remain in our childlike faith in the mystery of the holy Christ. One equally compelling reason is *because this mystery alone brings comfort and help against the sins all men* as well. Therefore let me now speak to you about it next.
 
@@ -90,7 +92,7 @@ See, sinners, here, here is true comfort. Here, here is certain help against sin
 
 Oh, my friends, will we, can we, may we give up our childlike faith in the mystery of the holy Christ? No! No! Not now, not ever! Or will we throw away the bread which has satisfied our hunger because others call it a stone? May we throw away the medicine which has healed us, which has brought us recovery, because others call it a deadly poison? You all say, “No, no! In Bethlehem there lies a bread which has satisfied our hungering souls and we are supposed to throw it away like a stone? There is a medicine which has healed our sin-sick hearts and we are supposed to do away with it like a deadly poison? Alas, poor world, even if you deny the debt of your sin, or boldly dare to step before the great God as if your debt were trivial, or willfully despair when it finally becomes hell deep within you, we remain in our childlike faith in the mystery of the holy Christ, which alone brings us true comfort and true help against this evil of all evils.”
 
-### III. ###
+### Part III
 
 Of course, my friends, there is one more thing here which gives us great joy, and that is part three: *because this mystery alone brings hope for an eternally blessed life after death*. So allow me to say just a few more words about this.
 

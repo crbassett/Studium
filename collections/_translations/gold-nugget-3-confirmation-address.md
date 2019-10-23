@@ -44,7 +44,7 @@ In the name of the holy highly-praised Trinity, God the Father, God the Son, and
 
 This time, my friends, has now come. It has happened as Christ has predicted it. It is undeniable that your life has taken place in those last troubled times full of temptations. Therefore if there is any passage at all of the Holy Scriptures that you have to imprint deep upon your heart ahead of all others in the present hour, then it is our faithful Savior’s word of warning for the last times:
 
-### “He who stands firm to the end will be saved.”
+**“He who stands firm to the end will be saved.”**
 
 Therefore before you express your precious vow, I first want to briefly lay this word on your heart and show you how you should stand firm:
 
@@ -52,7 +52,7 @@ Therefore before you express your precious vow, I first want to briefly lay this
 
 2. In love and the practice of godliness.
 
-### I.
+### Part I.
 
 You have, my sincerely beloved children, lived a truly blessed life until now. Through God’s goodness and through the faithful care of your dear parents you have so far enjoyed a good instruction in the saving Christian truth. You have been like young plants of God which he has had carefully fenced in, watered, and cultivated in the garden of school and of your parents’ house. You silently went there and were able to learn and confess God’s Word and no one has disturbed you.
 
@@ -64,7 +64,7 @@ Of course, my friends, in your life you will get to know not only such *course* 
 
 Oh, therefore let yourselves be warned. Let yourselves be admonished. Stand firm in the truth you have known. Abandon it for no man. Never deny it to gain the favor of men or other earthly benefits. What good will it be for you if you gain the whole world, yet forfeit your soul? Prefer to suffer all scorn and derision, all persecution, poverty, misery, and imprisonment, before you should let go of even just one single letter of the Holy Scriptures. Yes, be prepared to die, to suffer the most excruciating death, rather than deny the truth which alone can save you. Do not be afraid of those who kill the body but cannot kill the soul. Rather, be afraid of the One who can destroy both soul and body in hell. Think of the many millions of martyrs who have already shed their blood for the sake of the truth. What has it hurt them that they abandoned and sacrificed everything for it? They are now eternally blessed and triumph with Christ eternally in heaven. But what has it helped those who betrayed or denied the truth out of fear of men our out of love for gold? They, of course, eventually had to die and are now disgraced, eternally cast from Christ into the fiery abyss of hell. Oh how comforted you will meet death if you have remained firm and steadfast in the truth! How glorious it will be when you leave behind this earthly battlefield and are carried by the angels into heaven as victors and are there adorned with the crown of eternal life!
 
-### II.
+### Part II.
 
 Of course, precious children, Christ does not only want you to endure in faith and the confession of the truth in these last times, but also *in love and the practice of godliness*. No one can remain in the faith, in Christ, and in the truth who is living in sin, serving his flesh, and letting the thinking of the world rule within him. On the contrary Christ says, “If anyone would come after me, he must deny himself and take up his cross daily and follow me” (Luke 9:23). “Not everyone who says to me, ‘Lord, Lord!’ will enter the kingdom of heaven, but only he who does the will of my Father who is in heaven” (Matthew 7:21). “You are my friends if you do what I command” (John 15:14). “If you hold to my teaching, you are really my disciples. Then you will know the truth, and the truth will set you free” (John 8:31-32), that is, free from the rule of sin and all ungodly character.
 
@@ -80,12 +80,12 @@ Oh, stand firm then, if you remain with your Jesus, then you will have it good. 
 
 Therefore think about this, about this glorious end, and hold out until this end.
 
->Oh stay, lambs, stay! And think upon this day  
->When you before the world this oath have spoken.  
->To Christ who knocked and struck in ev’ry way  
->Until in love he your poor heart had broken.  
->Keep well in mind what you said as you wept:  
->“I Christ accept.” Amen.  
+> Oh stay, lambs, stay! And think upon this day \\
+When you before the world this oath have spoken. \\ 
+To Christ who knocked and struck in ev’ry way \\
+Until in love he your poor heart had broken. \\
+Keep well in mind what you said as you wept: \\
+“I Christ accept.” Amen.  
 
 *The children’s confirmation song.*
 

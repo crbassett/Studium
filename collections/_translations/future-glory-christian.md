@@ -4,6 +4,7 @@ author: siegler
 translator: bassett
 language: German
 issue: 5
+date: 2006-08-04
 brief: 
 ---
 

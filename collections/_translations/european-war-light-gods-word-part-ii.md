@@ -4,6 +4,7 @@ author: apieper
 translator: bassett
 language: German
 issue: 7
+date: 2006-08-04
 brief: August Pieper points to a Christian outlook during the time of war.
 ---
 

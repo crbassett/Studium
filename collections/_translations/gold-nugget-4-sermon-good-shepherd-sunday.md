@@ -32,13 +32,13 @@ Now although, as I said, in this sense no man bears the name “shepherd,” the
 
 ### Text: John 10:11-16
 
->“I am the good shepherd. The good shepherd lays down his life for the sheep. The hired hand is not the shepherd who owns the sheep. So when he sees the wolf coming, he abandons the sheep and runs away. Then the wolf attacks the flock and scatters it. The man runs away because he is a hired hand and cares nothing for the sheep.
-
->“I am the good shepherd; I know my sheep and my sheep know me—just as the Father knows me and I know the Father—and I lay down my life for the sheep. I have other sheep that are not of this sheep pen. I must bring them also. They too will listen to my voice, and there shall be one flock and one shepherd.”
+> “I am the good shepherd. The good shepherd lays down his life for the sheep. The hired hand is not the shepherd who owns the sheep. So when he sees the wolf coming, he abandons the sheep and runs away. Then the wolf attacks the flock and scatters it. The man runs away because he is a hired hand and cares nothing for the sheep. \\
+\\
+“I am the good shepherd; I know my sheep and my sheep know me—just as the Father knows me and I know the Father—and I lay down my life for the sheep. I have other sheep that are not of this sheep pen. I must bring them also. They too will listen to my voice, and there shall be one flock and one shepherd.” \\
 
 Every Gospel can, my friends, be viewed and applied in two kinds of ways, namely, either according to faith or according to love, and we can also view Christ in all his works in two kinds of ways, namely, either as our Savior and Redeemer or as our example and model. Since up till now we have on the basis of our Gospel for today viewed Christ always according to faith as our Savior and Redeemer, let us today look once at what is said in it about his shepherd office and shepherd faithfulness according to love, that is, as an example which human shepherds have to follow and by which we are to judge them. Let us please consider:
 
-### What it means that the name “good shepherd” can also given to a human preacher.
+**What it means that the name “good shepherd” can also given to a human preacher.**
 
 It means according to our Gospel:
 
@@ -52,7 +52,7 @@ It means according to our Gospel:
 
 Lord Jesus Christ, Good Shepherd, who thus far has cared so faithfully for us, your poor, easily led-astray flock, revealed all seductive spirits which could corrupt us, and preserved us from the deadly poison of their false teachings, we pray you. Continue to care for us and our children and continually make our congregation into a meadow in which everyone finds the sweet pastures of your pure Word and unadulterated Sacraments. But also have mercy on all Christendom in this and all other lands. Give it shepherds and teachers after your own heart who rightly pasture it and fight for it courageously, and bring to shame all the false shepherds and soul-corrupters who are among it. Oh, see how your Church is torn apart and trampled by your enemies! Oh, arise, then, and again grant your pure Word victory as in the days of our fathers that again all peoples bow down to you and your truth, and all peoples give the honor to you and praise your name that it is you alone who saves. Hear us for the sake of your shepherd faithfulness. Amen.
 
-### I.
+### Part I.
 
 My friends, John writes already to the Christians of his time in his first epistle, “Dear friends, do not believe every spirit, but test the spirits to see whether they are from God, because many false prophets have gone out into the world.” From this we see that it is at all times important and necessary for a Christian who does not want to be deceived about his salvation to know which preachers are good shepherds. But if this has always been important and necessary, then in our time and in this new homeland of ours it is certainly of the highest necessity and importance for a Christian. For now the entire world and especially our America is more full of temptation than ever before.
 
@@ -68,7 +68,7 @@ We see that this is the case from many passages in the Holy Scriptures in which 
 
 Therefore, dear hearers, if you don’t want to be deceived in this time so full of temptations, then observe this rule: Whoever takes the honor of being a preacher upon himself without be called to it, whoever shepherds a flock which has not been placed under his care, whoever presumes to be a teacher of another, whoever runs with a message without being sent, in short, whoever preaches to you without being either expressly or tacitly invited by you to do so is a false shepherd no matter what he preaches, even if he proclaims the truth in the tongues of angels. The uncalled preachers who travel through the land and prowl around the houses are very well accustomed to saying that God has sent them and that the Holy Spirit urges them to do this. But God sends and calls no one immediately without at the same time also giving the gifts to do miracles so he is able to prove his divine sending. Therefore if a preacher cannot prove with seal and letter that his hearers have called him in the name of the Lord, he must prove through miracles that God himself has called him in an extraordinary way, as he once called the holy Prophets. Otherwise he is a false prophet whom a Christian must flee and avoid as a spirit of temptation.
 
-### II.
+### Part II.
 
 Of course, my friends, a human preacher can very well be rightly called and stand in a legitimate office and still not deserve the name “good shepherd.” Secondly, the name means that he directs the sheep entrusted to him only to Christ as their only true shepherd.
 
@@ -80,7 +80,7 @@ One such good shepherd, among others, was John the Baptist. The brief content of
 
 Therefore, my friends, if you don’t want to be deceived in this time so full of temptations, observe this second rule: Whatever preacher wants to be the shepherd of his sheep and demands obedience towards his words even when they are not Christ’s words, whatever preacher preaches a wisdom other than Christ and shows a way to heaven other than Christ, whatever preacher does not with all his sermons seek to glorify Christ and to lead his hearers to Christ, whatever preacher promotes teachings which take away or diminish Christ’s honor as the only shepherd, as the only master, as the only God and Lord, is not a good shepherd but a dreadful wolf, even though he enters in sheep’s clothing and shines in the brilliance of heavenly holiness. Therefore if your salvation is dear to you, let yourself be warned.
 
-### III.
+### Part III.
 
 Of course, my friends, there are preachers, who, to be sure, do not belong to the wolves, because through pure teaching they lead their hearers to Christ, the Good Shepherd, and yet they are still not good shepherds, but rather are *hired hands*. Furthermore, the name “good shepherd” also means that a good shepherd faithfully and courageously fights against the wolves who do not spare the flock.
 
@@ -94,7 +94,7 @@ Therefore, dear hearers, do not adhere to those who now at our time demand that 
 
 Oh, my dear hearers, what would it look like in the Church now if in the past faithful shepherds had not kept watch and fought? What would it look like now if an Athanasius had not once fought against Arius, who denied the deity of Jesus Christ? If an Augustine had not once fought against Pelagius, who denied human wretchedness? If a Luther had not once fought against the papacy on one side and Zwingli’s falsifications of Scripture on the other? What still much greater night would now cover the poor Church! Therefore let us bless, yes, bless these heroes in the camp of Jesus Christ who during their lives were so often misjudged and disgraced. Let us bless these alert watchmen on the battlements of Zion, these field generals courageous and victorious in the battles of the Lord of Hosts. They were faithful shepherds and now bear as the reward for their faithfulness the beautiful crown of a knightly fighter which the arch-shepherd Jesus Christ has offered to them as his faithful under-shepherds.
 
-### IV.
+### Part IV.
 
 Of course, in our Gospel Christ states one more sign of a faithful shepherd for us when in it he says in conclusion: “*I have other sheep that are not of this sheep pen. I must bring them also. They too will listen to my voice, and there shall be one flock and one shepherd*.” From this we see that the fact that even a human preacher can be given the name “good shepherd” also means fourthly and lastly that he also bears sincere concern for the sheep who have not yet been called and gathered and are still going astray.
 
@@ -108,11 +108,11 @@ Oh, may God help that this sermon is not useless for you and that you now not on
 
 Oh yes, Lord Jesus, we pray you:
 
->If as a shepherd you here abide.  
->Then your good spirit your flock will guide.  
->Let it dwell in us and never be leaving.  
->Let it propel us morning and evening,  
->Yes, day and night!  
->Amen.  
+> If as a shepherd you here abide. \\
+Then your good spirit your flock will guide. \\
+Let it dwell in us and never be leaving. \\
+Let it propel us morning and evening, \\
+Yes, day and night! \\
+Amen. 
 
 May the God of peace, who through the blood of the eternal covenant brought back from the dead our Lord Jesus, that great Shepherd of the sheep, equip you with everything good for doing his will, and may he work in us what is pleasing to him, through Jesus Christ, to whom be glory for ever and ever. Amen.
