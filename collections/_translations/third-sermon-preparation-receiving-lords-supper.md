@@ -8,6 +8,8 @@ published: 2011-05-13
 brief: One of three Maundy Thursday sermons preached by Johannes Brenz.
 ---
 
+## Translator's Preface
+
 In this third and final sermon on the Lord’s Supper, Johannes Brenz discusses how we should prepare ourselves to receive the Lord’s Supper. He explains how contrition, confession, and satisfaction, terms which have been misused by the Roman Catholic Church, can be properly used to help us prepare to receive the Lord’s Supper.
 
 ---
