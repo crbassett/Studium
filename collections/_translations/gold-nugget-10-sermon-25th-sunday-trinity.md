@@ -4,6 +4,7 @@ author: walther
 translator: jensen
 language: German
 issue: 13
+date: 2010-09-28
 brief: This 1844 sermon offers Christians comfort during trials.
 ---
 
@@ -27,15 +28,15 @@ Tell me, my friends, is it not so? Don't unbelievers and corrupt people leave mo
 
 Yet there are still so many finer nooses of temptation which threaten even the experienced Christian with the highest danger to his soul. Let me now speak to you more about this.
 
-### Text: Matt 24:15-28 ###
+### Text: Matt 24:15-28
 
->"So when you see standing in the holy place 'the abomination that causes desolation,' spoken of through the prophet Daniel―-let the reader understand―-then let those who are in Judea flee to the mountains. Let no one on the roof of his house go down to take anything out of the house. Let no one in the field go back to get his cloak. How dreadful it will be in those days for pregnant women and nursing mothers! Pray that your flight will not take place in winter or on the Sabbath. For then there will be great distress, unequaled from the beginning of the world until now―-and never to be equaled again. If those days had not been cut short, no one would survive, but for the sake of the elect those days will be shortened. At that time if anyone says to you, 'Look, here is the Christ!' or 'There he is!' do not believe it. For false christs and false prophets will appear and perform great signs and miracles to deceive even the elect-―if that were possible. See, I have told you ahead of time.
-
->"So if anyone tells you, 'There he is, out in the desert,' do not go out; or, 'Here he is, in the inner rooms,' do not believe it. For as lightning that comes from the east is visible even in the west, so will be the coming of the Son of Man. Wherever there is a carcass, there the vultures will gather."
+> "So when you see standing in the holy place 'the abomination that causes desolation,' spoken of through the prophet Daniel―-let the reader understand―-then let those who are in Judea flee to the mountains. Let no one on the roof of his house go down to take anything out of the house. Let no one in the field go back to get his cloak. How dreadful it will be in those days for pregnant women and nursing mothers! Pray that your flight will not take place in winter or on the Sabbath. For then there will be great distress, unequaled from the beginning of the world until now―-and never to be equaled again. If those days had not been cut short, no one would survive, but for the sake of the elect those days will be shortened. At that time if anyone says to you, 'Look, here is the Christ!' or 'There he is!' do not believe it. For false christs and false prophets will appear and perform great signs and miracles to deceive even the elect-―if that were possible. See, I have told you ahead of time. \\
+\\
+"So if anyone tells you, 'There he is, out in the desert,' do not go out; or, 'Here he is, in the inner rooms,' do not believe it. For as lightning that comes from the east is visible even in the west, so will be the coming of the Son of Man. Wherever there is a carcass, there the vultures will gather."
 
 The Gospel lesson we just read, my friends, deals with the destruction of Jerusalem and the end of the world. But both of them are so mixed together with each other that it is very difficult to say which words apply only to the destruction of Jerusalem and which apply only to the last times. But this mixing occurs intentionally because the destruction of Jerusalem is a picture of the destruction of the world, and in both great events the same things shall come first. Christ describes the one time just like the other, namely, as such a time in which the danger would be so great, that they would "deceive even the elect--if that were possible!" Accordingly, I will speak to you:
 
-About the constant great danger of temptation.
+**About the constant great danger of temptation.**
 
 And to be sure:
 
@@ -43,7 +44,7 @@ And to be sure:
 
 2. 	How you can still escape it safely.
 
-### I. ###
+### Part I.
 
 Our text begins with the words, "So when you see standing in the holy place 'the abomination that causes desolation,' spoken of through the prophet Daniel-―let the reader understand." In these words Christ clearly describes the events preceding the destruction of Jerusalem, for he adds, "Then let those who are in Judea flee to the mountains." By the abomination that causes desolation which will stand in the holy place it is to be understood that the emperor Gaius Caligula had his own image set up in the Temple in Jerusalem for idolatrous worship. Therefore this should be a warning sign for all believers that the ripping down of the temple, the leveling of the holy city, and the downfall of the entire Jewish kingdom was at the door.
 
@@ -53,20 +54,20 @@ See here the true picture of the actual conditions and fates of the church of Ch
 
 But how greatly they deceive themselves with such thoughts! Whoever is a living member of the true church cannot sleep in the church as in an unscalable castle, secure and unconcerned about the enemy. To lead a Christian life in complete peace and quiet is a dream. Rather this hymn speaks the absolute truth.
 
->Once the pearl is your possession   
->Do not think you now enjoy  
->Vict'ry over the aggression  
->Of the evil which destroys.  
-
->Trembling, guard o'er your salvation  
->Fearful for your precious soul,  
->For in daily tribulation  
->Hang you over a deep hole.  
-
->Firmly hold your crown and surely  
->True persistence is the best  
->Grasp whatever's yours securely.  
->Relapse is a wicked guest.  
+> Once the pearl is your possession \\
+Do not think you now enjoy \\
+Vict'ry over the aggression \\
+Of the evil which destroys. \\
+\\
+Trembling, guard o'er your salvation \\
+Fearful for your precious soul, \\
+For in daily tribulation \\
+Hang you over a deep hole. \\
+\\
+Firmly hold your crown and surely \\
+True persistence is the best \\
+Grasp whatever's yours securely. \\
+Relapse is a wicked guest.
 
 Whoever has found the truth may not view himself therefore as a peaceful possessor of a jewel which no one will dispute. No, the triumphant church, the church at rest, is not on earth, but in heaven. Here we are still in the land of testing and of faith, not of crowning and of sight. Here the Kingdom of Light must unceasingly stand in battle with the kingdom of darkness, for Satan and his kingdom oppose Christ on the field uninterruptedly. Here therefore the offences, the scandals, the abominations, the temptations never stop in which our souls can easily lose again what they have acquired and finally still go lost themselves. Here there is a constant danger, always new tribulations and always new temptations. The church is a fortress in which the truth lies as a treasure to be guarded and in which the Christians stand as a defending battalion. But enemies attack it from all sides, yes, even inside the church's walls traitors are found who also shame the church before the world with their unchristian works and who are bent on causing unrest in it and delivering the divine building into the hands of the enemy. The Gospel is a light which to be sure the world and hell can never entirely extinguish with all their hurricane winds but which the individual Christian can easily lose that it no longer illuminates him.
 
@@ -78,7 +79,7 @@ But my friends, we cannot be of the opinion that the idea of the great danger of
 
 How many, especially when they come into this new homeland of ours and see the many religious denominations often with their sanctification prominently on display, how many do not know then what they should say? First they are caught up in unrest and doubt, but what is usually the end? One joins himself to the crowd of mockers, a second seeks refuge in the great and splendid temple of the papists, a third abandons the old faith of his fathers, becomes a victim of the enthusiasts and now considers only a powerful excitement of his feelings to be true Christianity. Poor casualties of seductive spirits! May God himself look upon this.
 
-### II. ###
+### Part II.
 
 Therefore let us now hear secondly how you can still escape all these great dangers of temptation safely.
 

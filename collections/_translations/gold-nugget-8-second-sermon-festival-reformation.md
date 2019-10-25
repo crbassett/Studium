@@ -4,6 +4,7 @@ author: walther
 translator: jensen
 language: German
 issue: 14
+date: 2010-11-11
 brief: In this Reformation sermon Walther celebrates the great freedoms which the gospel brings.
 ---
 
@@ -39,13 +40,13 @@ O precious and incomparable fruit of the salutary work of the Reformation! There
 
 Of course, my friends, I have already repeatedly spoken to you about this greatest blessing of the salutary work of the Reformation on earlier days of its commemoration. Today let me now remind you of another blessing which will no less rouse us to thanks and joy. This is, namely, the precious blessing of the freedom of the conscience. But before we rejoice in this, let us bow the knees of our hearts in still devotion before the throne of grace.
 
-###Text: 2 Cor. 10:4-5
+### Text: 2 Cor. 10:4-5
 
->The weapons we fight with are not the weapons of this world. On the contrary, they have divine power to demolish strongholds. We demolish arguments and every pretension that sets itself up against the knowledge of God, and we take captive every thought to make it obedient to Christ.
+> The weapons we fight with are not the weapons of this world. On the contrary, they have divine power to demolish strongholds. We demolish arguments and every pretension that sets itself up against the knowledge of God, and we take captive every thought to make it obedient to Christ.
 
 My friends, when the holy Apostle Paul writes in the passage we read, *“The weapons we fight with are not the weapons of this world. On the contrary, they have divine power to demolish strongholds,”* he has with these words also planted the banner of freedom of religion and conscience on the battlements of the Christian Church, for he here testifies, and to be sure at the same time in the name of all his fellow Apostles, that they were far away from wanting to use the weapons of physical force to spread the kingdom of their Lord, that rather their weapons were contemptible before men but before God they were the mighty sword of his Word. This banner of the freedom of religion and conscious, after for a long time in Christianity it had laid curled up in the dust, was again unfolded by the Reformation. Therefore I will now portray for you:
 
-###The freedom of religion and conscience, a precious blessing of the Lutheran Reformation.
+**The freedom of religion and conscience, a precious blessing of the Lutheran Reformation.**
 
 Through which the two-fold principle was again brought to light and to prevalence:
 
@@ -53,7 +54,7 @@ Through which the two-fold principle was again brought to light and to prevalenc
 
 2. That it is not the statutes of men but only the Word of God which may rule in the Church.
 
-###I.
+### Part I.
 
 My hearers, the principle that it is not external force but free inner conviction which should bind people to the Church is not only expressed by the holy Apostle in our text when he says, *“The weapons we fight with are not the weapons of this world,”* but this principle is also so intimately connected with the actual nature of the kingdom of Christ that wherever this principle no longer applies the kingdom of Christ ceases to be. For this kingdom is only where there are hearts which believe in Christ with an intimate conviction and serve him in free love. Through all the life and works of Christ and of all the Apostles this principle is actually sealed a thousand-fold, and the entire Bible, both the Old and New Testaments, express it on every page. So it says among other things about Christ in the 110th Psalm, “Your troops will be willing on your day of battle. Arrayed in holy majesty. . . ” And the Prophet Jeremiah prophesies about the time of the New Testament, “‘The time is coming,’ declares the LORD, ‘when I will make a new covenant with the house of Israel and with the house of Judah. It will not be like the covenant I made with their forefathers when I took them by the hand to lead them out of Egypt, because they broke my covenant, though I was a husband to them,’ declares the LORD. ‘This is the covenant I will make with the house of Israel after that time,’ declares the LORD. ‘I will put my law in their minds and I will write it on their hearts.’”
 
@@ -67,9 +68,9 @@ But what happened? Things are different now. Entire great lands and peoples have
 
 And what is the work which the modern world and also this new homeland of ours, and therefore also we, have to thank for this blessing? It is none other than the work of the Lutheran Reformation. Therefore, my brothers, let us truly and vividly visualize what power would now possess the Christian lands and also this new homeland of ours if in the Reformation the papacy’s antichrist system of power, force, torment, blood, and murder had not been exposed in its shame by God’s Word. The Christian Church would finally have transformed into a monarchy extending over the entire world and finally everything which is called man would have had to tremble under the pope’s scepter of iron and blood. Therefore let us thank our faithful God today and worship him from the heart and praise him who has redeemed us from such a dreadful tyranny through the work of the Reformation and has given us along with millions of our forefathers and contemporaries the grace to plant the tree of freedom of religion and conscious, under whose shade we can live peacefully in abundance of physical and spiritual blessing, especially here.
 
-###II.
+### Part II.
 
-Of course, my friends, the true freedom of religion and conscious rests also on the principle that it is not the statutes of men but only the Word of God which may rule in the Church. Therefore let me today remind you secondly that also this principle was again brought to light and to prevalence.
+Of course, my friends, the true freedom of religion and conscience rests also on the principle that it is not the statutes of men but only the Word of God which may rule in the Church. Therefore let me today remind you secondly that also this principle was again brought to light and to prevalence.
 
 My friends, as dreadful as the tyranny was which the popes and their assistants imposed upon the Christians that they sought to force them to their own belief through external power, through fire and sword, it was still in no way the most dreadful and most terrible thing which the Christians suffered through the papacy. Through it the papacy still took from the Christians no more than the poor temporal life and helped them into heaven all the earlier and to an all the more radiant crown. Yes, when the popes became more and more drunk on the blood of the saints, it became all the clearer that the papal throne was the throne not of Christ, but of the Antichrist, the throne of Satan, and through this the eyes of not a few were opened concerning the secret power of lawlessness. But the most dreadful and most terrible thing was this: that little by little the principle emerged, and finally also they preached it into the hearts of Christians, that it is not only the written word but also the statutes of men which bind a Christian’s conscious. For through this the papacy has not killed mere thousands *physically,* as it has with its external force, but it has eternally corrupted and murdered millions *spiritually,* namely, their souls, and deceived them about their savior, about grace, about heaven and salvation with satanic tricks. They taught, at first concealed but finally more and more impertinent and free, that the Church, and by this they meant the pope along with his bishops and priests, stand in Christ’s place, that it has the spirit of Christ and therefore cannot err, that not only can it alone understand and interpret the Word of God but also even what it teaches, establishes, and institutes beyond and contrary to God’s Word is to be observed the same as the clear teachings of the Word of God and institutions of Christ. Therefore it must be obeyed unconditionally. Every Christian must believe and do whatever it orders to believe and do under penalty of a loss of divine grace and salvation. Whoever contradicts and is disobedient to the Church contradicts Christ himself and rebels against him. It alone has the keys of the kingdom of heaven. Therefore only through it can the Christian attain the blessings of grace and of salvation. Its excommunication is God’s excommunication and is to be feared even if it excommunicates unjustifiably. The laity are not allowed to read God’s Word or even to look into it. In the Church assemblies no lay person is allowed to raise his voice and judge concerning matters of doctrine, faith, and conscious. The Church, that is, the pope and his spirituality, ought to rule. The laity ought to let themselves be ruled by it, subject themselves to it and obey it.
 
@@ -85,7 +86,7 @@ And look! Luther’s testimony has forced its way through and so the sun of the 
 
 Well, let us then also grasp the apostolic warning deep within our hearts: “Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery.” Still Satan tries again, and he still tries today to snatch this jewel away from us again. Oh, let us therefore firmly hold onto what we have. Let us neglect no opportunity to know our freedom in Christ more and more completely, more and more deeply, and more and more sincerely. For what does all the freedom of religion help us if our conscience is bound by the teaching of men? On the contrary, if we do not let go of the freedom of our conscience, even if the freedom of the public practice of our religion be taken, even if they draw their swords against us and force us with burning stakes, we are still free even in the deepest underground prison, and even the most agonizing death just opens for us the exit from this miserable life and the entrance into the land of complete eternal freedom.
 
-The Word they still shall let remain,  
+> The Word they still shall let remain,  
 Nor any thanks have for it;  
 He’s by our side upon the plain  
 With his good gifts and Spirit.  

@@ -12,42 +12,42 @@ Joachim Neander (1650-1680) was a Reformed teacher and hymnist. He enjoyed wande
 
 ---
 
-On these quiet lonely days  
-I am ready You to praise.  
-God, please hear me when I speak  
-For my soul now You does seek!  
+On these quiet lonely days \\
+I am ready You to praise. \\
+God, please hear me when I speak \\
+For my soul now You does seek!
 
-You, who all the stars well guides  
-And the course of years decides,  
-Never change: Your work You do  
-Always hidden from our view.  
+You, who all the stars well guides \\
+And the course of years decides, \\
+Never change: Your work You do \\
+Always hidden from our view.
 
-This most frigid winter air  
-Strongly to our hearts declares:  
-“Summer far away has flown.  
+This most frigid winter air \\
+Strongly to our hearts declares: \\
+“Summer far away has flown. \\
 It comes from the Lord alone!”  
 
-Frost, like ashes, is outpoured  
-Down from the hand of the Lord.  
-Who can freezing winds withstand  
-From the coldest arctic lands?  
+Frost, like ashes, is outpoured \\
+Down from the hand of the Lord. \\
+Who can freezing winds withstand \\
+From the coldest arctic lands?
 
-Just like wool He spreads the snow,  
-Cov’ring land and sea below.  
-But when God’s warm breeze draws near,  
-It soon melts and disappears.  
+Just like wool He spreads the snow, \\ 
+Cov’ring land and sea below. \\
+But when God’s warm breeze draws near, \\
+It soon melts and disappears.
 
-Nature’s ruler, with these signs  
-You show us the passing times!  
-Summer, Autumn, Winter, Spring,  
-Come and go at Your bidding.  
+Nature’s ruler, with these signs \\
+You show us the passing times! \\
+Summer, Autumn, Winter, Spring, \\
+Come and go at Your bidding.
 
-My soul just as willingly  
-Follows what Your Word tells me!  
-Jesus, may Your love too steer  
+My soul just as willingly \\
+Follows what Your Word tells me! \\
+Jesus, may Your love too steer \\
 All my actions in this year!  
 
-Outside there’s an icy chill,  
-But my heart is burning still.  
-Savior, Your light to me give  
+Outside there’s an icy chill, \\
+But my heart is burning still. \\
+Savior, Your light to me give \\
 And for You I’ll glow and live!

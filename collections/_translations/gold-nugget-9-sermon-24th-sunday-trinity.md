@@ -4,6 +4,7 @@ author: walther
 translator: jensen
 language: German
 issue: 13
+date: 2010-09-28
 brief: An 1844 sermon encourages believers to come to Jesus.
 ---
 
@@ -21,19 +22,19 @@ Here we see how those people are minded who stand in the true faith in Christ an
 
 What is it now that I have been saying to you all in this meditation? None other than this: “You must come to Jesus.” Therefore let me now lay it on your hearts. Implore God’s help for this along with me.
 
-### Text: Matthew 9:18-26 ###
+### Text: Matthew 9:18-26
 
->While he was saying this, a ruler came and knelt before him and said, “My daughter has just died. But come and put your hand on her, and she will live.” Jesus got up and went with him, and so did his disciples.
-
->Just then a woman who had been subject to bleeding for twelve years came up behind him and touched the edge of his cloak. She said to herself, “If I only touch his cloak, I will be healed.”
-
->Jesus turned and saw her. “Take heart, daughter,” he said, “your faith has healed you.” And the woman was healed from that moment.
-
->When Jesus entered the ruler’s house and saw the flute players and the noisy crowd, he said, “Go away. The girl is not dead but asleep.” But they laughed at him. After the crowd had been put outside, he went in and took the girl by the hand and she got up. News of this spread through all that region.
+> While he was saying this, a ruler came and knelt before him and said, “My daughter has just died. But come and put your hand on her, and she will live.” Jesus got up and went with him, and so did his disciples. \\
+\\
+Just then a woman who had been subject to bleeding for twelve years came up behind him and touched the edge of his cloak. She said to herself, “If I only touch his cloak, I will be healed.” \\
+\\
+Jesus turned and saw her. “Take heart, daughter,” he said, “your faith has healed you.” And the woman was healed from that moment. \\
+\\
+When Jesus entered the ruler’s house and saw the flute players and the noisy crowd, he said, “Go away. The girl is not dead but asleep.” But they laughed at him. After the crowd had been put outside, he went in and took the girl by the hand and she got up. News of this spread through all that region.
 
 “You must come to Jesus!” That, my friends, is what I am compelled to exclaim when I shall speak to you after the reading of our precious Gospel for today. Therefore let this also be my heartfelt cry to all of you today:
 
-### You must come to Jesus! ###
+**You must come to Jesus!**
 
 Because:
 
@@ -43,7 +44,7 @@ Because:
 
 Lord God, heavenly Father, your dear Son once said, “No one can come to me unless the Father who sent me draws him.” Therefore we turn to you and ask you, draw us to your Son, O eternal Love, through your Word and your Holy Spirit. You have sent him into the world that everyone, including us, be helped by him. So let none of us remain far from him but rather find him, persist with him, and finally be saved by him. Amen! Amen!
 
-### I. ###
+### Part I.
 
 My friends, Christ helped everyone who ever came to him. No one who implored him went away from him without comfort or with a saddened face. In our Gospel lesson we hear that when Christ was hurrying at the request of Jairus to wake his daughter up from the dead, on the way he also helped a woman with a flow of blood when, sighing in faith, she touched just the edge of his cloak. His entire life was going around the land and doing good. Each of his steps left behind a footprint of his helpful love. Don’t we have to wonder why every unfortunate person back then didn’t come to him? Then all the miserable people of the land really would have been soon helped! But see! That is what fallen man is like.  He abandons God, the living spring, and prefers to dig himself wells which are full of holes and give no water. Still today Jesus is really the only one who is willing and able to help and yet, alas, only so few come to him.
 
@@ -53,22 +54,22 @@ However there are men who still worry about something else, not their earthly ne
 
 Of course, my friends, the Evangelist Mark tells us still more about the woman with the flow of blood. “She had suffered a great deal under the care of many doctors and had spent all she had, yet instead of getting better she grew worse.” Therefore she is also a model of those who do everything possible to better themselves, but instead of it getting better for them it only gets worse and worse. There are many people like that who feel that it must be different for them and therefore they often grasp onto the best intentions but they always have to realize that they are going backwards instead of forwards. Even true Christians who are constantly lamenting that it is not well with them often make such realizations. What might the reason for this be? None other than that they do not want to daily and hourly come to Jesus. They want to better themselves through their own power. But they accomplish nothing at all with it. Their intentions, their own works, their willing and wishing are lost. Through them it only becomes worse and worse. Eventually they have to confess:
 
->Yet deep and deeper still I fell;  
->Life had become a living hell,  
->So firmly sin possessed me. (CW377)  
+> Yet deep and deeper still I fell; \\
+Life had become a living hell, \\
+So firmly sin possessed me. (CW377) \\
 
 Therefore consider also that there is no other help. *You must come to Jesus.* You only get better through faith. Power only flows out of grace. Only the knowledge of Christ’s unending love fills your naturally cold heart with a burning love.
 
 Oh, if only we never made useless detours but went straight to Jesus in all need and in every bodily and spiritual deficiency then this all would find a blessed end. Therefore dear hearer:
 
->By grace! Oh, mark this word of promise  
->When you are by your sins oppressed,  
->When Satan plagues your troubled conscience,  
->And when your heart is seeking rest.  
->What reason cannot comprehend  
->God by his grace to you did send. (CW384)  
+> By grace! Oh, mark this word of promise \\
+When you are by your sins oppressed, \\
+When Satan plagues your troubled conscience, \\
+And when your heart is seeking rest. \\
+What reason cannot comprehend \\
+God by his grace to you did send. (CW384)  
 
-### II. ###
+### Part II.
 
 Yes, to him we must come, and to be sure secondly because he alone helps you, even through death, to eternal life.
 

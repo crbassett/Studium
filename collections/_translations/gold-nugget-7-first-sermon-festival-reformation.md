@@ -4,6 +4,7 @@ author: walther
 translator: jensen
 language: German
 issue: 14
+date: 2010-11-11
 brief: Walther reminds heirs of the Reformation what they have inherited.
 ---
 
@@ -29,13 +30,13 @@ Therefore so that our thanks is sincere and honest, our joy a true joy, and our 
 
 ### Text: 2 Thess. 2:1-12
 
->Concerning the coming of our Lord Jesus Christ and our being gathered to him, we ask you, brothers, not to become easily unsettled or alarmed by some prophecy, report or letter supposed to have come from us, saying that the day of the Lord has already come. Don’t let anyone deceive you in any way, for that day will not come until the rebellion occurs and the man of lawlessness is revealed, the man doomed to destruction. He will oppose and will exalt himself over everything that is called God or is worshiped, so that he sets himself up in God’s temple, proclaiming himself to be God.
-
->Don’t you remember that when I was with you I used to tell you these things? And now you know what is holding him back, so that he may be revealed at the proper time. For the secret power of lawlessness is already at work; but the one who now holds it back will continue to do so until he is taken out of the way. And then the lawless one will be revealed, whom the Lord Jesus will overthrow with the breath of his mouth and destroy by the splendor of his coming. The coming of the lawless one will be in accordance with the work of Satan displayed in all kinds of counterfeit miracles, signs and wonders, and in every sort of evil that deceives those who are perishing. They perish because they refused to love the truth and so be saved. For this reason God sends them a powerful delusion so that they will believe the lie and so that all will be condemned who have not believed the truth but have delighted in wickedness.
+> Concerning the coming of our Lord Jesus Christ and our being gathered to him, we ask you, brothers, not to become easily unsettled or alarmed by some prophecy, report or letter supposed to have come from us, saying that the day of the Lord has already come. Don’t let anyone deceive you in any way, for that day will not come until the rebellion occurs and the man of lawlessness is revealed, the man doomed to destruction. He will oppose and will exalt himself over everything that is called God or is worshiped, so that he sets himself up in God’s temple, proclaiming himself to be God. \\
+\\ 
+Don’t you remember that when I was with you I used to tell you these things? And now you know what is holding him back, so that he may be revealed at the proper time. For the secret power of lawlessness is already at work; but the one who now holds it back will continue to do so until he is taken out of the way. And then the lawless one will be revealed, whom the Lord Jesus will overthrow with the breath of his mouth and destroy by the splendor of his coming. The coming of the lawless one will be in accordance with the work of Satan displayed in all kinds of counterfeit miracles, signs and wonders, and in every sort of evil that deceives those who are perishing. They perish because they refused to love the truth and so be saved. For this reason God sends them a powerful delusion so that they will believe the lie and so that all will be condemned who have not believed the truth but have delighted in wickedness.
 
 On the basis of this word we read the subject of our consideration for today’s festival is:
 
-###That the Lutheran Reformation is the promised salvation of the Church from the bonds of the Antichrist.
+**That the Lutheran Reformation is the promised salvation of the Church from the bonds of the Antichrist.**
 
 Let me
 
@@ -43,7 +44,7 @@ Let me
 
 2. 	Show what an urgent summons for us to faithfully persist in Luther’s teaching until death lies in this fact.
 
-### I.
+### Part I.
 
 The most important thing, my friends, which was foretold plain and clear about the fate of the Christian Church in both the Old and New Testaments of the Holy Scriptures is a two-fold thing, something extremely sad and something extremely comforting. The sadness consists in the prophecy that a great apostacy would take place in the Church through an Antichrist, or, as German would say it, a Widerchrist.[^1] But the comfort consists in the foretelling that the Church would still be saved from the bonds of this Antichrist late in the evening of the world.
 
@@ -72,7 +73,7 @@ Then finally God raised up Luther. And what did he do? He did nothing but, as St
 
 Therefore Luther had hardly brought the Gospel of salvation through faith among the Christian people with mouth and feather, through preaching and writing, when suddenly the chains and bonds with which countless consciences had been imprisoned were torn, when suddenly it was like scales fell from the eyes of not thousands but millions of people. They saw with terror that the one whom they had considered to be Christ’s substitute was the Antichrist, that the one whom they had viewed as the head and the shepherd of Christianity and the Church was its archenemy and destroyer. Entire Christian kingdoms and nations now fell away from him and they who had previously shaken and trembled before him and his excommunications now laughed at and mocked him and his empty threats. Through the Reformation the Antichrist received a fatal wound from which nothing can ever heal him. Spiritually he has already died. Whoever still depends on the Antichrist now does not do so because the Antichrist has not yet been unmasked but because he has closed his eyes to the light which now shines forth into the most secret hideout of the Antichrist and makes his hidden abomination clear and obvious to all human eyes. All Christianity can now raise the cry of victory with which the Revelation of John already resounds, “Fallen! Fallen is Babylon the great.” Only one thing is still left: that, as our text says, the Lord comes and “destroys [the Antichrist] by the splendor of his coming.”
 
-### II.
+### Part II.
 
 Of course, my friends, until then we are still always in danger of falling into the nets and ropes of the Antichrist. Therefore let me now show you secondly what an urgent summons for us to faithfully persist in Luther’s teaching until death lies in the fact that the Lutheran Reformation is the promised salvation of the Church from the bonds of the Antichrist.
 

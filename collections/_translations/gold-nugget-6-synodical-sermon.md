@@ -32,11 +32,11 @@ Now, my brothers, how should this dreadful accusation really be justified and fo
 
 ### Text: 1 Cor. 2:12
 
->We have not received the spirit of the world but the Spirit who is from God, that we may understand what God has freely given us.
+> We have not received the spirit of the world but the Spirit who is from God, that we may understand what God has freely given us.
 
 What the Apostle says in these words we read, he clearly says not only about himself and about his fellow Apostles, but about all believing Christians, therefore about the entire Church. The spirit of the Church is what he describes. On the basis of this passage let me therefore speak to you now:
 
-### About the spirit of the true Church of Jesus Christ.
+**About the spirit of the true Church of Jesus Christ.**
 
 Namely, how it is
 
@@ -44,7 +44,7 @@ Namely, how it is
 
 2. The spirit of simplicity and humility which leaves the governing of the church to God alone without reliance upon human counsel.
 
-### I.
+### Part I.
 
 The first thing which the Apostle says about the true Church in our text is that it has a spirit other than what the world has. “*But we,*” he says, “*have not received the spirit of the world*.”
 
@@ -70,7 +70,7 @@ An especially noteworthy proof for this certainty of the faith of the Church in 
 
 See, that is the spirit of the true Church in view of doctrine and faith according to God’s Word and according to the testimony of history. It is the spirit of truth and certainty, which relies on God’s clear Word without fear of error. What is it if now so many object to the fact that we Lutherans maintain our doctrine and our faith to be certain and therefore settled? What is it if now so many, even those bearing the name “Lutherans,” place the requirement on us to let go of and explain as open questions even such teachings which are either clearly contained in God’s Word or opposed by it? What is it if now many desire that we postpone our judgment concerning uncontradictable Bible truths until, as they express themselves, the Church will have spoken and decided about it? What is it if we should concede that even in the confessions of the orthodox Church the truth is not confessed unadulterated, but mixed with all kinds of errors? What is it if accordingly many desire us to speak no more of an already found truth but to first still seek the truth as a still hidden treasure with them? Finally, what is it if those who desire all this of us declare that this is demanded from us indeed not by the letter but by the *spirit* of the church and that therefore, if we were not willing to do this, but would persist unmoved in the model of the teaching of the Church of all times, we would well hold fast to the traditional letter of Church doctrine but would be devoid of the spirit of the Church, that then we would especially be without what is called the spirit of Protestantism, which is nothing but the spirit of free progress?!—What is this?—All this is deceit and delusion! They want to force on us the spirit of the *world*, that spirit of doubt, of uncertainty, of opinions, of open questions, and of the eternal searching for truth, but they want to rob us of the spirit of the *Church*, the spirit of truth and certainty. No, it is not the Church, but those who have fallen away from it in this last time about whom God’s Word has prophesied that there are people who “always learning but never able to acknowledge the truth.” But the true Church says triumphantly with Paul in our text, “*We have not received the spirit of the world but the Spirit who is from God, that we may understand what God has freely given us*.”
 
-### II.
+### Part II.
 
 Of course, honorable and beloved fathers and brothers in the Lord, with these words the holy Apostle says to us that the Church does not have the spirit of the world but the spirit who is from God not only in view of doctrine and faith but also in view of life and practice, that is, secondly it also has the spirit of simplicity and humility which leaves the governing of the Church to God alone without reliance upon human counsel. And now let me speak to you about this.
 
