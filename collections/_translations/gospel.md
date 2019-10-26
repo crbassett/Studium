@@ -4,7 +4,7 @@ author: manthey-zorn
 translator: biebert
 language: German
 issue: 4
-published: 2006-08-04
+date: 2006-08-04
 brief: A Lutheran pastor and missionary reflects on the meaning of the gospel.
 ---
 

@@ -4,7 +4,7 @@ author: walther
 translator: jensen
 language: German
 issue: 15
-published: 2011-01-27 
+date: 2011-01-27 
 brief: Walther encourages his hearers to persist in their childlike faith.
 ---
 

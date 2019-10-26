@@ -4,7 +4,7 @@ author: walther
 translator: jensen
 language: German
 issue: 18
-published: 2011-05-13
+date: 2011-05-13
 brief: Walther offers the Good Shepherd as the model by which all under-shepherds are measured.
 ---
 

@@ -4,7 +4,7 @@ author: walther
 translator: souk
 language: German
 issue: 1
-published: 2006-07-31
+date: 2006-07-31
 brief: The Election Controversy in 19th century Lutheranism was not the first controversy over the doctrine of election.
 ---
 

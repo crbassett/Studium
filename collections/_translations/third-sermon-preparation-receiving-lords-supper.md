@@ -4,7 +4,7 @@ author: brenz
 translator: Latin
 language: Hussman
 issue: 18
-published: 2011-05-13
+date: 2011-05-13
 brief: One of three Maundy Thursday sermons preached by Johannes Brenz.
 ---
 

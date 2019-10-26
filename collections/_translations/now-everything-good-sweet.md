@@ -4,7 +4,7 @@ author: laurenti
 translator: jensen
 language: German
 issue: 17
-published: 2011-04-19
+date: 2011-04-19
 brief: A composite translation of a Lenten hymn.
 ---
 

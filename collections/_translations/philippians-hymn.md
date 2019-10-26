@@ -4,7 +4,7 @@ author: olearius
 translator: jensen
 language: German
 issue: 16
-published: 2011-03-05
+date: 2011-03-05
 brief: A hymn based on Philippians 2:5–11.
 ---
 

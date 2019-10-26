@@ -4,7 +4,7 @@ author: hafenreffer
 translator: hussman
 language: Latin
 issue: 15
-published: 2011-01-27
+date: 2011-01-27
 brief: A very short summary of the work
 ---
 

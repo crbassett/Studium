@@ -4,7 +4,7 @@ author: walther
 translator: jensen
 language: German
 issue: 17
-published: 2011-04-19
+date: 2011-04-19
 brief: Weather reminds his hearers what the spirit of the Church really is.
 ---
 

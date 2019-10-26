@@ -4,7 +4,7 @@ author: mentzer
 translator: strucely
 language: German
 issue: 18
-published: 2011-05-13
+date: 2011-05-13
 brief: A systematic theology on the sacraments.
 ---
 

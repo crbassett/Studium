@@ -4,7 +4,7 @@ author: franck
 translator: jensen
 language: German
 issue: 14
-published: 2010-11-10
+date: 2010-11-10
 brief: A very short summary of the work
 ---
 

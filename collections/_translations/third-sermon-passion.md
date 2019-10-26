@@ -4,7 +4,7 @@ author: brenz
 translator: rosenow
 language: German
 issue: 17
-published: 2011-04-19
+date: 2011-04-19
 brief: Brenz preaches on a harmony of the passion history.
 ---
 

@@ -4,7 +4,7 @@ author: neander
 translator: jensen
 language: German
 issue: 16
-published: 2011-03-05
+date: 2011-03-05
 brief: A winter hymn still sung by the Amish community.
 ---
 

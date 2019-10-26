@@ -4,7 +4,7 @@ author: walther
 translator: jensen
 language: German
 issue: 16
-published: 2011-03-05
+date: 2011-03-05
 brief: Walther teaches on the significance of the second petition of the Lord’s Prayer.
 ---
 

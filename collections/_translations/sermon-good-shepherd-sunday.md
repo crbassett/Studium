@@ -4,7 +4,7 @@ author: brenz
 translator: hussman
 language: German
 issue: 18
-published: 2011-05-13 
+date: 2011-05-13 
 brief: Brenz explains what Christ means when he calls himself the Good Shepherd.
 ---
 
@@ -12,12 +12,12 @@ This sermon on the Good Shepherd, taken from Ernst Bizer’s *Predigten des Joha
 
 ---
 
-### On the Gospel of John, Chapter 10
+## On the Gospel of John, Chapter 10
 
 Given in the year 1539
 
->“I am the good shepherd. The good shepherd lays down his life for the sheep. The hired hand is not the shepherd who owns the sheep. So when he sees the wolf coming, he abandons the sheep and runs away. Then the wolf attacks the flock and scatters it. The man runs away because he is a hired hand and cares nothing for the sheep.
-
+> “I am the good shepherd. The good shepherd lays down his life for the sheep. The hired hand is not the shepherd who owns the sheep. So when he sees the wolf coming, he abandons the sheep and runs away. Then the wolf attacks the flock and scatters it. The man runs away because he is a hired hand and cares nothing for the sheep. \\
+\\
 >“I am the good shepherd; I know my sheep and my sheep know me—just as the Father knows me and I know the Father—and I lay down my life for the sheep. I have other sheep that are not of this sheep pen. I must bring them also. They too will listen to my voice, and there shall be one flock and one shepherd.” 
       
 Although our dear Lord Jesus Christ gave this sermon on the Good Shepherd, as we just read from the Evangelist John, before his suffering and resurrection, we nevertheless have in it a beautiful testimony of his resurrection, which we are publicly remembering in the church these days. For he says, “My Father loves me because I lay down my life, so that I may take it up again. No one takes it from me, but I lay it down on my own. I have the power to lay it down and the power to take it up again” (vv. 17-18). Because our Lord Jesus Christ’s resurrection is the most important thing of all for us and the thing which we enjoy above all else in this world, it seemed good to the Holy Spirit that Christ’s resurrection would be demonstrated with a sure foundation and proof, along with its majesty and glory, not only already after Christ arose from the dead, but also that it would be prophesied about long before Christ arose. To be sure, the prophet David preached clearly and plainly enough about Christ’s resurrection when he said in Psalm 16:10, “Lord, you will not leave my soul in the grave, and you will not permit your holy one to decay.” But here Christ prophesies much more clearly about his resurrection when he says, “I lay down my life and take it up again” (v. 18). 

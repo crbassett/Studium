@@ -4,7 +4,7 @@ author: stoeckhardt
 translator: foxen
 language: German
 issue: 4
-published: 2006-08-04
+date: 2006-08-04
 brief: A sermon that connects salvation to the Spirit.
 ---
 

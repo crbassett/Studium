@@ -4,7 +4,7 @@ author: Pieper
 translator: hussman
 language: German
 issue: 17
-published: 2011-04-19
+date: 2011-04-19
 brief: What it means to “fear God’s Word.”
 ---
 
