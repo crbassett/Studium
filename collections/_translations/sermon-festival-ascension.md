@@ -14,7 +14,7 @@ Ben Reichel, currently completing his first year at Wisconsin Lutheran Seminary,
 
 ---
 
-> **The Gospel of St. Luke 24:49-53** [Jesus said,] “I am going to send you what my Father has promised; but stay in the city until you have been clothed with power from on high.” When he had led them out to the vicinity of Bethany, he lifted up his hands and blessed them. While he was blessing them, he left them and was taken up into heaven. Then they worshiped him and returned to Jerusalem with great joy. And they stayed continually at the temple, praising God.
+> **The Gospel of St. Luke 24:49-53** Jesus said, “I am going to send you what my Father has promised; but stay in the city until you have been clothed with power from on high.” When he had led them out to the vicinity of Bethany, he lifted up his hands and blessed them. While he was blessing them, he left them and was taken up into heaven. Then they worshiped him and returned to Jerusalem with great joy. And they stayed continually at the temple, praising God.
 
 In Christ, dearly beloved!
 
