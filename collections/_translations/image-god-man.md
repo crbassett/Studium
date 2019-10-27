@@ -5,14 +5,16 @@ translator: hussman
 language: Latin
 issue: 15
 date: 2011-01-27
-brief: A very short summary of the work
+brief: A systematic text on anthropology.
 ---
+
+## Translator's Preface
 
 This section on the image of God in man is taken from Matthias Hafenreffer’s *Loci Theologici* of 1603. It is found in book three, which deals with the doctrine of man, the first state of man, his state before the fall, the third locus of that section. In it Hafenreffer shows from Scripture what the image of God is and what it is not, the value of this doctrine, and the errors to be avoided.
 
 ---
 
-### On the Image of God in Man ###
+## On the Image of God in Man
 
 *So far on the immortality and propagation of man’s soul. Now, so that the honor and excellence of man’s soul may be clearer, I aim to show that man was formed in the image of God.*
 
