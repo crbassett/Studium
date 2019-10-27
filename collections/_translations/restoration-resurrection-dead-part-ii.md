@@ -20,8 +20,9 @@ May the Holy Spirit, through our author, point our eyes to the glorious day of r
 
 Christ will *not* restore the *unrighteous* to eternal condemnation *as a gracious mediator*, but as an all-powerful and stern *judge*. Thus the wicked will *not* rise
 
-> **A)** *by the power of the merit of Christ*
-> **B)** but by the power of the *divine decree and of the vengeful righteous*.
+**A)** *by the power of the merit of Christ*
+
+**B)** but by the power of the *divine decree and of the vengeful righteous*.
 
 We observe: a careful distinction should be made between the *merit of Christ* when considered with regard to *how it is acquired* and *how it is applied*. Christ, by his *universal merit*, has earned and *acquired* for all people (and so also for the wicked) a resurrection to eternal life. But because of a *failure of application*, the wicked do not obtain what was acquired and earned in the resurrection to life. From this it follows that they do *not* rise *to eternal condemnation by the power of the merit of Christ*, but *by the power of the divine righteousness*.
 
@@ -57,8 +58,9 @@ This is the antithesis of Benedictus Aretius,[^aretius] Henricus Boethius,[^boet
 
 *Precisely the same bodies* which men have carried around in this mortal life
 
-> **A)** *will rise* on the last day
-> **B)** but will be clothed with *new qualities*.
+**A)** *will rise* on the last day
+
+**B)** but will be clothed with *new qualities*.
 
 Proof for **A**:
 
@@ -112,9 +114,9 @@ In this instance.[^instance] The substance of flesh and blood exists out of elem
 
 The people roused from the dust of the earth will come forth in *separate sexes*, male and female.
 
-> Proof **1)** The same bodies which have fallen will rise from the dead. But if a man comes forth in the place of a woman, the same body is not rising which has fallen in death.
+Proof **1)** The same bodies which have fallen will rise from the dead. But if a man comes forth in the place of a woman, the same body is not rising which has fallen in death.
 
-> Proof **2)** When Christ, whose wife would have been a woman, was interrogated by the Sadducees in Matt. 22:30, he did not respond that we would experience a distinction between the sexes, but that there would not be a place there for marriages, for this reason, that the saints would be *like the angels*. Indeed, when Christ said that people in the next life *neither marry nor are given in marriage*, he is clearly affirming the distinction between the sexes. For men do the *marrying* and women are *given in marriage*.
+Proof **2)** When Christ, whose wife would have been a woman, was interrogated by the Sadducees in Matt. 22:30, he did not respond that we would experience a distinction between the sexes, but that there would not be a place there for marriages, for this reason, that the saints would be *like the angels*. Indeed, when Christ said that people in the next life *neither marry nor are given in marriage*, he is clearly affirming the distinction between the sexes. For men do the *marrying* and women are *given in marriage*.
 
 This is the *antithesis* of certain *Fathers and teachers of the Scholastics*[^scholastics], who deny the future distinction between the sexes in the resurrection. Their arguments are:
 
@@ -130,8 +132,9 @@ This is the *antithesis* of certain *Fathers and teachers of the Scholastics*[^s
 
 The resurrection of the dead *formally* consists of
 
-> **A)** a reproduction, or restoration, of the body, the same thing that has fallen in death, out of that body’s scattered and dispersed atoms or particles.
-> **B)** a reunion of that same body with its soul.
+**A)** a reproduction, or restoration, of the body, the same thing that has fallen in death, out of that body’s scattered and dispersed atoms or particles.
+
+**B)** a reunion of that same body with its soul.
 
 Proof for **A**: The *resurrection* is different *from creation* because *creation* is either out of nothing or out of unlikely material. From this material, the sort of body that is first produced has never come forth. But the *resurrection* presupposes the material from which it is reproduced through the infinite power of God.
 
@@ -144,15 +147,15 @@ Proof for **B**: It is not possible for a body to be made alive unless it is uni
 
 The *purpose* of the resurrection
 
-> **A)** in respect to the *God* who restores is the *glory* of the divine, remunerative, vengeful *righteousness*.
+**A)** in respect to the *God* who restores is the *glory* of the divine, remunerative, vengeful *righteousness*.
 
 But the *purpose* of the resurrection in respect to the *people* who need restoration is either *universal* or *particular*.
 
-> **B)** The *universal* purpose for all those needing restoration is an appearance before the judgment seat of Christ the Judge.
+**B)** The *universal* purpose for all those needing restoration is an appearance before the judgment seat of Christ the Judge.
 
-> **C)** The *particular* purpose, in respect to the *faithful*, is the perfect participation in eternal blessing.
+**C)** The *particular* purpose, in respect to the *faithful*, is the perfect participation in eternal blessing.
 
-> **D)** In respect to the *unfaithful*, it is the consummation of eternal damnation.
+**D)** In respect to the *unfaithful*, it is the consummation of eternal damnation.
 
 Proof for **A**: The way by which God is moved to restore men is by his righteousness. God’s righteousness is partly rewarding, by which he rewards the good, and partly vengeful, by which he punishes the evil. The purpose for this is that each person receive *which things were done through his body*[^throughbody], II Cor. 5:10. In this way, the glory of each kind of righteousness is rightly said to extend to the restoration of the dead.
 
