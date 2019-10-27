@@ -8,6 +8,8 @@ date: 2011-04-19
 brief: One of three Maundy Thursday sermons preached by Johannes Brenz.
 ---
 
+## Translator's Preface
+
 This is the second of three sermons on the Lord’s Supper by Johannes Brenz. After discussing in the first sermon what the Lord’s Supper is, he now proceeds to explain its use as a reassurance of the forgiveness of sins and provides several examples of how it can be applied.
 
 ---

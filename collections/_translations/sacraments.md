@@ -8,11 +8,13 @@ date: 2011-05-13
 brief: A systematic theology on the sacraments.
 ---
 
+## Translator's Preface
+
 This is an excerpt from Mentzer’s *Herrliches Catolisches Haendbuchlein*. The following chapters, chapters sixteen and seventeen, concern the two Sacraments.
 
 ---
 
-### The Sixteenth Chapter:
+## The Sixteenth Chapter:
 
 ### Concerning Holy Baptism
 
@@ -56,9 +58,9 @@ It lasts throughout the entire life. For, we make a covenant with God in Baptism
 
 It can and should be an endless reminder of the Baptism one has received, that as often as I hear my name spoken, I think of the covenant made with God in Baptism that I may never act against it and may not anger my heavenly father; or if I offend him with sin, that I just as soon may turn to him through true repentance and conversion and  may wholeheartedly ask that he not want to push me away but that he want to pick me up and receive me again to grace in the covenant of Baptism and hold me in it eternally.
 
-###The Seventeenth Chapter:
+## The Seventeenth Chapter:
 
-###Concerning the Lord’s Supper
+### Concerning the Lord’s Supper
 
 **161\. What is the Lord’s Supper?**
 

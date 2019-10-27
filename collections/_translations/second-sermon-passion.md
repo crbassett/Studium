@@ -8,6 +8,8 @@ date: 2011-04-19
 brief: Brenz preaches on a harmony of the passion history.
 ---
 
+## Translator's Preface
+
 In this set of three sermons from 1564, Johannes Brenz expounds upon a harmony of the passion history. Each of the translations was completed by different individuals who are all at various locations and stages of their training for the full-time Gospel ministry. The [first sermon][1] was translated by Aaron Voss, currently a senior at Martin Luther College, [the second][2] by Jacob Haag, currently studying in Leipzig, Germany at the seminary of our sister-synod, the Evangelisch-Lutherische FreiKirche (ELFK), and [the third][3] by Tim Rosenow, a first-year student at Wisconsin Lutheran Seminary in Mequon. Skills cultivated in the confessional languages prove valuable to pastoral students at every point of their education and remain a blessing into their ministry. May these words of Brenz be as valuable to their readers this Lenten season as they have been to their translators.  
 
 [1]: http://studiumexcitare.com/content/146

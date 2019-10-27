@@ -4,8 +4,11 @@ author: hollaz
 translator: lahmann
 language: Latin
 issue: 5
+date: 2006-08-04
 brief: David Hollaz uses a question-and-answer format to cover the doctrine of the restoration and resurrection of the dead.
 ---
+
+## Translator's Preface
 
 David Hollaz (1648-1713) lived during the period of transition from the century of orthodoxy following the Book of Concord (1580) to the prevalence of the Pietistic movement (late 18th century). This transition is the result of the Thirty Years’ War (1618-1648), which produced a generation of people unfamiliar with orderly church life and strict Lutheran dogma. To the theologians of this era, Hollaz writes his most famous work, <em>Examen Theologicum Acroamaticum</em> (A Scholarly Theological Examination).
 
