@@ -2,6 +2,7 @@
 title: Jacob Heerbrand
 about: heerbrand
 contributor: waldschmidt
+date: 2010-09-28
 ---
 
 Jacob Heerbrand was born on August 12, 1521 at Geingen in Swabia to Andreas and Barbara Heerbrand. Andreas, a weaver by trade, was also very academically minded, pursuing math and Latin especially. Andreas had also been very interested in music in his younger years, but later came to regret the amount of time he spent on something which was only secondary instead of focusing on more important matters. He did what he could to keep his son away from music to prevent him from making the same mistake. Setting aside music, and also math and Latin, he concentrated himself instead on theology, reading Luther diligently. He took care in raising Jacob to cultivate within him an eagerness for both knowledge and hard work. Already as a young boy Jacob would come home from church with questions for his father about the content of the sermons.
@@ -15,7 +16,9 @@ On January 5, 1599 he decided to retire from all his various positions of servic
 
 Heerbrand's sermons, which were what had originally made him well-known, were marked by how well they were rooted in Scripture and by how thoroughly he would show the Gospel as its central message. He would make use of powerful and vernacular expressions, not preaching over his hearer's heads. His specialty was considered to be Old Testament exegesis, especially the Pentateuch, which he frequently lectured on at the University. He had further influence in the church through his many theological disputations, spending considerable amounts of ink countering the theologians of the Roman Catholic Church, specifically the Jesuits. He demonstrated that their accusations against the Lutherans were nothing more than slanderous lies bent on inciting disturbances. His greatest literary impact was through his *Compendium of Theology*. This book lays out doctrine both thoroughly and simply in question and answer format. This was considered to be such a worthy exposition of the faith that it was translated into Greek by Martin Crusius and sent to Egypt, Greece, and Asia Minor during discussions between the theological faculty at Tuebingen and the patriarch Jeremiah of Constantinople.
 
-The coat of arms which was bestowed upon Jacob and the Heerbrand family illustrates his great importance to the church. It is of a man who is carrying a burning torch in his right hand, signifying the light he brought to the church with both his pure Christ-centered teaching and his life which was so often a wonderful example of mercy. 
+The coat of arms which was bestowed upon Jacob and the Heerbrand family illustrates his great importance to the church. It is of a man who is carrying a burning torch in his right hand, signifying the light he brought to the church with both his pure Christ-centered teaching and his life which was so often a wonderful example of mercy.
+
+**Bibliography** 
 
 Beste, Wilhelm. "Jacob Heerbrand." *Die Bedeutendsten Kanzelredner der Aelteren Lutherschen Kirche von Luther bis zu Spener in Biographieen und einer Auswahl ihrer Predigten*. Vol 2. Leipzig: Gustav Meyer, 1858, p 59-62.
 

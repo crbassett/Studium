@@ -2,6 +2,7 @@
 title: Franz Pieper
 about: fpieper
 contributor: strucely
+date: 2010-11-10
 ---
 
 During the late 1800s and early 1900s, the Missouri Synod had no greater teacher than Franz Pieper. The successor of the synod’s founder, C.F.W. Walther, was well equipped to lead the synod after Walther’s death. The fifty-six year ministry of this man shaped the Missouri Synod as it became the most influential synod in American Lutheranism.

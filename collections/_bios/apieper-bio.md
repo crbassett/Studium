@@ -2,6 +2,7 @@
 title: August Pieper
 about: apieper
 contributor: voss
+date: 2010-11-10
 ---
 
 August Otto Wilhelm Pieper was born on September 27, 1857, in Carwitz, Pomerania, as the second youngest son to August Berhnhard Pieper and his wife Bertha. The pedigree of this great Wisconsin synod pastor, professor, and theologian was not that of a pastor soldiering for the gospel, but rather that of a soldier in the Prussian army. His father followed a line of Piepers and served in the Prussian army. August’s father eventually reached the rank of corporal, but after a year in this position, he decided the private life better suited him. Pieper’s father was honorably discharged, and he transitioned from one leadership role to another. He became mayor of Carwitz and was highly respected as a peaceable man. He was by all accounts a good ruler, especially because he supported Frederick William III’s Prussian Union. His unionist support looked good on his résumé but could have been detrimental to the history of our beloved Synod.
@@ -26,7 +27,7 @@ As intense and intelligent as Professor Pieper was, he was not distant from thos
 
 God blessed August Pieper’s personal life with his marriage in 1881 to Emma Koenig, with whom the Lord further blessed Pieper with five daughters, two sons, twenty-five grandchildren, and eighteen great-grandchildren. Professor Pieper’s wife Emma preceded him in death when she fell asleep in 1929 before God called him to his eternal home on December 23, 1946. The Wisconsin Synod owes her gracious God tremendous thanks for August Pieper’s extensive ministry. In him we have a model pastor and Christian who always inspired zeal for the gospel and its ministry. His reminder is as important now as it was during his life: “We can constantly grow in the work of the Lord, always become more.”
 
-BIBLIOGRAPHY
+**Bibliography**
 
 Brenner, John. "In Memoriam." *Quartalschrift: Theological Quarterly.* 44.2 (April 1947): 81.
 

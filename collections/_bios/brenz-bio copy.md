@@ -2,6 +2,7 @@
 title: Johannes Andreas Quenstedt
 about: quenstedt
 contributor: bassett
+date: 2006-08-04
 ---
 
 Many historians agree that after Martin Chemnitz and Johann Gerhard, Johannes Quenstedt is probably the most influential leader and theologian of the post-Reformation Lutheran church. He was a quintessential member of the period of Lutheran orthodoxy. We profit still today because of his work in the church.
@@ -22,8 +23,12 @@ Quenstedt’s greatest contribution to the church was his Theologia Didactio-Pol
 
 The book set out to systematically outline and expound on nearly every doctrinal point under debate at Quenstedt’s time. Each section has a didactic and polemic portion. However, do not be fooled by the word “polemic” in regard to Quenstedt’s Systema. His polemics were not hotly contested wars of words, but were instead well-considered, well-written, calm answers to some of the attacks and judgments made against the Lutheran church by her enemies at the time. And as we know by our review of history, the issues faced by Lutherans in the past are often no different than the problems we face today. Thus a study of Quenstedt’s Systema would benefit contemporary Lutherans as well.
 
-<h5 class="preface-header">Bibliography</h5>
-<ul> <li>Kunze, Johannes. “Quenstedt.” <u>Realencyklopädie für protestantische Theologie und Kirche.</u> Ed. Albert Haude. 3rd ed. Leipzig: J.C. Hinrichs’sche Buchhandlung, 1905.</li>
-<li>Piepkorn, Arthur Carl. “Quenstedt.” <u>The Encyclopedia of the Lutheran Church.</u> Ed. Julius Bodensiech. 3rd ed. Philadelphia: Fortress Press, 1965.</li>
-<li>Poellot, Luther. <u>The Nature and Character of Theology.</u> St. Louis: Concordia Publishing House, 1986.</li>
-<li>Preus, Robert D. <u>The Theology of Post-Reformation Lutheranism.</u> St. Louis: Concordia Publishing House, 1970.</li> </ul>
+**Bibliography**
+
+Kunze, Johannes. “Quenstedt.” Realencyklopädie für protestantische Theologie und Kirche. Ed. Albert Haude. 3rd ed. Leipzig: J.C. Hinrichs’sche Buchhandlung, 1905.
+
+Piepkorn, Arthur Carl. “Quenstedt.” The Encyclopedia of the Lutheran Church. Ed. Julius Bodensiech. 3rd ed. Philadelphia: Fortress Press, 1965.
+
+Poellot, Luther. The Nature and Character of Theology. St. Louis: Concordia Publishing House, 1986.
+
+Preus, Robert D. The Theology of Post-Reformation Lutheranism. St. Louis: Concordia Publishing House, 1970.

@@ -2,6 +2,7 @@
 title: Martin Chemnitz
 about: chemnitz
 contributor: zarling
+date: 2006-07-31
 ---
 
 If Martin Luther is considered the greatest theologian of the Lutheran Church, then Martin Chemnitz is without a doubt our second greatest Lutheran Father. Chemnitz is certainly deserving of the title “the Second Martin”, and was the primary bulwark of orthodox Lutheran theology in the latter part of the sixteenth century.
@@ -16,13 +17,16 @@ This was the flag under which orthodox Lutheranism rallied. Unbiased, it simply 
 
 We in the WELS would do well to better acquaint ourselves with Martin Chemnitz, both his life and his works. Our second greatest Father, he stands out as a theologian and pastor in the truest sense, following in the footsteps of the first Martin and taking an uncompromising stand on Scripture. The 17th century saying is certainly true (written above in Latin), “If the second Martin (Chemnitz) had not come, the first Martin (Luther) would not have stood.”
 
-<h5 class="preface-header">Bibliography and Recommended Reading</h5>
+**Bibliography and Recommended Reading**
 
-<ul>
-<li>J.A.O. Preus. <u>The Second Martin</u>. St. Louis: CPH, 1994.
-<li><u>Concordia Triglotta</u>. Milwaukee: CPH, 1921.
-<li>Chemnitz, Martin. <u>The Two Natures in Christ</u>, Translated by J.A.O. Preus. St. Louis: CPH, 1971.
-<li>Chemnitz, Martin. <u>The Lord’s Supper</u>, Translated by J.A.O. Preus, St. Louis: CPH, 1979.
-<li>Chemnitz, Martin. <u>The Examination of the Council of Trent</u>, Part 1, Translated by Fred Kramer, St. Louis: CPH, 1971
-<li>Chemnitz, Martin. <u>Loci Theologici</u>, Vol. 1, Translated by J.A.O. Preus. St. Louis: CPH, 1989
-</ul>
+J.A.O. Preus. *The Second Martin*. St. Louis: CPH, 1994.
+
+*Concordia Triglotta*. Milwaukee: CPH, 1921.
+
+Chemnitz, Martin. *The Two Natures in Christ*, Translated by J.A.O. Preus. St. Louis: CPH, 1971.
+
+Chemnitz, Martin. *The Lord’s Supper*, Translated by J.A.O. Preus, St. Louis: CPH, 1979.
+
+Chemnitz, Martin. *The Examination of the Council of Trent*, Part 1, Translated by Fred Kramer, St. Louis: CPH, 1971
+
+Chemnitz, Martin. *Loci Theologici*, Vol. 1, Translated by J.A.O. Preus. St. Louis: CPH, 1989

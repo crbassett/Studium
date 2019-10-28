@@ -2,6 +2,7 @@
 title: Carl Manthey-Zorn
 about: manthey-zorn
 contributor: hussman
+date: 2011-03-05
 ---
 
 Carl Manthey-Zorn was born March 18, 1846 in Sterup, Germany, not far from the border of Denmark. His father, Hans Zorn, was a Lutheran pastor and his mother, Lina Manthey, was from a Danish noble family (when Carl was born his Manthey grandfather wanted him to have his surname, since he himself had no sons). Carl received a good German education as a child while he lived in Hochspeyer and Odernheim, in western Germany. Despite his confirmation and upbringing in a pastor’s household, religion did not have a big impact on him at this time in his life.

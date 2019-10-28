@@ -2,6 +2,7 @@
 title: Matthias Hafenreffer
 about: hafenreffer
 contributor: hussman
+date: 2011-01-27
 ---
 
 Matthias Hafenreffer, although a lesser-known Lutheran theologian of the Age of Lutheran Orthodoxy, exemplifies the dedication to preserving the purity of God’s Word that characterized this age. He was born on June 24, 1561 in the town of Lorch, Wuerttemberg, which is about 25 miles east of Stuttgart. His father was a *Schultheiss* in Lorch, similar to a town official or mayor of a city. Matthias’ early schooling took place in the monastic schools of Lorch, St. George, and Hirschau, all in the southern part of modern Germany. In 1579 be began to study philosophy and theology at the University of Tuebingen, and two years later he received his Master’s degree. He remained at Tuebingen as a lecturer until he moved to Herrenberg in 1586 to serve as a deacon. It was here that he married the widowed daughter of Johannes Brenz, Agatha. He also became a colleague of Johann Andreae, the son of the southern reformer and co-author of the Formula of Concord, Jakob Andreae. Hafenreffer did not stay long in one spot over the next few years as he became pastor at Ehningen in 1588, court preacher and member of the Consistory at Stuttgart in 1590, and finally came back to Tuebingen in 1592, where he would remain for 27 years until his death. 
@@ -14,9 +15,9 @@ Hafenreffer may not have been as prolific a writer as some of his contemporaries
 
 Hafenreffer’s other well-known work, his *Templum Ezechielis*, an exposition of Ezekiel 40-48, was more admired than his *Loci* by his contemporaries. In it he described the details of the Temple, but he also included meditations on the chief points of Christianity and examined the measurements, currency and weights of the Old Testament. 
 
-BIBLIOGRAPHY
+**Bibliography**
 
-Bautz, Friedrich Wilhelm. “Hafenreffer, Matthias.” *Biographisch-Bibliographisches Kirchenlexikon*. <http://www.bautz.de/bbkl/>. September 7, 2008. 
+Bautz, Friedrich Wilhelm. “Hafenreffer, Matthias.” *Biographisch-Bibliographisches Kirchenlexikon*. http://www.bautz.de/bbkl/. September 7, 2008. 
 
 Brecht, Martin. *Johann Valentin Andreae 1586-1654: Eine Biographie*. Goettingen: Vandenhoeck & Ruprecht, 2008.
 
