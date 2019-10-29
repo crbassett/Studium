@@ -2,6 +2,7 @@
 title: Balthasar Mentzer
 about: mentzer
 contributor: strucely
+date: 2011-05-13
 ---
 
 During the Age of Lutheran Orthodoxy, many theologians arose who academically and dogmatically defined Lutheranism. Some of these men had a great impact, while others made only a small contribution. One of these lesser known theologians is Balthasar Mentzer. He lived during a critical time in the Lutheran Church. Although the previous generation had been responsible for uniting Lutheranism through the Book of Concord, it was the responsibility of Mentzer’s generation to defend Lutheranism and also explain its doctrinal standing. Mentzer, in particular, is known for his polemics defending Lutheranism.
