@@ -5,7 +5,7 @@ translator: bassett
 language: German
 issue: i5
 date: 2006-08-04
-brief: 
+brief: A devotion on what awaits the believer in Christ.
 ---
 
 The following selection is from the August 1, 1916 issue of the *Gemeindeblatt*, and thus the preface for the preceding translation, “Jesus is the Door to the Kingdom of Heaven,” suffices greatly for this selection as well. If you have not yet read it, it may be beneficial to glance at it before reading the following devotion.

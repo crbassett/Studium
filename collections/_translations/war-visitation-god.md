@@ -5,7 +5,7 @@ translator: foxen
 language: German
 issue: i6
 date: 2006-08-04
-brief: 
+brief: August Pieper offers a theological reflection on the European war.
 ---
 
 ## Translator's Preface

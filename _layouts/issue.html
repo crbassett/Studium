@@ -3,42 +3,59 @@ layout: default
 ---
 
 <div class="container">
+	
 	<div class="row py-3 my-3">
-		<div class="col col-lg-10 mx-auto">
+		<div class="col col-md-7 ml-auto">
 		
-		<nav aria-label="breadcrumb">
-		<ol class="breadcrumb px-3 py-1 sc">
-		<li class="breadcrumb-item"><a href="/">Home</a></li>
-		<li class="breadcrumb-item"><a href="{{ site.baseurl }}pages/issues.html">Issues</a></li>
-		<li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
-		</ol>
-		</nav>
-		
-		<h1>{{ page.title }}</h1>
-		<h5 class="text-muted sc">{{ page.date | date: "%B %Y" }}</h5>
-		{{ content }}
-		</div>
-	</div>
+			<!-- Page title, e.g. "Issue 10" -->
+			<h1>{{ page.title }}</h1>
+			
+			<!-- Issue month and year, e.g. "December 2019" -->
+			<h5 class="text-muted sc">{{ page.date | date: "%B %Y" }}</h5>
+			
+		</div><!-- /col -->
+		<div class="col col-md-3 mr-auto text-right">
+			
+			<!-- Button to go back to the Issues page -->
+			<a href="{% link pages/issues.html %}" class="btn btn-sm btn-light"><small><i class="fas fa-arrow-left "></i></small> Browse Issues</a>
+
+		</div><!-- /col -->
+	</div><!-- /row -->
+	
 	<div class="row">
-		<div class="col col-lg-10 mx-auto">
-			{% assign translations = site.translations | where: 'issue', page.issue %}
-			<div class="list-group-flush">
-			{% for node in translations %}
-				<div class="list-group-item list-group-item-action">
-				<p><strong>{{ node.title }}</strong></p>
-				{% assign authors = site.authors | where: 'shortname', node.author %}
-				{% for author in authors %}
-				<span class="sc">by {{ author.firstname }} {{ author.lastname }}</span>
-				{% assign contributors = site.contributors | where: 'shortname', node.translator %}
-				{% for contributor in contributors %}
-				<br><small class="text-muted sc">translated by {{ contributor.firstname }} {{ contributor.lastname }}</small>
-				<p>{{ node.brief }}</p>
-				{% endfor %}
-				{% endfor %}
+		<div class="col col-md-10 mx-auto">
+		
+			<!-- Issue file contents, if any (like an editorial at the start of an Issue) -->
+			{{ content }}
+		
+		</div><!-- /col -->
+	</div><!-- /row -->
+
+	<div class="row">
+		<div class="col-md-10 mx-auto">
+				<h2 class="sc border-bottom pb-3 mb-3"><small><i class="fas fa-pen-nib text-secondary"></i></small> In This Issue</h2>
+				
+				<div class="row">
+					<!-- Translations from this issue -->
+					{% assign translations = site.translations | where: 'issue', page.issue %}
+					{% for node in translations %}
+						<div class="col-12 col-md-6 col-lg-4 mb-5 border-left">
+							<strong style="font-size: 1.1em; line-height: 1em;"><a href="{{ node.url }}" class="text-secondary">{{ node.title }}</a></strong>
+							{% assign authors = site.authors | where: 'shortname', node.author %}
+							{% for author in authors %}
+							<br><strong class="sc">by {{ author.firstname }} {{ author.lastname }}</strong>
+							{% assign translators = site.contributors | where: 'shortname', node.translator %}
+							{% for translator in translators %}
+							<br><small class="text-muted sc">translated by {{ translator.firstname }} {{ translator.lastname }}</small>
+							<br>{{ node.brief }}
+							{% endfor %}<!-- endfor author in authors -->	
+							{% endfor %}<!-- endfor translator in translators -->
+						</div><!-- /col -->
+					{% endfor %}<!-- endfor node in translations -->
 				</div>
-			{% endfor %}
-			</div>
-		</div>
-	</div>
-</div>
+		
+		</div><!-- /col -->
+	</div><!-- /row -->
+	
+</div><!-- /container -->
 

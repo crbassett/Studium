@@ -1,11 +1,11 @@
 ---
 title: The Fear of God’s Word
-author: Pieper
+author: fpieper
 translator: hussman
 language: German
 issue: i17
 date: 2011-04-19
-brief: What it means to “fear God’s Word.”
+brief: What it means to fear God’s Word.
 ---
 
 Franz Pieper expounds on the meaning of “fearing God’s Word” in the sense of revering it and treating it as holy and as God wants us to treat it. He warns against trying to rationalize God’s Word, as the Zwinglians in Luther’s time did and even Lutherans in Pieper’s day were doing. True Christian unity only exists when there is agreement in doctrine and practice. This article is the Forward to volume 35 of *Lehre und Wehre*¸ January and February 1889, pp. 1-6, 33-37.

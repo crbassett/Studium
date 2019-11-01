@@ -3,35 +3,32 @@ layout: default
 ---
 
 <div class="container">
+
 	<div class="row my-3 py-3">
 		<div class="col col-lg-10 mx-auto">
+			
 			<h1>{{ page.firstname }} {{ page.lastname}}</h1>
+			<div class="lead">{{ content }} <!-- in this case the translator's short bio, if available --></div>
 
-<div class="lead">{{ content }} <!-- in this case the translator's short bio --></div>
+			<h2 class="sc border-bottom pb-3 mb-3"><small><i class="fas fa-pen-nib text-secondary"></i></small> From This Contributor</h2>
 
-<div class="row my-5">
-<div class="card-columns">
-{% assign filtered_translations = site.translations | where: 'translator', page.shortname %}
-{% for node in filtered_translations %}
-<div class="card">
-      <div class="card-body">
-        <h3 class="card-title">{{ node.title }}</h3>
-        {% assign authors = site.authors | where: 'shortname', node.author %}
-					{% for author in authors %}
-						<p class="text-secondary">by {{ author.firstname }} {{ author.lastname }}</p>
-					{% endfor %}
-        <p class="card-text">{{ node.brief }}</p>
-        <a href="{{ node.url }}" class="btn btn-outline-primary stretched-link">Read</a>
-      </div>
-</div>
-{% endfor %}
-</div>
-</div>
+			<div class="row">
+				{% assign translations = site.translations | where: 'translator', page.shortname %}
+				{% for node in translations %}
+				<div class="col-12 col-md-6 col-lg-4 mb-5 border-left">
+							<strong style="font-size: 1.1em; line-height: 1em;"><a href="{{ node.url }}" class="text-secondary">{{ node.title }}</a></strong>
+							{% assign authors = site.authors | where: 'shortname', node.author %}
+							{% for author in authors %}
+							<br><strong class="sc">by {{ author.firstname }} {{ author.lastname }}</strong>
+							{% assign translators = site.contributors | where: 'shortname', node.translator %}
+							{% for translator in translators %}
+							<br>{{ node.brief }}
+							{% endfor %}<!-- endfor author in authors -->	
+							{% endfor %}<!-- endfor translator in translators -->
+						</div><!-- /col -->
+				{% endfor %}<!-- endfor node in translations -->
+			</div><!-- /row -->
 
-
-
-
-		</div>
-	</div>
-</div>
-
+		</div><!-- /col -->
+	</div><!-- /row -->
+</div><!-- /container -->
