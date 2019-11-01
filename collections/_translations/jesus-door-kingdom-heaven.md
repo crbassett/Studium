@@ -3,7 +3,7 @@ title: Jesus is the Door to the Kingdom of Heaven
 author: siegler
 translator: bassett
 language: German
-issue: 5
+issue: i5
 date: 2006-08-04
 brief: A simple devotional text on Jesus as Door.
 ---

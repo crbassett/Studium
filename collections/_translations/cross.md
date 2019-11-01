@@ -3,7 +3,7 @@ title: On the Cross
 author: heerbrand
 translator: hussman
 language: Latin
-issue: 13
+issue: i13
 date: 2010-09-28
 brief: A systematic text on the cross of Christ and comfort when we bear our own.
 ---

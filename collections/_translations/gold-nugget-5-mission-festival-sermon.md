@@ -3,7 +3,7 @@ title: Gold Nugget No. 5 – Mission Festival Sermon
 author: walther
 translator: jensen
 language: German
-issue: 16
+issue: i16
 date: 2011-03-05
 brief: Walther teaches on the significance of the second petition of the Lord’s Prayer.
 ---

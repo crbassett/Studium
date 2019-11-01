@@ -31,13 +31,13 @@ In addition to his help with the Formula of Concord, Selnecker is remembered as 
 
 [^cite10]: Two of his hymns are in *Christian Worship*, “Ach bleib bei uns,” (Lord Jesus Christ, with us abide, 541) and “Ich dank dir, lieber Herre,” (Let me be yours forever, 596).
 
-Selnecker was a man who never lost the irenic spirit of Melanchthon, the desire to appease everyone. This fact undoubtedly led to his troubles with people. He did at times not say things in his writings that may conflict with the Crypto-Calvinists, but he still did not agree with them.[^cite11] Nevertheless he was also a man who was trying to stay the middle course during this volatile time of Lutheranism. He was clinging to God’s Word and that alone. Georg Mylius, a Wittenberg professor, had this to say about him at his funeral, “He was not a weathervane or a rubberneck on the doctrine of the Christian religion, nor was he a reed, which the wind blows here and there, nor a man in impressible clothing, who would let himself be moved to all changes in religious matters for the sake of lordly favor and worldly glory, but he has remained true and faithful to a simply known and confessed truth during his lifetime and continues till his death.”[^cite13]
+Selnecker was a man who never lost the irenic spirit of Melanchthon, the desire to appease everyone. This fact undoubtedly led to his troubles with people. He did at times not say things in his writings that may conflict with the Crypto-Calvinists, but he still did not agree with them.[^cite11] Nevertheless he was also a man who was trying to stay the middle course during this volatile time of Lutheranism.[^cite12] He was clinging to God’s Word and that alone. Georg Mylius, a Wittenberg professor, had this to say about him at his funeral, “He was not a weathervane or a rubberneck on the doctrine of the Christian religion, nor was he a reed, which the wind blows here and there, nor a man in impressible clothing, who would let himself be moved to all changes in religious matters for the sake of lordly favor and worldly glory, but he has remained true and faithful to a simply known and confessed truth during his lifetime and continues till his death.”[^cite13]
 
 [^cite11]: His two controversies with them at Leipzig attest to this fact.
 
 [^cite12]: Chemnitz, Andreae, and the other formulators were also in this middle group of Lutherans between the Crypto-Calvinists and Gnesio-Lutherans.
 
-[cite13]: Diberlius. *Realencyklopaedie*. P.187
+[^cite13]: Diberlius. *Realencyklopaedie*. P.187
 
 **Bibliography**
  

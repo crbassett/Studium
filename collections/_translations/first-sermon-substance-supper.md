@@ -3,7 +3,7 @@ title: The First Sermon – On the Substance of the Supper
 author: brenz
 translator: hussman
 language: Latin
-issue: 16
+issue: i16
 date: 2011-03-05 
 brief: One of three Maundy Thursday sermons preached by Johannes Brenz.
 ---

@@ -3,7 +3,7 @@ title: The Sacraments
 author: mentzer
 translator: strucely
 language: German
-issue: 18
+issue: i18
 date: 2011-05-13
 brief: A systematic theology on the sacraments.
 ---

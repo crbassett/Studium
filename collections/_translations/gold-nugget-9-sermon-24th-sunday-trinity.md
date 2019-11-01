@@ -3,7 +3,7 @@ title: Gold Nugget No. 9 – Sermon on the 24th Sunday after Trinity
 author: walther
 translator: jensen
 language: German
-issue: 13
+issue: i13
 date: 2010-09-28
 brief: An 1844 sermon encourages believers to come to Jesus.
 ---

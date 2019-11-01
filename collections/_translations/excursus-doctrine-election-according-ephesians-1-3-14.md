@@ -3,7 +3,7 @@ title: Excursus on the Doctrine of Election According to Ephesians 1:3-14
 author: stoeckhardt
 translator: bassett
 language: German
-issue: 12
+issue: i12
 brief: Stoeckhardt summarizes the biblical doctrine of election
 ---
 

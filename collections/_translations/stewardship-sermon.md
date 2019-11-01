@@ -3,7 +3,7 @@ title: Stewardship Sermon
 author: hoenecke
 translator: chartrand
 language: German
-issue: 14
+issue: i14
 date: 2010-11-11
 brief: An 1890 sermon on the topic of stewardship.
 ---

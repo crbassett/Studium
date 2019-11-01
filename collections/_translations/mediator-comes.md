@@ -3,7 +3,7 @@ title: Your Mediator Comes
 author: rambach
 translator: jensen
 language: German
-issue: 15
+issue: i15
 date: 2011-01-27
 brief: A joyful Christmas hymn on Christ as mediator.
 ---

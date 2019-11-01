@@ -3,7 +3,7 @@ title: The Second Sermon – On the Use of the Lord’s Supper
 author: brenz
 translator: hussman
 language: Latin
-issue: 17
+issue: i17
 date: 2011-04-19 
 brief: One of three Maundy Thursday sermons preached by Johannes Brenz.
 ---

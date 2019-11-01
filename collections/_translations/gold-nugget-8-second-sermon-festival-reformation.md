@@ -3,7 +3,7 @@ title: Gold Nugget No. 8 – Second Sermon on the Festival of Reformation
 author: walther
 translator: jensen
 language: German
-issue: 14
+issue: i14
 date: 2010-11-11
 brief: In this Reformation sermon Walther celebrates the great freedoms which the gospel brings.
 ---

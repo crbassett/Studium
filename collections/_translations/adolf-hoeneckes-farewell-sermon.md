@@ -3,7 +3,7 @@ title: Adolf Hoenecke’s Farewell Sermon
 author: hoenecke
 translator: metzger
 language: German
-issue: 11
+issue: i11
 date: 2008-12-24
 brief: A sermonic farewell to St. Matthew’s Lutheran Church in Milwaukee, WI.
 ---

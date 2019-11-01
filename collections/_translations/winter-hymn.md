@@ -3,7 +3,7 @@ title: Winter Hymn
 author: neander
 translator: jensen
 language: German
-issue: 16
+issue: i16
 date: 2011-03-05
 brief: A winter hymn still sung by the Amish community.
 ---

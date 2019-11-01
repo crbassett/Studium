@@ -3,7 +3,7 @@ title: The Restoration and Resurrection of the Dead (Part II)
 author: hollaz
 translator: lahmann
 language: Latin
-issue: 7
+issue: i7
 date: 2006-08-04
 brief: David Hollaz uses a question-and-answer format to cover the doctrine of the restoration and resurrection of the dead.
 ---

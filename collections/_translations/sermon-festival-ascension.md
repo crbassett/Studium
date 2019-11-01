@@ -3,7 +3,7 @@ title: Sermon for the Festival of Ascension
 author: hoenecke
 translator: reichel
 language: German
-issue: 18
+issue: i18
 date: 2011-05-13
 brief: Hoenecke preaches on the joy and comfort of the Ascension of Jesus Christ.
 ---

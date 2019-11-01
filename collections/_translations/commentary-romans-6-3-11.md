@@ -3,7 +3,7 @@ title: Commentary on Romans 6:3-11
 author: stoeckhardt
 translator: biebert
 language: German
-issue: 3
+issue: i3
 date: 2006-08-04
 brief: Commentary on the saving means of grace.
 ---

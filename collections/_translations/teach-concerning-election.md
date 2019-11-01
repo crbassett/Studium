@@ -3,7 +3,7 @@ title: What We Teach Concerning Election
 author: apieper
 translator: koepke
 language: German
-issue: 9
+issue: i9
 date: 2006-11-16
 brief: The faculty of Wisconsin Lutheran Seminary articulates a position on the doctrine of election.
 ---

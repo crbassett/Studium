@@ -3,7 +3,7 @@ title: Gold Nugget No. 1 – Sermon for Christmas Day
 author: walther
 translator: jensen
 language: German
-issue: 15
+issue: i15
 date: 2011-01-27 
 brief: Walther encourages his hearers to persist in their childlike faith.
 ---

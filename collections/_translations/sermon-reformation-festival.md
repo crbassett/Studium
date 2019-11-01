@@ -3,7 +3,7 @@ title: Sermon for the Reformation Festival
 author: stoeckhardt
 translator: biebert
 language: German
-issue: 2
+issue: i2
 date: 2006-08-02
 brief: Stoeckhardt warns us against falling into the greed of the papists, which led them to reject salvation by grace.
 ---

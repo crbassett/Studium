@@ -3,7 +3,7 @@ title: Gold Nugget No. 10 – Sermon on the 25th Sunday after Trinity
 author: walther
 translator: jensen
 language: German
-issue: 13
+issue: i13
 date: 2010-09-28
 brief: This 1844 sermon offers Christians comfort during trials.
 ---

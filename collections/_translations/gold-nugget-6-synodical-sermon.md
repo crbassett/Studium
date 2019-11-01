@@ -3,7 +3,7 @@ title: Gold Nugget No. 6 – Synodical Sermon
 author: walther
 translator: jensen
 language: German
-issue: 17
+issue: i17
 date: 2011-04-19
 brief: Weather reminds his hearers what the spirit of the Church really is.
 ---

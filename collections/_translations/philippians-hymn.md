@@ -3,7 +3,7 @@ title: Philippians Hymn
 author: olearius
 translator: jensen
 language: German
-issue: 16
+issue: i16
 date: 2011-03-05
 brief: A hymn based on Philippians 2:5–11.
 ---

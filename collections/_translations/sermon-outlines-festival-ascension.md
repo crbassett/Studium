@@ -3,7 +3,7 @@ title: Sermon Outlines for the Festival of Ascension
 author: hoenecke
 translator: foxen
 language: German
-issue: 18
+issue: i18
 date: 2011-05-13
 brief: Homiletical helps from Adolf Hoenecke.
 ---

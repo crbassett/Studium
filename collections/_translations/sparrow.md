@@ -3,7 +3,7 @@ title: As Does the Sparrow
 author: selnecker
 translator: jensen
 language: German
-issue: 12
+issue: i12
 date: 2010-03-02
 brief: A hymn to focus on the importance of connection to God.
 ---

@@ -3,7 +3,7 @@ title: I Know My Name in Heav’n Is Written
 author: franck
 translator: jensen
 language: German
-issue: 14
+issue: i14
 date: 2010-11-10
 brief: A hymn on the eternal joy of election.
 ---

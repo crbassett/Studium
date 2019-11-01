@@ -3,7 +3,7 @@ title: Disputation about the Creation of Man in the Image of God and the Horribl
 author: andreae
 translator: jensen
 language: Latin
-issue: 14
+issue: i14
 date: 2010-11-11
 brief: A correct understanding of the image of God and of original sin.
 ---

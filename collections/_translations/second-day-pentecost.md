@@ -3,7 +3,7 @@ title: On the Second Day of Pentecost
 author: stoeckhardt
 translator: foxen
 language: German
-issue: 4
+issue: i4
 date: 2006-08-04
 brief: A sermon that connects salvation to the Spirit.
 ---

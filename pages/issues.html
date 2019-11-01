@@ -1,0 +1,26 @@
+---
+title: Issues
+layout: page
+navigation: primary
+---
+
+<h1>Issues</h1>
+
+<p>From its early, print-only days, Studium has published translations as numbered Issues. The practice continues on the web journal. However, you can also browse translations by author, contributor, or title.</p>
+
+<div class="row">
+{% assign issues = site.issues | sort: 'date' | reverse %}
+{% for node in issues %}
+<div class="col col-12 col-sm-6 col-md-4">
+			<div class="card shadow-sm bg-gray mb-4 py-5">
+      			<div class="card-body">
+      				<div class="text-center sc"><small>{{ node.date | date: "%B %Y" }}</small></div>
+        			<h1 class="card-title text-center sc">{{ node.title }}</h1>
+        			{% assign translation = site.translations | where: 'issue', node.issue %}
+			        <div class="text-center"><a href="{{ node.url }}" class="btn btn-outline-secondary btn-sm stretched-link">Browse {{ translation.size }} Translations</a></div>
+      			</div>
+			</div>
+</div>
+{% endfor %}
+</div>
+

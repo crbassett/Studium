@@ -38,6 +38,9 @@ collections:
   bios:
     output: true
     permalink: /author/:name
+  issues:
+    output: true
+    permalink: /issue/:name
     
 # Defaults
 
@@ -62,6 +65,11 @@ defaults:
       type: "contributors"
     values:
       layout: "contributor"
+  - scope:
+      path: ""
+      type: "issues"
+    values:
+      layout: "issue"
   - scope:
       path: ""
     values:

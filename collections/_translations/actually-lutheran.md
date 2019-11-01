@@ -3,7 +3,7 @@ title: So What Actually Is a Lutheran?
 author: moldehnke
 translator: biebert
 language: German
-issue: 12
+issue: i12
 date: 2010-03-02
 brief: An articulation of what Lutheranism is and is not.
 ---

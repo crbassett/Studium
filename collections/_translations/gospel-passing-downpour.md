@@ -3,7 +3,7 @@ title: The Gospel as a Passing Downpour
 author: apieper
 translator: biebert
 language: German
-issue: 7
+issue: i7
 date: 2006-08-04
 brief: In one his final publications, August Pieper urges readers to consider Luther’s famous words of warning.
 ---

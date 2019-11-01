@@ -3,7 +3,7 @@ title: The War as a Visitation of God
 author: apieper
 translator: foxen
 language: German
-issue: 6
+issue: i6
 date: 2006-08-04
 brief: 
 ---

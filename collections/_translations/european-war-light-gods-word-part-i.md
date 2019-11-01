@@ -3,7 +3,7 @@ title: The European War in the Light of God's Word (Part I)
 author: apieper
 translator: bassett
 language: German
-issue: 6
+issue: i6
 date: 2006-08-04
 brief: A German Lutheran grapples with the outbreak of World War I.
 ---

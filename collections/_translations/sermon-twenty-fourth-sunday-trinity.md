@@ -3,7 +3,7 @@ title: Sermon for the Twenty-fourth Sunday after Trinity
 author: manthey-zorn
 translator: biebert
 language: German
-issue: 5
+issue: i5
 date: 2006-08-04
 brief: A sermon on Matthew 9:18–26
 ---

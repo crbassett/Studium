@@ -3,7 +3,7 @@ title: Commentary on Genesis 3:15
 author: luther
 translator: derme
 language: German
-issue: 6
+issue: i6
 date: 2006-08-04
 brief: Luther offers commentary and interpretation of the first gospel promise.
 ---

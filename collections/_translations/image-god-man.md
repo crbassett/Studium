@@ -3,7 +3,7 @@ title: On the Image of God in Man
 author: hafenreffer
 translator: hussman
 language: Latin
-issue: 15
+issue: i15
 date: 2011-01-27
 brief: A systematic text on anthropology.
 ---

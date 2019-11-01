@@ -3,7 +3,7 @@ title: First Sermon on the Passion
 author: brenz
 translator: voss
 language: German
-issue: 17
+issue: i17
 date: 2011-04-19 
 brief: Brenz preaches on a harmony of the passion history.
 ---

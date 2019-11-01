@@ -3,7 +3,7 @@ title: Defense of Brenz
 author: anonymous
 translator: moldenhauer
 language: Latin
-issue: 11
+issue: i11
 date: 2008-12-24
 brief: An anonymous defense of Johannes Brenz’s exegesis of the sacramental text in John.
 ---

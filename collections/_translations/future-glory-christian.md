@@ -3,7 +3,7 @@ title: The Future Glory of the Christian
 author: siegler
 translator: bassett
 language: German
-issue: 5
+issue: i5
 date: 2006-08-04
 brief: 
 ---

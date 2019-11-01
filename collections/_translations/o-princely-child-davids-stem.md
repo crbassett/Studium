@@ -3,7 +3,7 @@ title: O Princely Child from David’s Stem
 author: vonzesen
 translator: jensen
 language: German
-issue: 11
+issue: i11
 date: 2008-12-24 
 brief: A hymn on the joy of Christ’s coming at Christmas.
 ---

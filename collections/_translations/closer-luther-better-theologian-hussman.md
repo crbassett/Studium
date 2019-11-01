@@ -3,7 +3,7 @@ title: The Closer to Luther the Better the Theologian
 author: apieper
 translator: hussman
 language: German
-issue: 14
+issue: i14
 date: 2010-12-01 
 brief: A very short summary of the work
 ---

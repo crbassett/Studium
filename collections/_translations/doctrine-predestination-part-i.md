@@ -3,7 +3,7 @@ title: Doctrine of Predestination (Part I)
 author: selnecker
 translator: souk
 language: Latin
-issue: 3
+issue: i3
 date: 2006-08-04
 brief: Nikolaus Selnecker provides a thorough systematic treatment of the Christian doctrine of predestination.
 ---

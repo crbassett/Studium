@@ -3,7 +3,7 @@ title: A Word to Our Readers
 author: anonymous
 translator: biebert
 language: German
-issue: 8
+issue: i8
 date: 2006-08-04
 brief: The author stresses the importance of standing firm in the Bible’s teaching out of love for both God and his people.
 ---

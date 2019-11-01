@@ -3,7 +3,7 @@ title: C.F.W. Walther as a Theologian
 author: fpieper
 translator: bassett
 language: German
-issue: 8
+issue: i8
 date: 2006-08-04
 brief: A look at the life of Walther is more of a look at the doctrine of justification.
 ---

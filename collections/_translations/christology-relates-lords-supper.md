@@ -3,7 +3,7 @@ title: Christology as It Relates to the Lord's Supper
 author: brenz
 translator: jensen
 language: Latin
-issue: 15
+issue: ii15
 date: 2011-01-27 
 brief: Brenz defends his teaching on the doctrine of the Lord’s Supper.
 ---

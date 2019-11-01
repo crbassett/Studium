@@ -3,7 +3,7 @@ title: Oh, How Holy is This Place!
 author: schmolck
 translator: jensen
 language: German
-issue: 13
+issue: i13
 date: 2010-09-28
 brief: A hymn to praise God for revealing himself in the Word.
 ---

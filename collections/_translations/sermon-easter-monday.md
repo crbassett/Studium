@@ -3,7 +3,7 @@ title: Sermon for Easter Monday
 author: hoenecke
 translator: ewings
 language: German
-issue: 18
+issue: i18
 date: 2011-05-13 
 brief: Hoenecke narrates the amazing contrast between the start and finish of the Emmaus journey.
 ---

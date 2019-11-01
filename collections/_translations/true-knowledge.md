@@ -3,7 +3,7 @@ title: True Knowledge
 author: apieper
 translator: bassett
 language: German
-issue: 2
+issue: i2
 date: 2006-08-04
 brief: A theological reflection on the relationship between science and revelation.
 ---

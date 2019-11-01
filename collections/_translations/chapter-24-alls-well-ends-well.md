@@ -3,7 +3,7 @@ title: Chapter 24 – All’s Well That Ends Well
 author: manthey-zorn
 translator: jensen
 language: German
-issue: 16
+issue: ii16
 date: 2011-03-05
 brief: Reflections on missionary work in India.
 ---

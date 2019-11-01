@@ -3,7 +3,7 @@ title: Sermon for Good Shepherd Sunday
 author: brenz
 translator: hussman
 language: German
-issue: 18
+issue: i18
 date: 2011-05-13 
 brief: Brenz explains what Christ means when he calls himself the Good Shepherd.
 ---

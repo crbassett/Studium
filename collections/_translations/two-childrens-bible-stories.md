@@ -3,7 +3,7 @@ title: Two Children’s Bible Stories
 author: manthey-zorn
 translator: biebert
 language: German
-issue: 10
+issue: i10
 date: 2008-04-15
 brief: Two Bible stories provide an excellent model for teaching the Old Testament to little children.
 ---

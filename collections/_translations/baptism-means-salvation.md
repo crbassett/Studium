@@ -3,7 +3,7 @@ title: Baptism and the Means of Salvation
 author: hollaz
 translator: biebert
 language: latin
-issue: 12
+issue: i12
 date: 2010-03-03
 brief: Hollaz address the topic of baptism as a conferring means of salvation.
 ---

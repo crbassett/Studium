@@ -3,7 +3,7 @@ title: Now Everything Is Good And Sweet
 author: laurenti
 translator: jensen
 language: German
-issue: 17
+issue: i17
 date: 2011-04-19
 brief: A composite translation of a Lenten hymn.
 ---

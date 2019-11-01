@@ -3,7 +3,7 @@ title: Second Sermon on the Passion
 author: brenz
 translator: haag
 language: Latin
-issue: 17
+issue: i17
 date: 2011-04-19 
 brief: Brenz preaches on a harmony of the passion history.
 ---

@@ -3,7 +3,7 @@ title: Sermon for Christmas Day
 author: stoeckhardt
 translator: biebert
 language: German
-issue: 6
+issue: i6
 brief: Georg Stoeckhardt thoroughly treats the blessings that God has given us through the birth of his Son.
 ---
 

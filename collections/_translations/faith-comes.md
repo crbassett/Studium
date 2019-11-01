@@ -3,7 +3,7 @@ title: Where Faith Comes From
 author: brenz
 translator: behnken
 language: German
-issue: 9
+issue: i9
 date: 2006-11-16
 brief: Johannes Brenz, an early reformer, preaches a sermon answering the question, “Where does faith come from?”
 ---

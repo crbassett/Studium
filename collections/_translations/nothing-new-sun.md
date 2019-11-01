@@ -3,7 +3,7 @@ title: There is Nothing New Under the Sun
 author: walther
 translator: souk
 language: German
-issue: 1
+issue: i1
 date: 2006-07-31
 brief: The Election Controversy in 19th century Lutheranism was not the first controversy over the doctrine of election.
 ---

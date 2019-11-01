@@ -3,7 +3,7 @@ title: Gold Nuggets – Foreword
 author: willkomm
 translator: jensen
 language: German
-issue: 13
+issue: i13
 date: 2010-09-28
 brief: The introduction to a short collection of ten sermons by C.F.W. Walther.
 ---

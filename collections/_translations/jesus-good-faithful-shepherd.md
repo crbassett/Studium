@@ -3,7 +3,7 @@ title: Jesus, Good and Faithful Shepherd
 author: vonbirken
 translator: jensen
 language: German
-issue: 18
+issue: i18
 date: 2011-05-13
 brief: A hymn to Jesus as Good Shepherd.
 ---

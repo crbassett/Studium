@@ -3,7 +3,7 @@ title: Gold Nugget No. 3 – Confirmation Address
 author: walther
 translator: jensen
 language: German
-issue: 18
+issue: i18
 date: 2011-05-13 
 brief: Walther reminds confirmands to remain faithful until the end.
 ---

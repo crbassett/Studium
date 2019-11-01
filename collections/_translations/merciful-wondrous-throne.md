@@ -3,7 +3,7 @@ title: Merciful and Wondrous Throne
 author: olearius
 translator: jensen
 language: German
-issue: 11
+issue: i11
 date: 2008-12-24
 brief: A Christmas hymn that lauds the incarnation.
 ---

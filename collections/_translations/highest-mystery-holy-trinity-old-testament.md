@@ -3,7 +3,7 @@ title: The Highest Mystery of the Most Holy Trinity in the Old Testament
 author: hollaz
 translator: biebert
 language: Latin
-issue: 10
+issue: i10
 date: 2008-04-15
 brief: David Hollaz demonstrates that the Old Testament clearly testifies to the Trinity of divine persons.
 ---

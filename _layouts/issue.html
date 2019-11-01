@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div class="container">
+	<div class="row py-3 my-3">
+		<div class="col col-lg-10 mx-auto">
+		
+		<nav aria-label="breadcrumb">
+		<ol class="breadcrumb px-3 py-1 sc">
+		<li class="breadcrumb-item"><a href="/">Home</a></li>
+		<li class="breadcrumb-item"><a href="{{ site.baseurl }}pages/issues.html">Issues</a></li>
+		<li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+		</ol>
+		</nav>
+		
+		<h1>{{ page.title }}</h1>
+		<h5 class="text-muted sc">{{ page.date | date: "%B %Y" }}</h5>
+		{{ content }}
+		</div>
+	</div>
+	<div class="row">
+		<div class="col col-lg-10 mx-auto">
+			{% assign translations = site.translations | where: 'issue', page.issue %}
+			<div class="list-group-flush">
+			{% for node in translations %}
+				<div class="list-group-item list-group-item-action">
+				<p><strong>{{ node.title }}</strong></p>
+				{% assign authors = site.authors | where: 'shortname', node.author %}
+				{% for author in authors %}
+				<span class="sc">by {{ author.firstname }} {{ author.lastname }}</span>
+				{% assign contributors = site.contributors | where: 'shortname', node.translator %}
+				{% for contributor in contributors %}
+				<br><small class="text-muted sc">translated by {{ contributor.firstname }} {{ contributor.lastname }}</small>
+				<p>{{ node.brief }}</p>
+				{% endfor %}
+				{% endfor %}
+				</div>
+			{% endfor %}
+			</div>
+		</div>
+	</div>
+</div>
+

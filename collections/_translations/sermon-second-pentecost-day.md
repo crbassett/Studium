@@ -3,7 +3,7 @@ title: Sermon On the Second Pentecost Day
 author: hoenecke
 translator: derme
 language: German
-issue: 4
+issue: i4
 date: 2006-08-04
 brief: A sermon on John 3:16-21.
 ---

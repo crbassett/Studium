@@ -3,7 +3,7 @@ title: The Fear of God’s Word
 author: Pieper
 translator: hussman
 language: German
-issue: 17
+issue: i17
 date: 2011-04-19
 brief: What it means to “fear God’s Word.”
 ---

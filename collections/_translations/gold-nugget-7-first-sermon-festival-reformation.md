@@ -3,7 +3,7 @@ title: Gold Nugget No. 7 – First Sermon on the Festival of Reformation
 author: walther
 translator: jensen
 language: German
-issue: 14
+issue: i14
 date: 2010-11-11
 brief: Walther reminds heirs of the Reformation what they have inherited.
 ---

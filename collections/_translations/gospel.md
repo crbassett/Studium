@@ -3,7 +3,7 @@ title: The Gospel
 author: manthey-zorn
 translator: biebert
 language: German
-issue: 4
+issue: i4
 date: 2006-08-04
 brief: A Lutheran pastor and missionary reflects on the meaning of the gospel.
 ---

@@ -3,7 +3,7 @@ title: Gold Nugget No. 2 – Sermon on the 4th Sunday after Epiphany
 author: walther
 translator: jensen
 language: German
-issue: 16
+issue: i16
 date: 2011-03-05 
 brief: A sermon with valuable insight into the history of the continually migrating church.
 ---

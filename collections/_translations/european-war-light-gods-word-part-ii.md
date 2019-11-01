@@ -3,7 +3,7 @@ title: The European War in the Light of God's Word (Part II)
 author: apieper
 translator: bassett
 language: German
-issue: 7
+issue: i7
 date: 2006-08-04
 brief: August Pieper points to a Christian outlook during the time of war.
 ---

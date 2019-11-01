@@ -1,9 +1,9 @@
 ---
 title: The Third Sermon – On the Preparation for Receiving the Lord’s Supper
 author: brenz
-translator: Latin
-language: Hussman
-issue: 18
+translator: hussman
+language: Latin
+issue: i18
 date: 2011-05-13
 brief: One of three Maundy Thursday sermons preached by Johannes Brenz.
 ---

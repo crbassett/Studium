@@ -3,7 +3,7 @@ title: Commentary on Romans 11:33-36
 author: stoeckhardt
 translator: biebert
 language: German
-issue: 10
+issue: i10
 date: 2008-04-15
 brief: Stoeckhardt expertly guides the reader through the question, Why some and not others?
 ---
