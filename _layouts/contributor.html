@@ -4,10 +4,22 @@ layout: default
 
 <div class="container">
 
-	<div class="row my-3 py-3">
+	<div class="row py-3 my-3">
+		<div class="col col-md-7 ml-auto">
+		
+			<!-- Page title, e.g. "Issue 10" -->
+			<h1>{{ page.firstname }} {{ page.lastname }}</h1>
+			
+		</div><!-- /col -->
+		<div class="col col-md-3 mr-auto text-right">
+			
+			<!-- Button to go back to the Contributor's page -->
+			<a href="{% link pages/contributors.html %}" class="btn btn-sm btn-light"><small><i class="fas fa-arrow-left "></i></small> Browse Contributors</a>
+
+		</div><!-- /col -->
+
 		<div class="col col-lg-10 mx-auto">
 			
-			<h1>{{ page.firstname }} {{ page.lastname}}</h1>
 			<div class="lead">{{ content }} <!-- in this case the translator's short bio, if available --></div>
 
 			<h2 class="sc border-bottom pb-3 mb-3"><small><i class="fas fa-pen-nib text-secondary"></i></small> From This Contributor</h2>
@@ -20,11 +32,8 @@ layout: default
 							{% assign authors = site.authors | where: 'shortname', node.author %}
 							{% for author in authors %}
 							<br><strong class="sc">by {{ author.firstname }} {{ author.lastname }}</strong>
-							{% assign translators = site.contributors | where: 'shortname', node.translator %}
-							{% for translator in translators %}
 							<br>{{ node.brief }}
 							{% endfor %}<!-- endfor author in authors -->	
-							{% endfor %}<!-- endfor translator in translators -->
 						</div><!-- /col -->
 				{% endfor %}<!-- endfor node in translations -->
 			</div><!-- /row -->
