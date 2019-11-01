@@ -4,6 +4,7 @@ layout: default
 
 <div class="container">
 	<div class="row py-3 my-3">
+		
 		<div class="col col-lg-10 mx-auto">	
 			<h1>{{ page.firstname }}&nbsp;{{ page.lastname }}&ensp;<span class="text-muted">{% if page.born %}{{ page.born}}–{% endif %}{{ page.died }}</span></h1>
 			<div class="lead">{{ content }}</div> <!-- in this case the author's short bio -->
@@ -11,23 +12,26 @@ layout: default
 			{% for node in bios %}
 			<p><a class="btn btn-lg btn-primary" href="{{ node.url }}">Biography</a></p>
 			{% endfor %}
-		</div>
-	</div>
 
-	{% assign filtered_translations = site.translations | where: 'author', page.shortname %}
-	<div class="row my-5">
-		<div class="col col-lg-10 mx-auto">
-			<div class="card-columns">
-				{% for node in filtered_translations %}
-				<div class="card">
-					<div class="card-body">
-				        <h3 class="card-title">{{ node.title }}</h3>
-				        <p class="card-text">{{ node.brief }}</p>
-				        <a href="{{ node.url }}" class="btn btn-outline-primary stretched-link">Read</a>
-					</div>
-				</div>
-				{% endfor %}
-			</div>
-		</div>
-	</div>
-</div>
+<h2 class="sc border-bottom pb-3 mb-3 mt-5"><small><i class="fas fa-pen-nib text-secondary"></i></small> From This Contributor</h2>
+	
+	<div class="row">
+		
+				{% assign translations = site.translations | where: 'author', page.shortname %}
+				{% for node in translations %}
+				<div class="col-12 col-md-6 col-lg-4 mb-5 border-left">
+							<strong style="font-size: 1.1em; line-height: 1em;"><a href="{{ node.url }}">{{ node.title }}</a></strong>
+							{% assign authors = site.authors | where: 'shortname', node.author %}
+							{% for author in authors %}
+							<br><strong class="sc">by {{ author.firstname }} {{ author.lastname }}</strong>
+							{% assign translators = site.contributors | where: 'shortname', node.translator %}
+							{% for translator in translators %}
+							<br>{{ node.brief }}
+							{% endfor %}<!-- endfor author in authors -->	
+							{% endfor %}<!-- endfor translator in translators -->
+				</div><!-- /col -->
+				{% endfor %}<!-- endfor node in translations -->
+	</div><!-- /row -->
+
+	</div><!-- /row -->
+</div><!-- /container -->

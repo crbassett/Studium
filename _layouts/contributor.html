@@ -16,7 +16,7 @@ layout: default
 				{% assign translations = site.translations | where: 'translator', page.shortname %}
 				{% for node in translations %}
 				<div class="col-12 col-md-6 col-lg-4 mb-5 border-left">
-							<strong style="font-size: 1.1em; line-height: 1em;"><a href="{{ node.url }}" class="text-secondary">{{ node.title }}</a></strong>
+							<strong style="font-size: 1.1em; line-height: 1em;"><a href="{{ node.url }}">{{ node.title }}</a></strong>
 							{% assign authors = site.authors | where: 'shortname', node.author %}
 							{% for author in authors %}
 							<br><strong class="sc">by {{ author.firstname }} {{ author.lastname }}</strong>
