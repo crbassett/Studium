@@ -1,0 +1,19 @@
+I")<h1 id="roadmap">Roadmap</h1>
+
+<h2 id="studium-30--the-relaunch-edition">Studium 3.0 — The Relaunch Edition</h2>
+
+<p>The current iteration of the website is the third major change to the web platform of Studium since the original development of the website in 2006.</p>
+
+<ul>
+  <li>Migrate all content and structure from <a href="drupal.org">Drupal</a> content management system to <a href="jekyllrb.com">Jekyll</a> static site generator</li>
+  <li>Design all-new layout and navigation</li>
+  <li>Clean up and reformat all source HTML files to MultiMarkdown</li>
+  <li>Streamline deployment with AWS Amplify via GitHub</li>
+</ul>
+
+<h2 id="studium-31--the-scholarly-tools-edition">Studium 3.1 – The Scholarly Tools Edition</h2>
+
+<h2 id="studium-32-">Studium 3.2 –</h2>
+
+<h2 id="changelog">Changelog</h2>
+:ET
