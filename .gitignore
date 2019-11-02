@@ -1,3 +1,8 @@
+# Jekyll
+.jekyll-cache
+
+# macOS
+
 # General
 .DS_Store
 .AppleDouble
