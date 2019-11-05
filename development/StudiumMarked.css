@@ -15,6 +15,7 @@ body {
     -webkit-font-smoothing: antialiased;
     font: normal .8764em/1.5em "Alegreya Sans",sans-serif;
     margin: 0;
+    border-top: 30px solid #F7F5F1;
 }
 
 html>body {
@@ -258,6 +259,13 @@ p,h5 {
 
 dt,th {
     font-weight: 700;
+}
+
+hr {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	border: 0;
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 table tr:nth-child(odd),table th:nth-child(odd),table td:nth-child(odd) {
