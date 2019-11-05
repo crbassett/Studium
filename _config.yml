@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Studium
 email: caleb.bassett@gmail.com
-tagline: A journal of confessional language studies
+tagline: The journal of confessional language studies at Martin Luther College.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 

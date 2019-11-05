@@ -8,6 +8,8 @@ date: 2006-08-04
 brief: A look at the life of Walther is more of a look at the doctrine of justification.
 ---
 
+## Translator’s Preface
+
 Although this translation is from a series dedicated to recounting the life and theology of C.F.W. Walther, its main topic is the doctrine of justification. It is a testament to the grace of God In Walther’s life that those who write about him after his death have such an abundance of material about his faithful proclamation of the Gospel. The author of this biography, Franz Pieper, outlines for us Walther’s proclamation of the utter importance of the doctrine of justification. It goes without saying that such a topic is of great interest to us today. As Lutherans have said for centuries, the doctrine of justification is truly the doctrine with which the church either stands or falls. 
 
 As you read this article, please note the tremendous, objective comfort that is found in this doctrine. Note the role it plays in the life of the church and congregation. Note its importance to our salvation.

@@ -7,6 +7,10 @@
 <title>
   {% if page.title == "Home" %}
     {{ site.title }} &middot; {{ site.tagline }}
+  {% elsif page.layout == "contributor" %}
+    {{ page.firstname }} {{ page.lastname }} &middot; {{ site.title }}
+  {% elsif page.layout == "author" %}
+    {{ page.firstname }} {{ page.lastname }} &middot; {{ site.title }}	
   {% else %}
     {{ page.title }} &middot; {{ site.title }}
   {% endif %}
