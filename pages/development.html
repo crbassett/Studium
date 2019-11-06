@@ -53,3 +53,25 @@ navigation: secondary
 	{% endfor %}
   </tbody>
 </table>
+
+<h2><code>urls</code></h2>
+
+<p>The <code>urls</code> list shows all content items and their associated URLs.
+
+<table class="table table-sm table-hover">
+  <thead>
+    <tr>
+      <th scope="col">Title <code>shortname</code></th>
+      <th scope="col">URL <code>firstname</code></th>
+	</tr>
+  </thead>
+  <tbody>
+	{% for item in site.translations %}
+    <tr>
+      <td><code>{{ item.title }}</code></td>
+      <td>https://studiumjournal.com{{ item.url }}</td>
+    </tr>
+	{% endfor %}
+  </tbody>
+</table>
+
