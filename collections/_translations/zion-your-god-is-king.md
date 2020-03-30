@@ -27,7 +27,7 @@ The book of this prophet is a very skillfully interconnected whole Therefore we 
 Therefore you are and remain
 
 1. A free
-2. 2. And a holy people.
+2. And a holy people.
 
 “How beautiful on the mountains are the feet of those who bring good news, who proclaim peace, who bring good tidings, who proclaim salvation, who say to Zion, “Your God reigns!”
 
