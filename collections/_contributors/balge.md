@@ -1,6 +1,6 @@
 ---
 shortname: balge
-firstname: Philip
+firstname: Phillip
 lastname: Balge
 founder: false
 editor: false
