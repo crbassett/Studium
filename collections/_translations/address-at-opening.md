@@ -1,13 +1,12 @@
-—
-title: Address at the Opening of the Theological Seminary in Wauwatosa, Wis.,
-on September 5, 1928.
+---
+title: Address at the Opening of the Theological Seminary in Wauwatosa, Wis., on September 5, 1928.
 author: koehler
 translator: balge
 language: German
 issue: i21
 date: 2020-03-30
-brief: The opening address for the final seminary year in Wauwatosa, Wisconsin.
-—
+brief: The opening address for Wisconsin Lutheran Seminary’s final year in Wauwatosa, Wisconsin.
+---
 
 ## Preface
 
@@ -24,9 +23,6 @@ of the new seminary building. The original text was published in the
 *Theologische Quartalschrift*, volume 25, number 4.
 
 ---
-
-Address at the opening of the Theological Seminary in Wauwatosa, Wis.,
-on September 5, 1928.
 
 This year our seminary is under the banner of new construction. Several
 weeks ago, we laid the cornerstone of the new building. In the course of
