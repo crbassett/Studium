@@ -1,7 +1,7 @@
 ---
 title:  Zion, your God is King! 
-author: anonymous
-translator: anonymous
+author: huchthausen
+translator: koelpin
 language: German
 issue: i21
 date: 2020-03-30
